@@ -4,67 +4,67 @@
       "Bonus": "AgileMotiveQuirk",
       "Short": "Agile",
       "Long": "Agile Movement",
-      "Full": "This vehicle has no minimum and maximum movement restrictions."
+      "Full": "This vehicle has no minimum and maximum movement restrictions"
     },
     {
       "Bonus": "WingMountAccQuirk",
-      "Short": "{0} Wing Acc.",
-      "Long": "{0} Wing Hardpoint Acc.",
-      "Full": "{0} to Wing Mounted weapons accuracy."
+      "Short": "{0} Wing ACC",
+      "Long": "{0} Wing Hardpoint ACC",
+      "Full": "{0} to wing-mounted weapons accuracy"
     },
     {
       "Bonus": "BombBayAccQuirk",
-      "Short": "{0} Bay Acc.",
-      "Long": "{0} Bay Hardpoint Acc.",
-      "Full": "{0} to Bay Weapons accuracy."
+      "Short": "{0} Bay ACC",
+      "Long": "{0} Bay Hardpoint ACC",
+      "Full": "{0} to bay weapons accuracy"
     },
     {
       "Bonus": "OffRoader",
       "Short": "Off Road",
       "Long": "Off Road",
-      "Full": "Off Road vehicle traverses difficult terrain easily."
+      "Full": "Off-road vehicles traverse difficult terrain easily"
     },
     {
       "Bonus": "CruiseSpeed",
       "Short": "{0} Cruise",
       "Long": "{0} Cruise Distance",
-      "Full": "{0} Cruise, normal speed distance."
+      "Full": "{0} Cruise, normal speed distance"
     },
     {
       "Bonus": "FlankSpeed",
       "Short": "{0} Flank",
       "Long": "{0} Flank Distance",
-      "Full": "{0} full speed distance."
+      "Full": "{0} full speed distance"
     },
     {
       "Bonus": "TrackedMotive",
       "Short": "Tracks",
       "Long": "Tracks",
-      "Full": "Tracks let you crawl up and over pretty much anything, just don't expect speed."
+      "Full": "Tracks let you crawl up and over pretty much anything, just don't expect speed"
     },
     {
       "Bonus": "WheeledMotive",
       "Short": "Wheels",
       "Long": "Wheels",
-      "Full": "Wheels are efficient and speedy. Bonus movement on roads, slowed in rough terrain."
+      "Full": "Wheels are efficient and speedy. Bonus movement on roads, slowed in rough terrain"
     },
     {
       "Bonus": "HoverMotive",
       "Short": "Hover",
       "Long": "Hover",
-      "Full": "Hover: King of open terrain and water but impeded by forests and rough terrain. Has trouble climbing steep hills."
+      "Full": "Hover is great in open terrain and water, but impeded by forests and rough terrain. Has trouble climbing steep hills"
     },
     {
       "Bonus": "VTOLMotive",
       "Short": "VTOL",
       "Long": "VTOL",
-      "Full": "VTOL: Flies over all terrain, ignores fire, landmines and most other terrain effects. Speed loss in low pressure atmosphere."
+      "Full": "VTOL flies over all terrain ignoring fire, landmines and most other terrain effects. Speed loss in low pressure atmosphere"
     },
     {
       "Bonus": "BlimpMotive",
       "Short": "Zeppelin",
       "Long": "Zeppelin",
-      "Full": "AirShips are very slow but heavily armed Aerial Units."
+      "Full": "AirShips are very slow but heavily armed aerial units"
     },
     {
       "Bonus": "RotorDurability",
@@ -74,51 +74,51 @@
     },
     {
       "Bonus": "ArmoredMotive",
-      "Short": "Armored M.",
+      "Short": "Armored M",
       "Long": "Armored Motive",
-      "Full": "Armored Motive systems require additional critical hits to destroy."
+      "Full": "Armored Motive Systems require additional critical hits to destroy"
     },
     {
       "Bonus": "MotiveSystemCrit",
       "Short": "Motive",
       "Long": "Motive System",
-      "Full": "Critical Hits to this system will slow or immobilize this unit."
+      "Full": "Critical hits to this system will slow or immobilize this unit"
     },
     {
       "Bonus": "CrewCompartmentCrit",
       "Short": "Crew",
       "Long": "Crew",
-      "Full": "Critical hits on the Crew decrease maximum Evasive Pips or destroy the vehicle."
+      "Full": "Critical hits on the crew decrease maximum Evasive Pips or destroy the vehicle"
     },
     {
       "Bonus": "TankTurretCrit",
       "Short": "Turret",
       "Long": "Turret",
-      "Full": "Critical hits to the Turret system reduce Accuracy and increase Recoil."
+      "Full": "Critical hits to the turret system reduce accuracy and increase recoil"
     },
     {
       "Bonus": "TankCoolantCrit",
       "Short": "Coolant",
       "Long": "Coolant",
-      "Full": "Critical hits to the Coolant system will decrease Energy weapon damage output."
+      "Full": "Critical hits to the coolant system will decrease energy weapon damage output"
     },
     {
       "Bonus": "OpenCargoAreaBA",
       "Short": "BA Mount",
       "Long": "BA Mount",
-      "Full": "Vehicles with open cargo space can be externally mounted by Battle Armors."
+      "Full": "Vehicles with open cargo space can be externally mounted by Battle Armors"
     },
     {
       "Bonus": "BACarrier",
       "Short": "Carry {0} BA",
       "Long": "Carry {0} BA",
-      "Full": "Infantry Compartment can hold up to {0} Battle Armor Squads."
+      "Full": "Infantry Compartment can hold up to {0} Battle Armor squads"
     },
     {
       "Bonus": "HasFiringPorts",
       "Short": "Firing Ports",
       "Long": "Firing Ports",
-      "Full": "Carried Battle Armors can fire their weapons from inside this vehicle with -4 Accuracy."
+      "Full": "Carried Battle Armors can fire their weapons from inside this vehicle with -4 accuracy"
     }
   ]
 }

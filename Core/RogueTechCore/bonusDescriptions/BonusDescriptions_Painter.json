@@ -4,85 +4,85 @@
       "Bonus": "TAG",
       "Short": "TAG",
       "Long": "Target Acquisition Gear",
-      "Full": "All target effects have a duration of {0}. Each hex moved by the target removes one from the duration."
+      "Full": "All target effects have a duration of {0} turns. Each hex moved by the target removes one from the duration"
     },
     {
       "Bonus": "RotaryTAG",
       "Short": "RotaryTAG",
       "Long": "Rotary TAG",
-      "Full": "Rotary TAG: fires {0} TAG beams simultaneously. Grants {1} to sensor checks on hit, decaying by -1 for each hex the target moved. Does not stack."
+      "Full": "Rotary TAG: fires {0} TAG beams simultaneously. Grants {1} to sensor checks on hit, decaying by 1 for each hex the target moved. Does not stack"
     },
     {
       "Bonus": "NarcAcc",
       "Short": "NARC",
       "Long": "NARC",
-      "Full": "NARC Beacon grants {0} bonus accuracy against a target with Missiles. Does not stack."
+      "Full": "NARC Beacon grants {0} bonus accuracy against a target with missiles. Does not stack"
     },
     {
       "Bonus": "ECCMPainter",
       "Short": "ECCM",
       "Long": "{0} ECCM",
-      "Full": "Reduces target's Stealth, ECM, or Mimetic effects by {0}."
+      "Full": "Reduces target's stealth, ECM, or mimetic effects by {0}"
     },
     {
       "Bonus": "PainterDuration",
-      "Short": "{0} Dur.",
+      "Short": "{0} Dur",
       "Long": "{0} Duration",
-      "Full": "Target Painter Effects last for {0} rounds."
+      "Full": "Target painter effects last for {0} turns"
     },
     {
       "Bonus": "Painter",
       "Short": "TargetPainter",
-      "Long": "Target Painter",
-      "Full": "Target Painters grant {0} bonus accuracy against a target. Does not stack. Bonus applies to Artillery."
+      "Long": "Target painter",
+      "Full": "Target painters grant {0} bonus accuracy against a target. Does not stack. Bonus applies to artillery"
     },
     {
       "Bonus": "PainterSensors",
       "Short": "TargetPainter",
-      "Long": "Target Painter",
-      "Full": "Target Painters make targets {0} easier to detect."
+      "Long": "Target painter",
+      "Full": "Target painters make targets {0} easier to detect"
     },
     {
       "Bonus": "PainterVisibility",
       "Short": "TargetPainter",
-      "Long": "Target Painter",
-      "Full": "Target Painter makes target {0} easier to see."
+      "Long": "Target painter",
+      "Full": "Target painter makes target {0} easier to see"
     },
     {
       "Bonus": "PNarc",
       "Short": "Micro NARC",
       "Long": "Micro NARC Beacon",
-      "Full": "Micro NARC Beacons grant visibility on target. Counters ECM up to {0}; Stacks 10 times."
+      "Full": "Micro NARC Beacons grant visibility on target. Counters ECM up to {0}. Stacks 10 times"
     },
     {
       "Bonus": "NarcECM",
       "Short": "NARC",
       "Long": "NARC ECM",
-      "Full": "NARC ECM Pods apply {0} ECM Jamming. Does not Stack. 3 Turns Duration."
+      "Full": "NARC ECM Pods apply {0} ECM jamming. Does not stack. 3 turns duration"
     },
     {
       "Bonus": "Narc",
       "Short": "NARC",
       "Long": "NARC Beacon",
-      "Full": "NARC Beacons grant more detailed information on a target. {0} detailed information modifier."
+      "Full": "NARC Beacons grant more detailed information on a target. {0} detailed information modifier"
     },
     {
       "Bonus": "iNarc",
       "Short": "iNarc",
       "Long": "iNarc Beacon",
-      "Full": "iNARC Beacons grant more detailed information on a target. {0} detailed information modifier."
+      "Full": "iNARC Beacons grant more detailed information on a target. {0} detailed information modifier"
     },
     {
       "Bonus": "iNarcAcc",
       "Short": "iNarc",
       "Long": "iNarc",
-      "Full": "iNarc Beacon grants {0} bonus accuracy against a target with Missiles. Does not stack. Bonus applies to Artillery."
+      "Full": "iNarc Beacon grants {0} bonus accuracy against a target with Missiles. Does not stack. Bonus applies to Artillery"
     },
     {
       "Bonus": "iNarcECM",
       "Short": "iNarc",
       "Long": "iNarc ECM",
-      "Full": "iNarc ECM Pods apply {0} ECM Jamming. Does not Stack. 3 Turns Duration."
+      "Full": "iNarc ECM Pods apply {0} ECM Jamming. Does not stack. 3 turns duration"
     }
   ]
 }

@@ -4,7 +4,7 @@
         "Bonus": "RAAC",
         "Short": "RAAC",
         "Long": "RAAC",
-        "Full": "Allows for two Modes, Stability & Fast Mode, toggle before move."
+        "Full": "Allows for two modes: Stability & Fast Mode. Toggle before move"
       },
       {
         "Bonus": "StabMode",
@@ -16,25 +16,25 @@
         "Bonus": "StabModeWalk",
         "Short": "{0} Walk",
         "Long": "{0} Walk Speed",
-        "Full": "{0} Decreased Walk  & Jump Distance"
+        "Full": "{0} decreased walk  & jump distance"
       },
       {
         "Bonus": "StabModeInstability",
         "Short": "{0} Unsteady",
         "Long": "{0} Unsteady Threshold",
-        "Full": "{0} Increased Unsteady Threshold"
+        "Full": "{0} increased unsteady threshold"
       },
       {
         "Bonus": "StabModeInstabilityMult",
-        "Short": "{0} Incoming Stab",
-        "Long": "{0} Incoming Stability Damage",
-        "Full": "{0} Reduced Incoming Stability Damage"
+        "Short": "{0} incoming Stab",
+        "Long": "{0} incoming stability Damage",
+        "Full": "{0} reduced incoming stability Damage"
       },
       {
         "Bonus": "StabModeInstabOnFire",
         "Short": "BraceToFireReduction",
-        "Long": "{0} Reduced Stab Dmg to Self",
-        "Full": "{0} stability damage to self when firing large weapons in Stabilty mode. Effect Stacks."
+        "Long": "{0} reduced Stab DMG to Self",
+        "Full": "{0} stability self-damage when firing large weapons in Stability Mode. Effect stacks"
       },
       {
         "Bonus": "FastMode",
@@ -44,15 +44,15 @@
       },
       {
         "Bonus": "FastModeInstability",
-        "Short": "{0} Unsteady",
-        "Long": "{0} Unsteady Threshold",
-        "Full": "{0} Reduced Unsteady Threshold"
+        "Short": "{0} unsteady",
+        "Long": "{0} unsteady threshold",
+        "Full": "{0} reduced unsteady threshold"
       },
       {
         "Bonus": "FastModeSprint",
-        "Short": "{0} Sprint",
-        "Long": "{0} Sprint Speed",
-        "Full": "{0} Increased Sprint Speed"
+        "Short": "{0} sprint",
+        "Long": "{0} sprint speed",
+        "Full": "{0} increased sprint speed"
       }
     ]
   }

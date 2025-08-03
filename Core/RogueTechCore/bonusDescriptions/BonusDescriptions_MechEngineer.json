@@ -10,43 +10,43 @@
       "Bonus": "StackYes",
       "Short": "Stacks",
       "Long": "Stacks",
-      "Full": "Effects Stack; can be applied multiple times per turn."
+      "Full": "Effects stack. Can be applied multiple times per round"
     },
     {
       "Bonus": "StackNo",
-      "Short": "No Stack",
-      "Long": "No Stacking",
-      "Full": "Effects do not Stack; applies only once per turn."
+      "Short": "No stack",
+      "Long": "No stacking",
+      "Full": "Effects do not stack. Applies only once per round"
     },
     {
       "Bonus": "StackLimit",
       "Short": "Stacks {0}",
-      "Long": "Stacks {0} times.",
-      "Full": "Status effects stack {0} times."
+      "Long": "Stacks {0} times",
+      "Full": "Status effects stack {0} times"
     },
     {
       "Bonus": "StackLimitSpecific",
       "Short": "Stacks {1}",
-      "Long": "{0} Stacks {1}",
-      "Full": "{0} Status effects stack {1} times."
+      "Long": "{0} stacks {1}",
+      "Full": "{0} status effects stack {1} times"
     },
     {
       "Bonus": "JamChanceMultiplier",
-      "Short": "{0} Jam",
-      "Long": "{0} Jam",
-      "Full": "{0} Multiplier to Jam Chance"
+      "Short": "{0} jam",
+      "Long": "{0} jam multi",
+      "Full": "Jam chance: {0}"
     },
     {
       "Bonus": "JamChanceMultiplierLocation",
-      "Short": "{0} LocationJam",
-      "Long": "{0} Location Jam",
-      "Full": "{0} Multiplier to Jam Chance of weapons in the equipment location."
+      "Short": "{0} loc.jam",
+      "Long": "{0} location jam multi",
+      "Full": "Jam chance: {0} in mounted location"
     },
     {
       "Bonus": "JamChanceModifier",
-      "Short": "{0} Jam",
-      "Long": "{0} Jam",
-      "Full": "{0} Modifier to Jam Chance"
+      "Short": "{0} jam",
+      "Long": "{0} jam mod",
+      "Full": "Jam chance: {0}"
     },
     {
       "Bonus": "FAILSAFEBOX",
@@ -57,302 +57,296 @@
     {
       "Bonus": "VitalComponent",
       "Short": "Vital",
-      "Long": "Vital Component",
-      "Full": "If this component is destroyed for any reason the whole unit will be killed."
+      "Long": "Vital component",
+      "Full": "Vital: If this component is destroyed, the whole unit is killed"
     },
     {
       "Bonus": "FullyAmphibious",
       "Short": "Amphibious",
       "Long": "Fully Amphibious",
-      "Full": "Amphibious Unit; Not slowed or stopped by Water, even Deep Water."
+      "Full": "Amphibious: Not slowed or stopped by water, even deep water"
     },
     {
       "Bonus": "HeatResistance",
-      "Short": "{0}HeatResistance",
-      "Long": "{0}HeatResistance",
-      "Full": "{0} Resistance to Heat Damage Taken"
+      "Short": "{0}HTres",
+      "Long": "{0} heat resistance",
+      "Full": "Heat damage resistance: {0}"
     },
     {
       "Bonus": "AcePilot",
       "Short": "Agile",
       "Long": "Agile",
-      "Full": "Allows Moving after Shooting."
+      "Full": "Agile: Pilot can move after shooting"
     },
     {
       "Bonus": "AcePilotNI",
       "Short": "Agile (NI)",
       "Long": "Agile (with Neural Implants)",
-      "Full": "Allows Moving after Shooting if pilot has Neural Implants."
+      "Full": "Agile (NI): Pilot with Neural Implants can move after shooting"
     },
     {
       "Bonus": "BreachImmunity",
       "Short": "BreachImmunity",
       "Long": "BreachImmunity",
-      "Full": "Unit Immune to Hull Breaches."
+      "Full": "Immune to hull breaches"
     },
     {
       "Bonus": "VolatileAmmo",
       "Short": "VolatileAmmo",
       "Long": "VolatileAmmo",
-      "Full": "Volatile Ammo rolls Twice to explode"
+      "Full": "Volatile ammo: Rolls twice to explode"
     },
     {
       "Bonus": "RangeExponent",
-      "Short": "{0} RangeExponent",
-      "Long": "{0} RangeExponent",
-      "Full": "Range Change based on your evasion. Base Range multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} rangeExp",
+      "Long": "{0} range exponent",
+      "Full": "Range exponent: Base range multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "AccuracyExponent",
-      "Short": "{0} AccuracyExponent",
-      "Long": "{0} AccuracyExponent",
-      "Full": "Accuracy Change based on your evasion. Base Accuracy multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} ACCExp",
+      "Long": "{0} accuracy exponent",
+      "Full": "Accuracy exponent: Base accuracy multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "RecoilExponent",
-      "Short": "{0} RecoilExponent",
-      "Long": "{0} RecoilExponent",
-      "Full": "Recoil Change based on your evasion. Base Recoil multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} recoilExp",
+      "Long": "{0} recoil exponent",
+      "Full": "Recoil exponent: Base recoil multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "VarianceExponent",
-      "Short": "{0} VarianceExponent",
-      "Long": "{0} VarianceExponent",
-      "Full": "Damage Variance Change based on your evasion. Base Variance multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} DMGvar.Exp",
+      "Long": "{0} variance exponent",
+      "Full": "Damage variance exponent: Base variance multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "TACExponent",
-      "Short": "{0} TACExponent",
-      "Long": "{0} TACExponent",
-      "Full": "Through Armor Critical Chance Change based on your evasion. Base TAC multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} TACExp",
+      "Long": "{0} TAC exponent",
+      "Full": "TAC exponent: Base TAC multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "CRITExponent",
-      "Short": "{0} CRITExponent",
-      "Long": "{0} CRITExponent",
-      "Full": "Critical Chance Change based on your evasion. Base Critical multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} critExp",
+      "Long": "{0} crit exponent",
+      "Full": "Critical hit exponent: Base critical multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "JAMExponent",
-      "Short": "{0} JAMExponent",
-      "Long": "{0} JAMExponent",
-      "Full": "JAM Chance Change based on your evasion. Base JAM multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} jamExp",
+      "Long": "{0} jam exponent",
+      "Full": "Jam chance exponent: Base jam multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "HeatPerCharge",
-      "Short": "{0} HeatPerCharge",
-      "Long": "{0} HeatPerCharge",
-      "Full": "Heat Change based on your evasion. Base Heat multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} heatExp",
+      "Long": "{0} heat evasion exponent",
+      "Full": "Heat exponent: Base heat multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "EvasiveExponent",
-      "Short": "{0} E.Multiplier",
-      "Long": "{0} Evasion Multiplier",
-      "Full": "Damage increased based on your evasion. Base damage multiplied by number of Evasion Pips to the power of {0}"
+      "Short": "{0} eva.multi",
+      "Long": "{0} evasion multiplier",
+      "Full": "Damage increase: Base damage multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "EvasiveExponentMinus",
-      "Short": "{0} E.Divisor",
-      "Long": "{0} Evasion Divisor",
-      "Full": "Damage decreased based on your evasion. Base damage multiplied by number of Evasion Pips to the power of {0}"
-    },
-    {
-      "Bonus": "EvasionExpDecay",
-      "Short": "{0}EvasiveExponent",
-      "Long": "{0} Evasive Exponent",
-      "Full": "{0} decreased based on your evasion. Base {0} multiplied by number of Evasion Pips to the power of {1}"
+      "Short": "{0} eva.divis",
+      "Long": "{0} evasion divisor",
+      "Full": "Damage decrease: Base damage multiplied by number of Evasion Pips to the power of {0}"
     },
     {
       "Bonus": "HeatPerChargeHex",
-      "Short": "{0} HeatPerCharge",
-      "Long": "{0} HeatPerCharge",
-      "Full": "Heat Change based on hexes moved. Base Heat multiplied by number of hexes moved to the power of {0}"
+      "Short": "{0} heatmoveExp",
+      "Long": "{0} heat move multi",
+      "Full": "Heat change: Base heat multiplied by number of hexes moved to the power of {0}"
     },
     {
       "Bonus": "HexMovedExponent",
-      "Short": "{0} M.Multiplier",
-      "Long": "{0} Moved Multiplier",
-      "Full": "Damage increased based on hexes moved. Base damage multiplied by number of hexes moved to the power of {0}"
+      "Short": "{0} DMGmovemulti",
+      "Long": "{0} move damage multiplier",
+      "Full": "Damage increase: Base damage multiplied by number of hexes moved to the power of {0}"
     },
     {
       "Bonus": "Clustering",
-      "Short": "{0} Grouping",
-      "Long": "{0} Grouping",
-      "Full": "{0} chance for hits to Group on the first location hit with weapons that Group hits."
+      "Short": "{0} grouping",
+      "Long": "{0} grouping",
+      "Full": "Grouping: {0} chance for hits to group on first location hit"
     },
     {
       "Bonus": "WeaponClustering",
-      "Short": "{0} Grouping",
-      "Long": "{0} Grouping",
-      "Full": "{0} chance for hits to Group on the first location hit with this weapon."
+      "Short": "{0} grouping",
+      "Long": "{0} grouping",
+      "Full": "Grouping: {0} chance for hits to group on first location hit"
     },
     {
       "Bonus": "WeaponClusteringMode",
-      "Short": "{0} Grouping",
-      "Long": "{0} Mode Grouping",
-      "Full": "{0} chance for hits to Group in {1} mode."
+      "Short": "{0} grouping",
+      "Long": "{0} mode grouping",
+      "Full": "Grouping in {1} mode: {0} chance for hits to group in "
     },
     {
       "Bonus": "MissileClustering",
-      "Short": "{0} Grouping",
-      "Long": "{0} Grouping",
-      "Full": "{0} chance for hits to Group on the first location hit with this Missiles that Group hits."
+      "Short": "{0} grouping",
+      "Long": "{0} grouping",
+      "Full": "Missile grouping: {0} chance for hits to group on first location hit with missiles"
     },
     {
       "Bonus": "AmmoClustering",
-      "Short": "{0} Grouping",
-      "Long": "{0} Grouping",
-      "Full": "{0} chance for hits to Group on the first location hit with this ammunition."
+      "Short": "{0} grouping",
+      "Long": "{0} grouping",
+      "Full": "Grouping: {0} chance for hits to group on first location hit"
     },
     {
       "Bonus": "RISCMMLClustering",
       "Short": "{0} RISCMMLGrouping",
       "Long": "{0} RISCMMLGrouping",
-      "Full": "{0} chance for hits to Group on the first location hit with RISC MMLs firing in SRM Mode"
+      "Full": "MML grouping: {0} chance for hits to group on the first location hit in SRM mode"
     },
     {
       "Bonus": "AmmoProjectilesFired",
       "Short": "Projectiles",
       "Long": "Projectiles",
-      "Full": "{0} Projectiles fired with this weapon per shot"
+      "Full": "Projectiles per shot: {0}"
     },
     {
       "Bonus": "ExtraCrits",
-      "Short": "{0} ExtraCrits",
-      "Long": "{0} ExtraCrits",
-      "Full": "Enemies will crit {0} more often."
+      "Short": "{0} extra crit",
+      "Long": "{0} extra crits",
+      "Full": "Enemies will crit {0} more often"
     },
     {
       "Bonus": "AllSkills",
-      "Short": "{0} Skills",
-      "Long": "{0} Skills",
-      "Full": "Modifier of {0} to All Pilot Skills: Can raise skills over 10, Max +2 from most sources."
+      "Short": "{0} skills",
+      "Long": "{0} skills",
+      "Full": "Skill modifier: {0} to all pilot skills. Can raise skills over 10, max +2 from most sources"
     },
     {
       "Bonus": "SkillGunnery",
       "Short": "{0} Gunnery",
       "Long": "{0} Gunnery",
-      "Full": "Modifier of {0} to Gunnery: Can raise skills over 10, Max +2 from most sources."
+      "Full": "Gunnery: {0}. Can raise skills over 10, max +2 from most sources"
     },
     {
       "Bonus": "SkillPiloting",
       "Short": "{0} Piloting",
       "Long": "{0} Piloting",
-      "Full": "Modifier of {0} to Piloting: Can raise skills over 10, Max +2 from most sources."
+      "Full": "Piloting: {0}. Can raise skills over 10, max +2 from most sources"
     },
     {
       "Bonus": "SkillGuts",
       "Short": "{0} Guts",
       "Long": "{0} Guts",
-      "Full": "Modifier of {0} to Guts: Can raise skills over 10, Max +2 from most sources."
+      "Full": "Guts: {0}. Can raise skills over 10, max +2 from most sources"
     },
     {
       "Bonus": "SkillTactics",
       "Short": "{0} Tactics",
       "Long": "{0} Tactics",
-      "Full": "Modifier of {0} to Tactics: Can raise skills over 10, Max +2 from most sources."
+      "Full": "Tactics: {0}. Can raise skills over 10, max +2 from most sources"
     },
     {
       "Bonus": "ShoulderMount",
-      "Short": "ShoulderMounted",
-      "Long": "ShoulderMounted",
-      "Full": "Shoulder Mounted Weapon packs replace Shoulder and Upper arm actuators"
+      "Short": "ShoulderMount",
+      "Long": "Shoulder-mounted",
+      "Full": "Shoulder-mounted weapon pack: Replaces shoulder and upper arm actuators"
     },
     {
       "Bonus": "EvasionIgnore",
-      "Short": "{0} Ev.Ignore",
-      "Long": "{0} Evasion Ignore",
-      "Full": "Provides {0} Evasion pips ignored"
+      "Short": "{0} evaignore",
+      "Long": "{0} evasion ignored",
+      "Full": "Evasion ignored: {0}"
     },
     {
       "Bonus": "EvasionIgnoreAC2",
-      "Short": "{0} Ev.Ignore",
-      "Long": "{0} AC2 Evasion Ignore",
-      "Full": "Provides {0} Evasion pips ignored with AC2 Weapons"
+      "Short": "{0} evaignore",
+      "Long": "{0} AC2 evasion ignored",
+      "Full": "Evasion ignored, AC/2: {0}"
     },
     {
       "Bonus": "EvasionIgnoreMissile",
-      "Short": "{0} Ev.Ignore",
-      "Long": "{0} Evasion Ignore",
-      "Full": "Provides {0} Evasion pips ignored with Missile Weapons"
+      "Short": "{0} evaignore",
+      "Long": "{0} evasion ignored",
+      "Full": "Evasion ignored, Missiles: {0}"
     },
     {
       "Bonus": "EvasionIgnoreSRM",
-      "Short": "{0} Ev.Ignore",
-      "Long": "{0} Evasion Ignore",
-      "Full": "Provides {0} Evasion pips ignored with Short-Range Missiles"
+      "Short": "{0} evaignore",
+      "Long": "{0} evasion ignore",
+      "Full": "Evasion ignored, SRM: {0}"
     },
     {
       "Bonus": "EvasionIgnoreLaser",
-      "Short": "{0} Ev.Ignore",
-      "Long": "{0} Evasion Ignore",
-      "Full": "Provides {0} Evasion pips ignored with Lasers"
+      "Short": "{0} evaignore",
+      "Long": "{0} evasion ignored",
+      "Full": "Evasion ignored, laser: {0}"
     },
     {
       "Bonus": "AreaOfEffectConversion",
-      "Short": "AOE %",
-      "Long": "AOE Conversion {0}",
-      "Full": "Weapon base damage is converted into Area of Effect, direct hit damage reduced {0}"
+      "Short": "AoE %",
+      "Long": "AoE conversion {0}",
+      "Full": "AoE Conversion: Base damage converted into area of effect, direct hit damage reduced {0}"
     },
     {
       "Bonus": "MineClearanceBoom",
-      "Short": "Mine Clear",
-      "Long": "{0} Mine Clearance",
-      "Full": "Impact removes mines in a {0} hex radius."
+      "Short": "Mine clear",
+      "Long": "{0} mine clearance",
+      "Full": "Mine Clearance: Removes mines in a {0} hex radius"
     },
     {
       "Bonus": "RemoteSensorLRM",
       "Short": "Remote Sensor Munition",
       "Long": "Remote Sensor Munition",
-      "Full": "Remote Sensor munitions leave a field of Sensors wherever a missile hits the ground; triggered like mines, increasing target's sensor signature and visibility. Effect stacks."
+      "Full": "Remote Sensor Munitions: Creates a field of sensors on the ground on impact. Triggered like mines, they probe ping the target and increase its sensor signature and visibility. Effect stacks"
     },
     {
       "Bonus": "SensorMines",
-      "Short": "{0} Sensors",
-      "Long": "{0} Sensors",
-      "Full": "{0} Sensors per projectile"
+      "Short": "{0} sensors",
+      "Long": "{0} sensors",
+      "Full": "Sensors per projectile: {0}"
     },
     {
       "Bonus": "SensorRadius",
-      "Short": "{0} Radius",
-      "Long": "{0} Radius",
-      "Full": "{0} Sensor Trigger Radius"
+      "Short": "{0} radius",
+      "Long": "{0} radius",
+      "Full": "Trigger radius: {0}"
     },
     {
       "Bonus": "SensorChance",
-      "Short": "{0} Chance",
-      "Long": "{0} Chance",
-      "Full": "{0} Sensor trigger chance"
+      "Short": "{0} chance",
+      "Long": "{0} chance",
+      "Full": "Trigger chance: {0}"
     },
     {
       "Bonus": "RemoteSensorPower",
-      "Short": "{0} Damage",
-      "Long": "{0} Damage",
-      "Full": "{0} mine damage"
+      "Short": "{0} damage",
+      "Long": "{0} damage",
+      "Full": "Trigger damage: {0}"
     },
     {
       "Bonus": "MinWeight",
       "Short": "MW {0}",
       "Long": "Min.W. {0}",
-      "Full": "{0} minimum weight required - currently not working. Work in progress."
+      "Full": "{0} minimum weight required - currently not working. Work in progress"
     },
     {
       "Bonus": "MinWeightJJ",
       "Short": "MinW {0}",
       "Long": "Min.W. {0}",
-      "Full": "{0} minimum weight required for Jump Jet."
+      "Full": "{0} minimum weight required for Jump Jet"
     },
     {
       "Bonus": "MaxWeightJJ",
       "Short": "MaxW {0}",
       "Long": "Max.W. {0}",
-      "Full": "{0} maximum weight required for Jump Jet."
+      "Full": "{0} maximum weight required for Jump Jet"
     },
     {
       "Bonus": "MaxCountJJ",
       "Short": "MaxJJ {0}",
       "Long": "MaxJJ {0}",
-      "Full": "{0} maximum amount of JJ Allowed by Walk MP."
+      "Full": "{0} maximum amount of JJ allowed by Walk MP"
     },
     {
       "Bonus": "MaxCountJJExtra",
@@ -364,109 +358,109 @@
       "Bonus": "MechanicalJJ",
       "Short": "MechJJ",
       "Long": "MechanicalJJ",
-      "Full": "Mechanical Jump Systems take 2 slots in Both Legs; Generate No Extra Jump Heat. Cannot Rotate Facing when Jumping."
+      "Full": "Mechanical Jump System: Takes 2 slots in both legs. No extra jump heat. Cannot rotate facing when jumping"
     },
     {
       "Bonus": "ArmoredCowl",
       "Short": "Armored Cowl",
       "Long": "Armored Cowl",
-      "Full": "Armored Cowl adds {0} armor and structure to the Head"
+      "Full": "Armored Cowl: Adds {0} armor and structure to the head"
     },
     {
       "Bonus": "Reinforced",
       "Short": "Reinforced",
       "Long": "Reinforced",
-      "Full": "Reinforced Systems add {0} armor and structure to their location"
+      "Full": "Reinforced Systems: Adds {0} armor and structure to mounted location"
     },
     {
       "Bonus": "ModularArmor",
       "Short": "ModularArmor",
       "Long": "ModularArmor",
-      "Full": "Modular Armor adds {0} armor to their location"
+      "Full": "Modular Armor (F): Adds {0} armor to mounted location front"
     },
     {
       "Bonus": "ModularRearArmor",
-      "Short": "ModularRearArmor",
+      "Short": "ModularR-armor",
       "Long": "ModularRearArmor",
-      "Full": "Modular Rear Armor adds {0} armor to their location's Rear"
+      "Full": "Modular Armor (R): Adds {0} armor to mounted location rear"
     },
     {
       "Bonus": "ArmorDmgMod",
-      "Short": "{0} A.Dmg.Mod.",
-      "Long": "{0} Armor Dmg. Mod.",
-      "Full": "{0} damage dealt to armor"
+      "Short": "{0} arDMGmod",
+      "Long": "{0} armor DMG mod",
+      "Full": "Armor damage: {0}"
     },
     {
       "Bonus": "StructureDmgMod",
-      "Short": "{0} S.Dmg.Mod.",
-      "Long": "{0} Structure Dmg. Mod.",
-      "Full": "{0} damage dealt to structure"
+      "Short": "{0} stDMGmod",
+      "Long": "{0} structure DMG mod",
+      "Full": "Structure damage: {0}"
     },
     {
       "Bonus": "MortarFlare",
       "Short": "Flare",
       "Long": "Flare",
-      "Full": "Flares illuminate an area, making targets easier to see by {0}"
+      "Full": "Flare: Illuminates an area, making targets easier to see by {0}"
     },
     {
       "Bonus": "MortarFlareSensor",
       "Short": "Remote Sensor",
       "Long": "Remote Sensors",
-      "Full": "Remote Sensors make targets easier to detect by {0}"
+      "Full": "Remote Sensors: Makes targets easier to detect by {0}"
     },
     {
       "Bonus": "Airburst",
       "Short": "Airburst",
       "Long": "Airburst",
-      "Full": "Airburst shells saturate a target area with fragments."
+      "Full": "Airburst Shell: Saturates the target area with fragments"
     },
     {
       "Bonus": "AirburstPenalty",
-      "Short": "{0} MR Penalty",
-      "Long": "{0} Min Range Penalty",
-      "Full": "{0} damage penalty below arming range"
+      "Short": "{0} MR penalty",
+      "Long": "{0} min range penalty",
+      "Full": "Damage penalty below arming range: {0} "
     },
     {
       "Bonus": "AirburstRange",
-      "Short": "{0} Sep.Distance",
-      "Long": "{0} Separation Distance",
-      "Full": "Shot separates after {0} metres"
+      "Short": "{0} sep.dist",
+      "Long": "{0} separation distance",
+      "Full": "Shot separation at: {0}m"
     },
     {
       "Bonus": "AreaOfEffect",
-      "Short": "AOE",
-      "Long": "{0}M AOE",
-      "Full": "Deals area-of-effect damage within {0} meters of impact"
+      "Short": " AoE",
+      "Long": "{0}m  AoE",
+      "Full": "AoE damage radius: {0}m from impact"
     },
     {
       "Bonus": "AreaOfEffectDmg",
-      "Short": "AOEDmg",
-      "Long": "AOE {0} Dmg",
-      "Full": "Up to {0} area-of-effect damage to units in radius.  Units further from the point of impact take less damage"
+      "Short": " AoEDMG",
+      "Long": " AoE {0} DMG",
+      "Full": "Aoe damage: {0} at impact point. Damage falls off further away"
     },
     {
       "Bonus": "AreaOfEffectDmgTaken",
-      "Short": "AOEDmg",
-      "Long": "AOE Dmg {0}",
-      "Full": "{0} Area of Effect damage taken."
+      "Short": " AoEDMG",
+      "Long": " AoE DMG {0}",
+      "Full": "AoE damage: {0}"
     },
     {
       "Bonus": "AreaOfEffectHeatDmg",
-      "Short": "AOE-H-Dmg",
-      "Long": "AOE {0} Heat Dmg",
-      "Full": "{0} Area-of-effect heat damage to units in radius."
+      "Short": " AoE-H-DMG",
+      "Long": " AoE {0} heat DMG",
+      "Full": "AoE heat damage: {0} in blast radius"
     },
     {
       "Bonus": "AreaOfEffectSTABDmg",
-      "Short": "AOE-S-Dmg {0}",
-      "Long": "AOE STAB {0} Dmg",
-      "Full": "{0} Area-of-effect stability damage to units in radius."
+      "Short": " AoE-S-DMG {0}",
+      "Long": " AoE STAB {0} DMG",
+      "Full": "AoE stability damage: {0} in blast radius"
     },
     {
       "Bonus": "AreaOfEffectAll",
-      "Short": "AOE{0}m",
-      "Long": "AOE {0} m",
-      "Full": "Area-of-Effect: Does {1} damage, {2} heat and {3} stability in a {0} m radius from impact."
+      "Short": " AoE{0}m",
+      "Long": " AoE {0}m",
+      "Full": "Area of effect: {1} damage, {2} heat, and {3} stability in a {0}m radius from impact"
     },
     {
       "Bonus": "BlueShield",
@@ -476,267 +470,267 @@
     },
     {
       "Bonus": "AmmoHeatMod",
-      "Short": "{0} HeatGen",
-      "Long": "{0} Heat Generated",
-      "Full": "Ammo increased Heat Generated by {0} "
+      "Short": "{0} heatgen",
+      "Long": "{0} heat generated",
+      "Full": "Heat generation increase: {0}"
     },
     {
       "Bonus": "Explodium",
-      "Short": "{0} Multiplier",
-      "Long": "{0} Misfire Multiplier",
-      "Full": "Weapon has a {0} misfire multiplier - recoil x multiplier = misfire chance"
+      "Short": "{0} MFmulti",
+      "Long": "{0} misfire multiplier",
+      "Full": "Misfire chance: Recoil x {0}"
     },
     {
       "Bonus": "ExplodiumFlat",
-      "Short": "{0} Misfire Chance",
-      "Long": "{0} Misfire Chance",
-      "Full": "Weapon has a {0} misfire chance - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} misfire chance",
+      "Long": "{0} misfire chance",
+      "Full": "Misfire chance: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "WeaponJAM",
-      "Short": "{0} Jam Multiplier",
-      "Long": "{0} Jam Multiplier",
-      "Full": "Weapon has a jam chance of Recoil X {0} - Mitigated by Gunnery and Recoil Reduction"
+      "Short": "{0} jam multi",
+      "Long": "{0} jam multiplier",
+      "Full": "Jam chance: Recoil x {0}. Mitigated by Gunnery and recoil reduction"
     },
     {
       "Bonus": "AmmoJAMFlat",
-      "Short": "{0} Jam Chance",
-      "Long": "{0} Jam Chance",
-      "Full": "Ammo adds a {0} jam chance - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam chance",
+      "Long": "{0} jam chance",
+      "Full": "Jam chance: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "WeaponJAMFlat",
-      "Short": "{0} Jam Chance",
-      "Long": "{0} Jam Chance",
-      "Full": "Weapon has a {0} jam chance - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam chance",
+      "Long": "{0} jam chance",
+      "Full": "Jam chance: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "WeaponJAMFlatShot",
-      "Short": "{0} Jam Per Shot",
-      "Long": "{0} Jam Per Shot",
-      "Full": "Weapon has a {0} jam chance per shot - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam per shot",
+      "Long": "{0} jam per shot",
+      "Full": "Jam chance: {0} per shot. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "WeaponJAMFlatShotBase",
-      "Short": "{0} Jam Per Shot after first",
-      "Long": "{0} Jam Per Shot after first",
-      "Full": "Weapon has a {0} jam chance per shot after the first - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam/shots>1",
+      "Long": "{0} jam per shot after first",
+      "Full": "Jam chance: {0} per shot after the first. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "WeaponJAMFlatShotPer",
-      "Short": "{0} Jam Per {1} Shots",
-      "Long": "{0} Jam Per {1} Shots",
-      "Full": "Weapon has a {0} jam chance per {1} shots - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam/{1} shots",
+      "Long": "{0} jam per {1} shots",
+      "Full": "Jam chance: {0} per {1} shots. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "WeaponJAMFlatShotPerMode",
-      "Short": "{0}:{1}Jam/{2}shots",
-      "Long": "{0}: {1} Jam / {2} shots",
-      "Full": "{0} mode: Weapon has a jam chance of {1} per {2} shots - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0}:{1}jam/{2}shots",
+      "Long": "{0}: {1} jam per {2} shots",
+      "Full": "Jam chance in {0} mode: {1} per {2} shots. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "WeaponJAMGeometricShot",
-      "Short": "{0} Jam Per Shot",
-      "Long": "{0}*{1} Jam Per Shot",
-      "Full": "Weapon has base {0} jam chance, multiplied by {1} per shot - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam per shot",
+      "Long": "{0}*{1} jam per shot",
+      "Full": "Jam chance: {0} x {1} per shot. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "JamChancePerShot",
-      "Short": "{0} Jam Per Shot",
-      "Long": "{0} Jam Per Shot",
-      "Full": "Weapon has a {0} jam chance per shot"
+      "Short": "{0} jam per shot",
+      "Long": "{0} jam per shot",
+      "Full": "Jam chance: {0} per shot"
     },
     {
       "Bonus": "MisfireChancePerShot",
-      "Short": "{0} Misfire Per Shot",
-      "Long": "{0} Misfire Per Shot",
-      "Full": "Weapon has {0} chance per shot to misfire and damage itself - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} misfire per shot",
+      "Long": "{0} misfire per shot",
+      "Full": "Misfire chance: {0} per shot. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "MGJamChance",
-      "Short": "{0} Jam",
-      "Long": "{0} Jam Per Shot",
-      "Full": "Weapon has a {0} jam chance per shot above {1}. - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam",
+      "Long": "{0} jam per shot",
+      "Full": "Misfire chance: {0} per shot above {1}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "MGMisfireChance",
       "Short": "{0} MF",
-      "Long": "{0} Misfire Per Shot",
-      "Full": "Weapon has a {0} misfire chance per shot above {1}. - Mitigated by Gunnery & Jam Modifiers"
+      "Long": "{0} misfire per shot",
+      "Full": "Misfire chance:{0} per shot above {1}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "MGRecoilShot",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil Per Shot",
-      "Full": "This weapon has a {0} Recoil per shot above {1}. "
+      "Short": "{0} recoil",
+      "Long": "{0} recoil per shot",
+      "Full": "Recoil: {0} per shot above {1}. "
     },
     {
       "Bonus": "MGAccuracyShot",
-      "Short": "{0} Acc/Shot",
-      "Long": "{0} Acc Per Shot",
-      "Full": "This weapon has a {0} accuracy per shot above {1}."
+      "Short": "{0} ACC/shot",
+      "Long": "{0} ACC per shot",
+      "Full": "Accuracy: {0} per shot above {1}"
     },
     {
       "Bonus": "MisfireChanceMode1",
-      "Short": "{0} Misfire {1}",
-      "Long": "{0} Misfire {1}",
-      "Full": "Weapon has {0} chance to misfire when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} misfire {1}",
+      "Long": "{0} misfire {1}",
+      "Full": "Misfire chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "MisfireChanceMode2",
-      "Short": "{0} Misfire {1}",
-      "Long": "{0} Misfire {1}",
-      "Full": "Weapon has {0} chance to misfire when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} misfire {1}",
+      "Long": "{0} misfire {1}",
+      "Full": "Misfire chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "MisfireChanceMode3",
-      "Short": "{0} Misfire {1}",
-      "Long": "{0} Misfire {1}",
-      "Full": "Weapon has {0} chance to misfire when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} misfire {1}",
+      "Long": "{0} misfire {1}",
+      "Full": "Misfire chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "MisfireChanceMode4",
-      "Short": "{0} Misfire {1}",
-      "Long": "{0} Misfire {1}",
-      "Full": "Weapon has {0} chance to misfire when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} misfire {1}",
+      "Long": "{0} misfire {1}",
+      "Full": "Misfire chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "MisfireChanceMode5",
-      "Short": "{0} Misfire {1}",
-      "Long": "{0} Misfire {1}",
-      "Full": "Weapon has {0} chance to misfire when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} misfire {1}",
+      "Long": "{0} misfire {1}",
+      "Full": "Misfire chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "MisfireChanceNoMitigate",
-      "Short": "{0} Misfire {1}",
-      "Long": "{0} Misfire {1}",
-      "Full": "Weapon has {0} chance to misfire, damaging itself, when firing in {1} mode."
+      "Short": "{0} misfire {1}",
+      "Long": "{0} misfire {1}",
+      "Full": "Misfire chance in {1} mode: {0}"
     },
     {
       "Bonus": "JamChanceMode1",
-      "Short": "{0} Jam {1}",
-      "Long": "{0} Jam {1}",
-      "Full": "Weapon has {0} jam chance when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam {1}",
+      "Long": "{0} jam {1}",
+      "Full": "Jam chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "JamChanceMode2",
-      "Short": "{0} Jam {1}",
-      "Long": "{0} Jam {1}",
-      "Full": "Weapon has {0} jam chance when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam {1}",
+      "Long": "{0} jam {1}",
+      "Full": "Jam chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "JamChanceMode3",
-      "Short": "{0} Jam {1}",
-      "Long": "{0} Jam {1}",
-      "Full": "Weapon has {0} jam chance when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam {1}",
+      "Long": "{0} jam {1}",
+      "Full": "Jam chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "JamChanceMode4",
-      "Short": "{0} Jam {1}",
-      "Long": "{0} Jam {1}",
-      "Full": "Weapon has {0} jam chance when firing in {1} mode - Mitigated by Gunnery & Jam Modifiers"
+      "Short": "{0} jam {1}",
+      "Long": "{0} jam {1}",
+      "Full": "Jam chance in {1} mode: {0}. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "JamChanceCD",
-      "Short": "{0} Jam {1} CD {2}",
-      "Long": "{0} Jam {1} CD {2}",
-      "Full": "Weapon has {0} jam chance when firing in {1} mode. Triggers {2} rounds cooldown."
+      "Short": "{0} jam {1} CD {2}",
+      "Long": "{0} jam {1} CD {2}",
+      "Full": "Jam chance in {1} mode: {0}. Triggers a {2} round cooldown"
     },
     {
       "Bonus": "ShotsFiredAC",
-      "Short": "{0} Shots",
-      "Long": "{0} AC Shots",
-      "Full": "{0} shots with autocannon"
+      "Short": "{0} shots",
+      "Long": "{0} AC shots",
+      "Full": "Autocannon shots: {0}"
     },
     {
       "Bonus": "Acid",
       "Short": "Acid",
-      "Long": "Corrosive Acid",
-      "Full": "Target takes {0} more damage for 2 turns."
+      "Long": "Corrosive acid",
+      "Full": "Acid: Target takes {0} more damage for 2 turns"
     },
     {
       "Bonus": "Paint",
       "Short": "Paint",
       "Long": "Paintgun",
-      "Full": "Target suffers -80% to sight, -2 accuracy and +25% visibility for 3 turns"
+      "Full": "Paint: Target suffers -80% to sight, -2 accuracy, and +25% visibility for 3 turns"
     },
     {
       "Bonus": "InfernoShort",
       "Short": "Inferno",
-      "Long": "Inferno Blast",
-      "Full": "Target generates {0} heat for 1 turns."
+      "Long": "Inferno blast",
+      "Full": "Inferno: Target generates {0} heat for 1 turn"
     },
     {
       "Bonus": "Inferno",
       "Short": "Inferno",
-      "Long": "Inferno Liquid",
-      "Full": "Target generates {0} heat for 2 turns."
+      "Long": "Inferno liquid",
+      "Full": "Inferno: Target generates {0} heat for 2 turns"
     },
     {
       "Bonus": "ThermoBurn",
       "Short": "Inferno",
-      "Long": "Inferno Bomb",
-      "Full": "Target heat sink efficiency reduced by {0} for 4 turns"
+      "Long": "Inferno bomb",
+      "Full": "Inferno: Target heat sink efficiency reduced by {0} for 4 turns"
     },
     {
       "Bonus": "InfernoIV",
       "Short": "Inferno",
-      "Long": "Inferno Artillery",
-      "Full": "Target heat sink efficiency reduced by {0} for 6 turns"
+      "Long": "Inferno artillery",
+      "Full": "Inferno: Target heat sink efficiency reduced by {0} for 6 turns"
     },
     {
       "Bonus": "Oilslick",
       "Short": "Oilslick",
-      "Long": "Oil Slick",
-      "Full": "Target takes {0} stability damage for 2 turns"
+      "Long": "Oil slick",
+      "Full": "Oil Slick: Target takes {0} stability damage for 2 turns"
     },
     {
       "Bonus": "ImpMove",
-      "Short": "Impair Move",
-      "Long": "Impair Movement",
-      "Full": "Target movement reduced by {0} for 2 turns"
+      "Short": "Impair move",
+      "Long": "Impaired movement",
+      "Full": "Impaired movement: Target movement reduced by {0} for 2 turns"
     },
     {
       "Bonus": "ImpAccuracy",
-      "Short": "Impair Acc",
-      "Long": "Impair Accuracy",
-      "Full": "Target accuracy reduced by {0} for 2 turns"
+      "Short": "Impair ACC",
+      "Long": "Impaired accuracy",
+      "Full": "Impaired accuracy: Target accuracy reduced by {0} for 2 turns"
     },
     {
       "Bonus": "ImpSight",
-      "Short": "Impair Sight",
-      "Long": "Impair Sight",
-      "Full": "Target sight reduced by {0} for 2 turns"
+      "Short": "Impair sight",
+      "Long": "Impaired sight",
+      "Full": "Impaired sight: Target sight reduced by {0} for 2 turns"
     },
     {
       "Bonus": "ImpSensors",
-      "Short": "Impair Sensors",
-      "Long": "Impair Sensors",
-      "Full": "Target Sensor strength reduced by {0} for 2 turns"
+      "Short": "Impair sensors",
+      "Long": "Impaired sensors",
+      "Full": "Impaired sensors: Target sensor strength reduced by {0} for 2 turns"
     },
     {
       "Bonus": "ImpHeatSink",
       "Short": "Impair HS",
-      "Long": "Impair Heatsinks",
-      "Full": "Target heat sinks impaired by {0} for 2 turns"
+      "Long": "Impaired Cooling",
+      "Full": "Impaired cooling: Target heat sinks impaired by {0} for 2 turns"
     },
     {
       "Bonus": "PilotOverheat",
       "Short": "OH Injury",
-      "Long": "Overheat Injury",
-      "Full": "Pilot injured on overheat"
+      "Long": "Overheat injury",
+      "Full": "Overheat injury: Pilot is injured on overheat"
     },
     {
       "Bonus": "PilotShutDown",
-      "Short": "SD Injury",
-      "Long": "Shutdown Injury",
-      "Full": "Pilot injury on 'Mech shutdown"
+      "Short": "SD injury",
+      "Long": "Shutdown injury",
+      "Full": "Shutdown injury: Pilot is injured on 'Mech shutdown"
     },
     {
       "Bonus": "FCS",
       "Short": "FCS",
       "Long": "FireControlSystems",
-      "Full": "Fire Control System: Provides targeting and weapons control."
+      "Full": "Fire Control System: Provides targeting and weapons control"
     },
     {
       "Bonus": "BattleComputer",
@@ -748,7 +742,7 @@
       "Bonus": "TCFCS",
       "Short": "TC FCS",
       "Long": "Targeting Computer FCS",
-      "Full": "Targeting Computer FCS: Allows Battle Computer Upgrades"
+      "Full": "Targeting Computer FCS: Allows Battle Computer upgrades"
     },
     {
       "Bonus": "ReqWings",
@@ -758,183 +752,183 @@
     },
     {
       "Bonus": "AmmoBoxExplosion",
-      "Short": "Ammo Can Explode",
-      "Long": "Ammo Can Explode",
-      "Full": "Ammunition Box can explode for {0} damage, {1} heat and {2} stability per remaining shot"
+      "Short": "Ammo can explode",
+      "Long": "Ammo can explode",
+      "Full": "Ammo bin explosion: {0} damage, {1} heat and {2} stability per remaining shot"
     },
     {
       "Bonus": "WeaponExplosionPerLoadedShot",
       "Short": "Volatile",
-      "Long": "Volatile Ammo Feed",
-      "Full": "Weapon can explode for {0} damage, {1} heat and {2} stability per shot loaded when destroyed"
+      "Long": "Volatile ammo feed",
+      "Full": "Volatile ammo feed: {0} damage, {1} heat and {2} stability per shot loaded when destroyed"
     },
     {
       "Bonus": "WeaponExplosionInternalAmmo",
-      "Short": "Int Ammo Can Explode",
-      "Long": "Int Ammo Can Explode",
-      "Full": "Internal Ammo Storage can explode for {0} damage, {1} heat and {2} stability per remaining shot on weapon destruction."
+      "Short": "Int ammo can explode",
+      "Long": "Int ammo can explode",
+      "Full": "Internal ammo bin explosion: {0} damage, {1} heat and {2} stability per remaining shot on weapon destruction"
     },
     {
       "Bonus": "WeaponExplosionInertAmmo",
       "Short": "Volatile",
-      "Long": "Volatile Capacitors",
-      "Full": "High-Energy Capacitors discharge violently for {0} damage, {1} heat and {2} stability per loaded ammunition on weapon destruction"
+      "Long": "Volatile capacitors",
+      "Full": "Volatile capacitors: Weapon destruction causes {0} damage, {1} heat and {2} stability per remaining shot"
     },
     {
       "Bonus": "WeaponExplosionNoAmmo",
       "Short": "Volatile",
-      "Long": "Volatile Capacitors",
-      "Full": "High-Energy Capacitors discharge violently for {0} damage, {1} heat and {2} stability on weapon destruction"
+      "Long": "Volatile capacitors",
+      "Full": "Volatile capacitors: Weapon destruction causes {0} damage, {1} heat and {2} stability"
     },
     {
       "Bonus": "CapacitorBoom",
       "Short": "Volatile",
-      "Long": "Volatile Capacitors",
-      "Full": "High-Energy Capacitors discharge violently for {0} damage when destroyed"
+      "Long": "Volatile capacitors",
+      "Full": "Volatile capacitors: {0} damage when destroyed"
     },
     {
       "Bonus": "CapacitorOverload",
       "Short": "Volatile",
-      "Long": "Volatile Capacitors",
-      "Full": "High-Energy Capacitors overload violently for {0} heat damage when destroyed"
+      "Long": "Volatile capacitors",
+      "Full": "Volatile capacitors: {0} heat damage when destroyed"
     },
     {
       "Bonus": "GenericAOEBoom",
       "Short": "Explosive",
-      "Long": "Explosive Danger",
-      "Full": "This item may explode when hit, dealing damage in a wide area."
+      "Long": "Explosive danger",
+      "Full": "Explosive: May explode when hit, dealing damage in a wide area"
     },
     {
       "Bonus": "FluidBoom",
       "Short": "Volatile",
-      "Long": "Pressure Tanks",
-      "Full": "High-Pressure Tanks can explode for {0} Damage"
+      "Long": "Pressure tanks",
+      "Full": "Pressure tanks: Can explode for {0} damage"
     },
     {
       "Bonus": "DmgFallOff",
-      "Short": "Dmg FallOff",
-      "Long": "Damage Falloff",
-      "Full": "Weapon Heat/Damage/Stability falls off to {0} of starting value at long range"
+      "Short": "DMGfalloff",
+      "Long": "Damage falloff",
+      "Full": "Damage falloff:  Physical, heat, and stability damage falls to {0} at long range"
     },
     {
       "Bonus": "RangedDmg",
-      "Short": "Ranged DMG",
-      "Long": "Ranged DMG",
-      "Full": "Weapon damage increases at long range, to a maximum of {0}"
+      "Short": "RangedDMG",
+      "Long": "Ranged damage",
+      "Full": "Ranged damage: Damage increases at long range up to {0}"
     },
     {
       "Bonus": "MinRangeDamage",
-      "Short": "Min.Range.Dmg",
-      "Long": "Minimum Range Damage ",
-      "Full": "Deals {0} damage at Minimum range; Increasing to full damage at listed optimal range."
+      "Short": "MinrangeDMG",
+      "Long": "Minimum range damage ",
+      "Full": "Minimum range damage: {0}. Full damage from listed optimal range"
     },
     {
       "Bonus": "VariableDmg",
-      "Short": "{0} Var.Dmg.",
-      "Long": "{0} Variable Damage",
-      "Full": "Weapon damage varies between +/-{0} "
+      "Short": "{0} var.DMG",
+      "Long": "{0} variable damage",
+      "Full": "Damage variance: ±{0}"
     },
     {
       "Bonus": "VariableHeatDmg",
-      "Short": "{0} Var.H.",
-      "Long": "{0} Variable Heat",
-      "Full": "Weapon heat damage varies between +/-{0} "
+      "Short": "{0} var.HT",
+      "Long": "{0} variable heat",
+      "Full": "Heat damage variance: ±{0}"
     },
     {
       "Bonus": "HSImmune",
       "Short": "HS Immune",
       "Long": "Headshot Immune",
-      "Full": "Immunity to Head Shot Pilot Damage"
+      "Full": "Headshot immune: Pilot is not injured from headshots"
     },
     {
       "Bonus": "TorsoMount",
       "Short": "TorsoMount",
-      "Long": "Torso Mounted",
-      "Full": "Cockpit is mounted in Center Torso. Doesn't have ejection system."
+      "Long": "Torso-mounted",
+      "Full": "Torso-mounted: Cockpit in center torso. No ejection system"
     },
     {
       "Bonus": "IsCockpit",
       "Short": "Cockpit",
       "Long": "Cockpit Systems",
-      "Full": "Basic Cockpit piloting systems"
+      "Full": "Cockpit Systems: Basic piloting equipment"
     },
     {
       "Bonus": "IsDroneSystem",
       "Short": "DroneSystem",
       "Long": "Drone Control System",
-      "Full": "Drone Control System for remote-controlling the unit."
+      "Full": "Drone Control System: Enables remote controlling the unit"
     },
     {
       "Bonus": "IsLifeSupportA",
       "Short": "LifeSupport",
-      "Long": "LifeSupport Systems",
-      "Full": "LifeSupport Systems - A"
+      "Long": "Lif eSupport Systems",
+      "Full": "Life Support Systems - A"
     },
     {
       "Bonus": "IsLifeSupportB",
       "Short": "LifeSupport",
-      "Long": "LifeSupport Systems",
+      "Long": "Life Support Systems",
       "Full": "Life Support Systems - B"
     },
     {
       "Bonus": "IsVRPP",
       "Short": "VRPP",
       "Long": "VRPP",
-      "Full": "Virtual Reality Piloting Pod enhances the capabilities of DNI or EI cockpits"
+      "Full": "Virtual Reality Piloting Pod: Enhances DNI & EI cockpit capabilities"
     },
     {
       "Bonus": "CalledShot",
       "Short": "{0} Called Shot",
       "Long": "{0} Called Shot",
-      "Full": "Improves Called Shot location modifier by {0}"
+      "Full": "Called Shot location modifier: {0}"
     },
     {
       "Bonus": "CalledShotBC",
       "Short": "{0} Called Shot",
       "Long": "{0} Called Shot",
-      "Full": "Improves Called Shot location modifier by {0}. Stack limit of 6 battle computers."
+      "Full": "Called Shot location modifier: {0}. Stack limit of 6 battle computers"
     },
     {
       "Bonus": "CalledShotLocation",
       "Short": "{0} Called Shot",
-      "Long": "{0} Called Shot at Location",
-      "Full": "Improves Called Shot location modifier by {0} for all weapons mounted in the equipment location."
+      "Long": "{0} Called Shot at location",
+      "Full": "Called Shot: {0} to location modifier for all weapons mounted in same location"
     },
     {
       "Bonus": "OffensivePushAcc",
-      "Short": "{0} OP.Acc.",
-      "Long": "{0} Offensive Push Acc",
-      "Full": "Improves Offensive Push Accuracy by {0}"
+      "Short": "{0} OP ACC",
+      "Long": "{0} Offensive Push ACC",
+      "Full": "Offensive Push Accuracy: {0}"
     },
     {
       "Bonus": "MultiTracker",
-      "Short": "MultiTrack",
-      "Long": "Multi-Track",
-      "Full": "Enables Targeting up to 3 Units."
+      "Short": "Multi-Trac",
+      "Long": "Multi-Trac",
+      "Full": "Multi-Trac: Can target up to 3 units"
     },
     {
       "Bonus": "AllowsHeadshot",
       "Short": "OP HS",
       "Long": "Offensive Push HS",
-      "Full": "Enables Targeting the Head with Offensive Push"
+      "Full": "Offensive Push HS: Can target the head with OP"
     },
     {
       "Bonus": "Bulwark",
       "Short": "Bulwark",
       "Long": "Grants Bulwark",
-      "Full": "Grants BULWARK, increasing damage reduction from GUARDED to 20%"
+      "Full": "Grants BULWARK: Damage reduction from GUARDED increases to 20%"
     },
     {
       "Bonus": "Breaching",
       "Short": "Breacher",
       "Long": "Grants Breaching Shot",
-      "Full": "Breaching Shot: When firing a single weapon at a target, the 'mech ignores COVER and GUARDED."
+      "Full": "Breaching Shot: Firing a single weapon ignores target's COVER and GUARDED"
     },
     {
       "Bonus": "NoEject",
       "Short": "No Eject",
       "Long": "No Ejection",
-      "Full": "Cockpit lacks ejection system"
+      "Full": "No ejection system: Pilot cannot eject"
     },
     {
       "Bonus": "SureFoot",
@@ -946,1561 +940,1561 @@
       "Bonus": "Shield",
       "Short": "Shield",
       "Long": "Combat Shield",
-      "Full": "Combat Shield grants BULWARK, increasing damage reduction from GUARDED to 20%"
+      "Full": "Combat Shield: Grants BULWARK, increasing damage reduction from GUARDED to 20%"
     },
     {
       "Bonus": "MinRange",
-      "Short": "{0} MinRange",
-      "Long": "{0} Minimum Range",
-      "Full": "{0} minimum range"
+      "Short": "{0} minrange",
+      "Long": "{0} minimum range",
+      "Full": "Minimum range: {0}"
     },
     {
       "Bonus": "AllBracketRange",
-      "Short": "{0} Range",
-      "Long": "{0} Range",
-      "Full": "{0} to all range brackets"
+      "Short": "{0} range",
+      "Long": "{0} range",
+      "Full": "All range brackets: {0}"
     },
     {
       "Bonus": "RangeBracketMods",
-      "Short": "Range Mod",
-      "Long": "Range Mod",
-      "Full": "Range Modifiers: {0} Short, {1} Medium, {2} Long, {3} Extreme"
+      "Short": "Range mod",
+      "Long": "Range mod",
+      "Full": "Range modifier: {0} short, {1} medium, {2} long, {3} extreme"
     },
     {
       "Bonus": "ShortRange",
       "Short": "{0} SR",
-      "Long": "{0} Short",
-      "Full": "{0} to Short range brackets"
+      "Long": "{0} short",
+      "Full": "Short range: {0}"
     },
     {
       "Bonus": "MediumRange",
       "Short": "{0} MR",
-      "Long": "{0} Med",
-      "Full": "{0} to Medium range brackets"
+      "Long": "{0} med",
+      "Full": "Medium range: {0}"
     },
     {
       "Bonus": "LongRange",
       "Short": "{0} LR",
-      "Long": "{0} Long",
-      "Full": "{0} to Long range brackets"
+      "Long": "{0} long",
+      "Full": "Long range: {0}"
     },
     {
       "Bonus": "ExtremeRange",
       "Short": "{0} ER",
-      "Long": "{0} Extreme",
-      "Full": "{0} to Extreme range brackets"
+      "Long": "{0} extreme",
+      "Full": "Extreme range: {0}"
     },
     {
       "Bonus": "BallisticMinRange",
-      "Short": "{0} Ball.MinRange",
-      "Long": "{0} Ballistic Min.Range",
-      "Full": "{0} ballistic weapon minimum range"
+      "Short": "{0} ball.minrange",
+      "Long": "{0} ballistic min.range",
+      "Full": "Ballistic min range: {0}"
     },
     {
       "Bonus": "BallisticACMinRange",
-      "Short": "{0} AC.MinRange",
-      "Long": "{0} AC Min.Range",
-      "Full": "{0} autocannon minimum range"
+      "Short": "{0} ACminrange",
+      "Long": "{0} AC min.range",
+      "Full": "Autocannon min range: {0}"
     },
     {
       "Bonus": "EnergyMinRange",
-      "Short": "{0} Enrg.MinRange",
-      "Long": "{0} Energy Min.Range",
-      "Full": "{0} energy weapon minimum range"
+      "Short": "{0} NRGminrange",
+      "Long": "{0} energy min.range",
+      "Full": "Energy min range: {0}"
     },
     {
       "Bonus": "MissileMinRange",
-      "Short": "{0} Miss.MinRange",
-      "Long": "{0} Missile Min.Range",
-      "Full": "{0} missile minimum range"
+      "Short": "{0} Miss.minrange",
+      "Long": "{0} missile min.range",
+      "Full": "Missile min range: {0}"
     },
     {
       "Bonus": "BallisticRange",
-      "Short": "{0} Ball.Range",
-      "Long": "{0} Ballistic Range",
-      "Full": "{0} increased ballistic weapon range"
+      "Short": "{0} ball.range",
+      "Long": "{0} ballistic range",
+      "Full": "Ballistic range: {0}"
     },
     {
       "Bonus": "BallisticACRange",
-      "Short": "{0} AC.Range",
-      "Long": "{0} AC Range",
-      "Full": "{0} increased autocannon range"
+      "Short": "{0} ACrange",
+      "Long": "{0} AC range",
+      "Full": "Autocannon range: {0}"
     },
     {
       "Bonus": "EnergyRange",
-      "Short": "{0} Enrg.Range",
-      "Long": "{0} Energy Range",
-      "Full": "{0} increased energy weapon range"
+      "Short": "{0} NRGrange",
+      "Long": "{0} energy range",
+      "Full": "Energy range: {0}"
     },
     {
       "Bonus": "MissileRange",
-      "Short": "{0} Miss.Range",
-      "Long": "{0} Missile Range",
-      "Full": "{0} increased missile range"
+      "Short": "{0} mssl.range",
+      "Long": "{0} missile range",
+      "Full": "Missile range: {0}"
     },
     {
       "Bonus": "SRMRange",
-      "Short": "{0} SRM.Range",
-      "Long": "{0} SRM Range",
-      "Full": "{0} increased SRM range"
+      "Short": "{0} SRMrange",
+      "Long": "{0} SRM range",
+      "Full": "SRM range: {0}"
     },
     {
       "Bonus": "AmmoDamage",
-      "Short": "{0} Ammo Dmg",
-      "Long": "{0} Ammo Damage",
-      "Full": "{0} damage dealt with this Ammo"
+      "Short": "{0} ammo DMG",
+      "Long": "{0} ammo damage",
+      "Full": "Ammo damage: {0}"
     },
     {
       "Bonus": "WeaponDamage",
-      "Short": "{0} Weapon Dmg",
-      "Long": "{0} Weapon Damage",
-      "Full": "{0} weapon damage dealt"
+      "Short": "{0} weapon DMG",
+      "Long": "{0} weapon damage",
+      "Full": "Weapon damage: {0}"
     },
     {
       "Bonus": "EnergyWeaponDamage",
-      "Short": "{0} Energy Dmg",
-      "Long": "{0} Energy Damage",
-      "Full": "{0} energy weapon damage dealt"
+      "Short": "{0} NRG DMG",
+      "Long": "{0} energy damage",
+      "Full": "Energy weapon damage: {0}"
     },
     {
       "Bonus": "StabDamage",
-      "Short": "{0} Stab.Dmg",
-      "Long": "{0} Stability Damage",
-      "Full": "{0} stability damage dealt"
+      "Short": "{0} stabDMG",
+      "Long": "{0} stability damage",
+      "Full": "Stability damage: {0} "
     },
     {
       "Bonus": "HeatDamage",
-      "Short": "{0} Heat Dmg",
-      "Long": "{0} Heat Damage",
-      "Full": "{0} heat damage dealt"
+      "Short": "{0} heatDMG",
+      "Long": "{0} heat damage",
+      "Full": "Heat damage: {0}"
     },
     {
       "Bonus": "OHDamage",
-      "Short": "{0} OH Dmg",
-      "Long": "{0} OH.bonus Damage",
-      "Full": "{0} bonus damage against overheating targets"
+      "Short": "{0} OH DMG",
+      "Long": "{0} overheat bonus damage",
+      "Full": "Damage vs. overheating target: {0}"
     },
     {
       "Bonus": "WpnHeat",
-      "Short": "{0} Heat",
-      "Long": "{0} Heat Generated",
-      "Full": "{0} heat generated by this weapon"
+      "Short": "{0} heat",
+      "Long": "{0} heat generated",
+      "Full": "Heat generation: {0}"
     },
     {
       "Bonus": "LaserDamage",
-      "Short": "{0} Laser Dmg",
-      "Long": "{0} Laser Damage",
-      "Full": "{0} laser damage"
+      "Short": "{0} laser DMG",
+      "Long": "{0} laser damage",
+      "Full": "Laser damage: {0} "
     },
     {
       "Bonus": "MGDamage",
-      "Short": "{0} MG Dmg",
-      "Long": "{0} MG Damage",
-      "Full": "{0} Machine Gun damage"
+      "Short": "{0} MG DMG",
+      "Long": "{0} MG damage",
+      "Full": "Machine gun damage: {0} "
     },
     {
       "Bonus": "PPCMinRange",
-      "Short": "{0} PPC.MinRange",
-      "Long": "{0} PPC Min.Range",
-      "Full": "{0} PPC minimum range"
+      "Short": "{0} PPCminrange",
+      "Long": "{0} PPC min. range",
+      "Full": "PPC minimum range: {0}"
     },
     {
       "Bonus": "PPCDamage",
-      "Short": "{0} PPC Dmg",
-      "Long": "{0} PPC Damage",
-      "Full": "{0} particle projector cannon damage"
+      "Short": "{0} PPC DMG",
+      "Long": "{0} PPC damage",
+      "Full": "PPC damage: {0}"
     },
     {
       "Bonus": "GaussDamage",
-      "Short": "{0} Gauss Dmg",
-      "Long": "{0} Gauss Damage",
-      "Full": "{0} gauss rifle damage"
+      "Short": "{0} Gauss DMG",
+      "Long": "{0} Gauss damage",
+      "Full": "Gauss rifle damage: {0}"
     },
     {
       "Bonus": "ACDamage",
-      "Short": "{0} AC Dmg",
-      "Long": "{0} AC Damage",
-      "Full": "{0} autocannon damage"
+      "Short": "{0} AC DMG",
+      "Long": "{0} AC damage",
+      "Full": "Autocannon damage: {0} "
     },
     {
       "Bonus": "MissileDamage",
-      "Short": "{0} Miss Dmg",
-      "Long": "{0} Missile Damage",
-      "Full": "{0} missile damage"
+      "Short": "{0} mssl.DMG",
+      "Long": "{0} missile damage",
+      "Full": "Missile damage: {0}"
     },
     {
       "Bonus": "MortarDamage",
-      "Short": "{0} MTR Dmg",
-      "Long": "{0} MTR Damage",
-      "Full": "{0} mortar damage"
+      "Short": "{0} MTR DMG",
+      "Long": "{0} MTR damage",
+      "Full": "Mortar damage: {0} "
     },
     {
       "Bonus": "ThumperDamage",
-      "Short": "{0} Thumper Dmg",
-      "Long": "{0} Thumper Damage",
-      "Full": "{0} thumper damage"
+      "Short": "{0} Thumper DMG",
+      "Long": "{0} Thumper damage",
+      "Full": "Thumper damage: {0} "
     },
     {
       "Bonus": "SniperDamage",
-      "Short": "{0} Sniper Dmg",
-      "Long": "{0} Sniper Damage",
-      "Full": "{0} sniper damage"
+      "Short": "{0} Sniper DMG",
+      "Long": "{0} Sniper damage",
+      "Full": "Sniper Artillery damage: {0} "
     },
     {
       "Bonus": "LongTomDamage",
-      "Short": "{0} LongTom Dmg",
-      "Long": "{0} Long Tom Damage",
-      "Full": "{0} Long Tom damage"
+      "Short": "{0} LongTom DMG",
+      "Long": "{0} Long Tom damage",
+      "Full": "Long Tom damage: {0} "
     },
     {
       "Bonus": "LRMDamage",
-      "Short": "{0} LRM Dmg",
-      "Long": "{0} LRM Damage",
-      "Full": "{0} Long-Range Missile damage"
+      "Short": "{0} LRM DMG",
+      "Long": "{0} LRM damage",
+      "Full": "LRM damage: {0} "
     },
     {
       "Bonus": "HMRMDamage",
-      "Short": "{0} HMRM Dmg",
-      "Long": "{0} HMRM Damage",
-      "Full": "{0} Heavy Medium-Range Missile damage"
+      "Short": "{0} HMRM DMG",
+      "Long": "{0} HMRM damage",
+      "Full": "HMRM damage: {0} "
     },
     {
       "Bonus": "MRMDamage",
-      "Short": "{0} MRM Dmg",
-      "Long": "{0} MRM Damage",
-      "Full": "{0} Medium-Range Missile damage"
+      "Short": "{0} MRM DMG",
+      "Long": "{0} MRM damage",
+      "Full": "MRM damage: {0} "
     },
     {
       "Bonus": "MMSDamage",
-      "Short": "{0} MMS Dmg",
-      "Long": "{0} MMS Damage",
-      "Full": "{0} Micro Missile damage"
+      "Short": "{0} MMS DMG",
+      "Long": "{0} MMS damage",
+      "Full": "MMS damage: {0} "
     },
     {
       "Bonus": "SRMDamage",
-      "Short": "{0} SRM Dmg",
-      "Long": "{0} SRM Damage",
-      "Full": "{0} Short-Range Missile damage"
+      "Short": "{0} SRM DMG",
+      "Long": "{0} SRM damage",
+      "Full": "SRM damage: {0} "
     },
     {
       "Bonus": "ArrowIVDamage",
-      "Short": "{0} ArrowIV Dmg",
-      "Long": "{0} ArrowIV Damage",
-      "Full": "{0} Arrow IV damage"
+      "Short": "{0} ArrowIV DMG",
+      "Long": "{0} ArrowIV damage",
+      "Full": "Arrow IV damage: {0} "
     },
     {
       "Bonus": "MMLDamage",
-      "Short": "{0} MML Dmg",
-      "Long": "{0} MML Damage",
-      "Full": "{0} Multi-Missile Launcher damage"
+      "Short": "{0} MML DMG",
+      "Long": "{0} MML damage",
+      "Full": "MML damage: {0}"
     },
     {
       "Bonus": "ATMDamage",
-      "Short": "{0} ATM Dmg",
-      "Long": "{0} ATM Damage",
-      "Full": "{0} Advanced Tactical Missile damage"
+      "Short": "{0} ATM DMG",
+      "Long": "{0} ATM damage",
+      "Full": "ATM damage: {0} "
     },
     {
       "Bonus": "TboltDamage",
-      "Short": "{0} Tbolt Dmg",
-      "Long": "{0} Tbolt Damage",
-      "Full": "{0} Thunderbolt missile damage"
+      "Short": "{0} Tbolt DMG",
+      "Long": "{0} Tbolt damage",
+      "Full": "Thunderbolt damage: {0} "
     },
     {
       "Bonus": "MissileHeatDamage",
-      "Short": "{0} ML.Ht. Dmg",
-      "Long": "{0} Missile Ht Damage",
-      "Full": "{0} Missile heat damage"
+      "Short": "{0} mssl.HTDMG",
+      "Long": "{0} missile Ht damage",
+      "Full": "Missile heat damage: {0} "
     },
     {
       "Bonus": "FlamerDamage",
-      "Short": "{0} Fl. Dmg",
-      "Long": "{0} Flamer Damage",
-      "Full": "{0} flamer damage"
+      "Short": "{0} fl.DMG",
+      "Long": "{0} flamer damage",
+      "Full": "Flamer damage: {0} "
     },
     {
       "Bonus": "FlamerHeatDamage",
-      "Short": "{0} Fl.Ht. Dmg",
-      "Long": "{0} Flamer Ht Damage",
-      "Full": "{0} flamer heat damage"
+      "Short": "{0} fl.HTDMG",
+      "Long": "{0} flamer Ht damage",
+      "Full": "Flamer heat damage: {0} "
     },
     {
       "Bonus": "AccuracyLoss",
-      "Short": "- {0} Acc.",
-      "Long": "- {0} Accuracy",
-      "Full": "- {0} accuracy to all attacks"
+      "Short": "- {0} ACC",
+      "Long": "- {0} accuracy",
+      "Full": "Accuracy loss: -{0}"
     },
     {
       "Bonus": "ArmorTPCost",
       "Short": "{0} Armor TP",
       "Long": "{0} Armor TechPoints",
-      "Full": "{0} Tech Point cost to repair armor"
+      "Full": "Armor repair Tech Point cost: {0}"
     },
     {
       "Bonus": "ArmorCBCost",
-      "Short": "{0} Armor CB",
-      "Long": "{0} Armor C-Bills",
-      "Full": "{0} C-Bill cost to repair armor"
+      "Short": "{0} armor CB",
+      "Long": "{0} armor C-bills",
+      "Full": "Armor repair C-bill cost: {0}"
     },
     {
       "Bonus": "StructureTPCost",
       "Short": "{0} Strct. TP",
       "Long": "{0} Strct. TechPoints",
-      "Full": "{0} Tech Point cost to repair structure "
+      "Full": "Structure repair Tech Point cost: {0}"
     },
     {
       "Bonus": "StructureCBCost",
       "Short": "{0} Strct. CB",
-      "Long": "{0} Strct. C-Bills",
-      "Full": "{0} C-Bill cost to repair structure "
+      "Long": "{0} Strct. C-bills",
+      "Full": "Structure repair C-bill cost: {0}"
     },
     {
       "Bonus": "KineticProtection",
-      "Short": "{0} KineticRes",
-      "Long": "{0} Kinetic Resistance",
-      "Full": "{0} resistance to ballistic attacks"
+      "Short": "{0} kineticRes",
+      "Long": "{0} kinetic resistance",
+      "Full": "Kinetic resistance: {0}"
     },
     {
       "Bonus": "MissileProtection",
-      "Short": "{0} MissRes",
-      "Long": "{0} Missile Resistance",
-      "Full": "{0} resistance to missile attacks"
+      "Short": "{0} mssl.Res",
+      "Long": "{0} missile resistance",
+      "Full": "Missile resistance: {0}"
     },
     {
       "Bonus": "EnergyProtection",
-      "Short": "{0} EnergyRes",
-      "Long": "{0} Energy Resistance",
-      "Full": "{0} resistance to energy attacks"
+      "Short": "{0} NRG Res",
+      "Long": "{0} energy resistance",
+      "Full": "Energy resistance: {0}"
     },
     {
       "Bonus": "ArmorFactor",
-      "Short": "{0} Weight",
-      "Long": "{0} Arm.Weight",
-      "Full": "{0} Armor Weight"
+      "Short": "{0} weight",
+      "Long": "{0} arm.weight",
+      "Full": "Armor weight: {0} "
     },
     {
       "Bonus": "ArmorProtection",
-      "Short": "{0} Armor",
-      "Long": "{0} Armor Points",
-      "Full": "{0} armor points multiplier"
+      "Short": "{0} armor",
+      "Long": "{0} armor points",
+      "Full": "Armor points: {0}"
     },
     {
       "Bonus": "DamageTaken",
-      "Short": "{0} Dmg.Tkn",
-      "Long": "{0} Damage taken",
-      "Full": "{0} damage taken"
+      "Short": "{0} DMGtkn",
+      "Long": "{0} damage taken",
+      "Full": "Damage resistance: {0}"
     },
     {
       "Bonus": "DamageTakenLocation",
-      "Short": "{0} Dmg.Tkn",
-      "Long": "{0} Damage taken at location",
-      "Full": "{0} damage taken at the installed location"
+      "Short": "{0} locDMGtkn",
+      "Long": "{0} damage taken at location",
+      "Full": "Damage resistance: {0} in mounted location"
     },
     {
       "Bonus": "MissileDamageTaken",
-      "Short": "{0} Miss.Dmg.Tkn",
-      "Long": "{0} Missile Damage taken",
-      "Full": "{0} reduced damage taken from missile attacks"
+      "Short": "{0} mssl.DMGtkn",
+      "Long": "{0} missile damage taken",
+      "Full": "Missile damage resistance: {0}"
     },
     {
       "Bonus": "ChassisBasedWeight",
-      "Short": "{0} Weight",
-      "Long": "{0} Weight",
-      "Full": "Weighs {0} of the 'Mech's total mass"
+      "Short": "{0} weight",
+      "Long": "{0} weight",
+      "Full": "Weight: {0} of 'Mech's total mass"
     },
     {
       "Bonus": "GyroWeight",
-      "Short": "{0} Gyro.Weight",
-      "Long": "{0} Gyro Weight",
-      "Full": "Weighs {0} of standard gyro's weight of Engine Rating / 100"
+      "Short": "{0} gyro.wt",
+      "Long": "{0} gyro weight",
+      "Full": "Weight: {0} of a standard gyro"
     },
     {
       "Bonus": "StructureFactor",
-      "Short": "{0} Struct.Weight",
-      "Long": "{0} Structure Weight",
-      "Full": "{0} structure weight change"
+      "Short": "{0} struct.wt",
+      "Long": "{0} structure weight",
+      "Full": "Structure weight change: {0} "
     },
     {
       "Bonus": "StructureProtection",
-      "Short": "{0} Structure",
-      "Long": "{0} Structure Points",
-      "Full": "{0} structure points"
+      "Short": "{0} structure",
+      "Long": "{0} structure points",
+      "Full": "Structure points: {0} "
     },
     {
       "Bonus": "CritRes",
-      "Short": "{0} Crit.Res",
-      "Long": "{0} Crit Resist",
-      "Full": "{0} resistance to critical hits"
+      "Short": "{0} critRes",
+      "Long": "{0} crit resist",
+      "Full": "Critical hit resistance: {0}"
     },
     {
       "Bonus": "CritResLocation",
-      "Short": "{0} Crit.ResLocation",
-      "Long": "{0} Loc Crit Resist",
-      "Full": "{0} resistance to critical hits in the mounted location"
+      "Short": "{0} critResLoc",
+      "Long": "{0} loc crit resist",
+      "Full": "Critical hit resistance: {0} in mounted location"
     },
     {
       "Bonus": "StabThreshhold",
-      "Short": "{0} Stab",
-      "Long": "{0} Stability Threshold",
-      "Full": "{0} Stability threshold provided"
+      "Short": "{0} stab",
+      "Long": "{0} stability threshold",
+      "Full": "Stability threshold: {0}"
     },
     {
       "Bonus": "GyroStab",
-      "Short": "{0} Stab",
-      "Long": "{0} Stability Threshold",
-      "Full": "{0} Stability threshold provided by Gyro"
+      "Short": "{0} stab",
+      "Long": "{0} stability threshold",
+      "Full": "Stability threshold: {0}"
     },
     {
       "Bonus": "GyroStab2",
-      "Short": "{0} Stab",
-      "Long": "{0} Stability",
-      "Full": "{0} maximum Stability provided by Gyro"
+      "Short": "{0} stab",
+      "Long": "{0} stability",
+      "Full": "Max stability from gyro: {0}"
     },
     {
       "Bonus": "StabDamageTaken",
-      "Short": "{0} Stab.Dmg.Tkn",
-      "Long": "{0} Stability Damage Taken",
-      "Full": "{0} Stability damage taken"
+      "Short": "{0} stab.DMGtkn",
+      "Long": "{0} stability damage taken",
+      "Full": "Stability damage reduction: {0}"
     },
     {
       "Bonus": "EvaMax",
-      "Short": "{0} Max.Eva",
-      "Long": "{0} Maximum Evasion",
-      "Full": "{0} maximum Evasion pips"
+      "Short": "{0} max.eva",
+      "Long": "{0} maximum evasion",
+      "Full": "Maximum evasion: {0}"
     },
     {
       "Bonus": "EvaPips",
       "Short": "{0} Eva.Pips",
       "Long": "{0} Evasion Pips",
-      "Full": "{0} Evasion Pips gained from movement"
+      "Full": "Evasion from movement: {0}"
     },
     {
       "Bonus": "Defense",
-      "Short": "{0} Defense",
-      "Long": "{0} Defense",
-      "Full": "{0} Defense against being hit"
+      "Short": "{0} defense",
+      "Long": "{0} defense",
+      "Full": "Defense: {0}"
     },
     {
       "Bonus": "MeleeDef",
-      "Short": "{0} Melee Def",
-      "Long": "{0} Melee Defense",
-      "Full": "{0} Defense against being hit by Melee attacks"
+      "Short": "{0} melee def",
+      "Long": "{0} melee defense",
+      "Full": "Melee Defense: {0}"
     },
     {
       "Bonus": "MissileDefense",
-      "Short": "{0} Mssl.Def",
-      "Long": "{0} Missile Defense",
-      "Full": "{0} Defense against being hit by missiles"
+      "Short": "{0} mssl.def",
+      "Long": "{0} missile defense",
+      "Full": "Missile Defense: {0}"
     },
     {
       "Bonus": "AllyMissileDefense",
-      "Short": "{0} Ally Mssl.Def",
-      "Long": "{0} Ally Missile Defense",
-      "Full": "{0} Defense against being hit by missiles for the company"
+      "Short": "{0} ally mssl.def",
+      "Long": "{0} ally missile defense",
+      "Full": "Allied Missile Defense: {0}"
     },
     {
       "Bonus": "Initiative",
       "Short": "{0} Ini",
       "Long": "{0} Initiative",
-      "Full": "{0} Initiative"
+      "Full": "Initiative: {0} "
     },
     {
       "Bonus": "Crits",
-      "Short": "{0} Crit",
-      "Long": "{0} Critical",
-      "Full": "{0} chance to deal a critical hit"
+      "Short": "{0} crit",
+      "Long": "{0} critical",
+      "Full": "Critical hit chance: {0}"
     },
     {
       "Bonus": "WpnCrits",
-      "Short": "{0} Crit",
-      "Long": "{0} Critical",
-      "Full": "{0} critical hit chance with this weapon"
+      "Short": "{0} crit",
+      "Long": "{0} critical",
+      "Full": "Critical hit chance: {0} "
     },
     {
       "Bonus": "ShotsFiredMG",
-      "Short": "{0} Shots",
-      "Long": "{0} MG Shots",
-      "Full": "{0} shots with machine guns"
+      "Short": "{0} shots",
+      "Long": "{0} MG shots",
+      "Full": "Machine gun shots: {0}"
     },
     {
       "Bonus": "ShotsFiredAC20",
-      "Short": "{0} Shots",
-      "Long": "{0} AC20 Shots",
-      "Full": "{0} shots with AC/20"
+      "Short": "{0} shots",
+      "Long": "{0} AC/20 shots",
+      "Full": "AC/20 shots: {0}"
     },
     {
       "Bonus": "RecoilAC20",
-      "Short": "{0} AC20.Rec",
-      "Long": "{0} AC20 Recoil",
-      "Full": "{0} recoil with AC20 Weapons"
+      "Short": "{0} AC20 rec",
+      "Long": "{0} AC20 recoil",
+      "Full": "AC/20 recoil: {0}"
     },
     {
       "Bonus": "RangeAC10",
-      "Short": "{0} A120 Range",
-      "Long": "{0} A120 Range",
-      "Full": "{0} to all AC10 range brackets"
+      "Short": "{0} AC10 range",
+      "Long": "{0} AC/10 range",
+      "Full": "AC/10 range: {0}"
     },
     {
       "Bonus": "AC10Damage",
-      "Short": "{0} AC10 Dmg",
-      "Long": "{0} AC10 Damage",
-      "Full": "{0} AC10 damage dealt"
+      "Short": "{0} AC10 DMG",
+      "Long": "{0} AC/10 damage",
+      "Full": "AC/10 damage: {0}"
     },
     {
       "Bonus": "RangeAC20",
-      "Short": "{0} AC20 Range",
-      "Long": "{0} AC20 Range",
-      "Full": "{0} to all AC20 range brackets"
+      "Short": "{0} AC20 range",
+      "Long": "{0} AC/20 range",
+      "Full": "AC/20 range: {0}"
     },
     {
       "Bonus": "AC20Damage",
-      "Short": "{0} AC20 Dmg",
-      "Long": "{0} AC20 Damage",
-      "Full": "{0} AC20 damage dealt"
+      "Short": "{0} AC20 DMG",
+      "Long": "{0} AC/20 damage",
+      "Full": "AC/20 damage: {0}"
     },
     {
       "Bonus": "Recoil",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil",
-      "Full": "{0} recoil with ranged weapons"
+      "Short": "{0} recoil",
+      "Long": "{0} recoil",
+      "Full": "Recoil: {0}"
     },
     {
       "Bonus": "RecoilLocation",
-      "Short": "{0} RecoilLocation",
-      "Long": "{0} Location Recoil",
-      "Full": "{0} recoil with ranged weapons in the equipment location."
+      "Short": "{0} loc. recoil",
+      "Long": "{0} location recoil",
+      "Full": "Recoil: {0} in mounted location"
     },
     {
       "Bonus": "RecoilLocationType",
-      "Short": "{0} RecoilLocation{1}",
-      "Long": "{0} Location Recoil {1}",
-      "Full": "{0} recoil with ranged {1} weapons in the equipment location."
+      "Short": "{0} loc. recoil {1}",
+      "Long": "{0} location recoil {1}",
+      "Full": "Recoil: {0} with {1} in mounted location"
     },
     {
       "Bonus": "BallisticRecoil",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil",
-      "Full": "{0} recoil with ballistic weapons"
+      "Short": "{0} recoil",
+      "Long": "{0} recoil",
+      "Full": "Ballistic recoil: {0}"
     },
     {
       "Bonus": "MissileRecoil",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil",
-      "Full": "{0} recoil with missile weapons"
+      "Short": "{0} recoil",
+      "Long": "{0} recoil",
+      "Full": "Missile recoil: {0}"
     },
     {
       "Bonus": "EnergyRecoil",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil",
-      "Full": "{0} recoil with energy weapons"
+      "Short": "{0} recoil",
+      "Long": "{0} recoil",
+      "Full": "Energy recoil: {0}"
     },
     {
       "Bonus": "Radius",
-      "Short": "{0} Arc",
-      "Long": "{0} Firing Arc",
-      "Full": "{0} firing Arc with ranged weapons"
+      "Short": "{0} arc",
+      "Long": "{0} firing arc",
+      "Full": "Firing arc: {0}"
     },
     {
       "Bonus": "WpnRecoil",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil",
-      "Full": "This weapon has a recoil of {0}"
+      "Short": "{0} recoil",
+      "Long": "{0} recoil",
+      "Full": "Recoil: {0}"
     },
     {
       "Bonus": "WpnRecoilShot",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil",
-      "Full": "This weapon has a recoil of {0} per shot"
+      "Short": "{0} recoil",
+      "Long": "{0} recoil",
+      "Full": "Recoil: {0} per shot"
     },
     {
       "Bonus": "WpnRecoilShotSeries",
-      "Short": "{0} Recoil / {1} shots",
-      "Long": "{0} Recoil / {1} shots",
-      "Full": "This weapon has a recoil of {0} per {1} shots"
+      "Short": "{0} recoil / {1} shots",
+      "Long": "{0} recoil / {1} shots",
+      "Full": "Recoil: {0} per {1} shots"
     },
     {
       "Bonus": "LRMRecoil",
-      "Short": "{0} LRM Recoil",
-      "Long": "{0} Recoil",
-      "Full": "{0} recoil with LRMs"
+      "Short": "{0} LRM recoil",
+      "Long": "{0} recoil",
+      "Full": "LRM recoil: {0}"
     },
     {
       "Bonus": "RecoilAC",
-      "Short": "{0} Recoil",
-      "Long": "{0} AC Recoil",
-      "Full": "{0} recoil with all autocannons and rifles"
+      "Short": "{0} recoil",
+      "Long": "{0} AC recoil",
+      "Full": "Autocannon & rifle recoil: {0}"
     },
     {
       "Bonus": "RecoilPPC",
-      "Short": "{0} Recoil",
-      "Long": "{0} PPC Recoil",
-      "Full": "{0} recoil with PPC"
+      "Short": "{0} recoil",
+      "Long": "{0} PPC recoil",
+      "Full": "PPC recoil: {0}"
     },
     {
       "Bonus": "RecoilMG",
-      "Short": "{0} Recoil",
-      "Long": "{0} MG Recoil",
-      "Full": "{0} recoil with machineguns"
+      "Short": "{0} recoil",
+      "Long": "{0} MG recoil",
+      "Full": "Machine gun recoil: {0}"
     },
     {
       "Bonus": "RecoilAC10",
-      "Short": "{0} Recoil",
-      "Long": "{0} AC10 Recoil",
-      "Full": "{0} recoil with AC/10's"
+      "Short": "{0} recoil",
+      "Long": "{0} AC/10 recoil",
+      "Full": "AC/10 recoil: {0}"
     },
     {
       "Bonus": "RecoilAC2",
-      "Short": "{0} Recoil",
-      "Long": "{0} AC2 Recoil",
-      "Full": "{0} recoil with AC/2."
+      "Short": "{0} recoil",
+      "Long": "{0} AC/2 recoil",
+      "Full": "AC/2 recoil: {0}"
     },
     {
       "Bonus": "RecoilGauss",
-      "Short": "{0} Gauss Recoil",
-      "Long": "{0} Gauss Recoil",
-      "Full": "{0} recoil with Gauss weapons."
+      "Short": "{0} Gauss recoil",
+      "Long": "{0} Gauss recoil",
+      "Full": "Gauss recoil: {0}"
     },
     {
       "Bonus": "WpnAccuracy",
-      "Short": "{0} Acc",
+      "Short": "{0} ACC",
       "Long": "{0} Accuracy",
-      "Full": "{0} accuracy with this weapon."
+      "Full": "Accuracy: {0}"
     },
     {
       "Bonus": "WpnAccuracyShotSeries",
-      "Short": "{0} Acc. / {1} shots",
-      "Long": "{0} Acc. / {1} shots",
-      "Full": "This weapon has {0} Accuracy per {1} shots fired."
+      "Short": "{0} ACC / {1} shots",
+      "Long": "{0} ACC / {1} shots",
+      "Full": "Accuracy per {1} shots: {0}"
     },
     {
       "Bonus": "PipsIgnored",
       "Short": "{0} Pips",
       "Long": "{0} Evasion Pips",
-      "Full": "{0} Evasion pips ignored by this weapon."
+      "Full": "Evasion ignored: {0}"
     },
     {
       "Bonus": "AccuracyMin",
-      "Short": "{0} MinR Acc",
-      "Long": "{0} MinR Accuracy",
-      "Full": "{0} accuracy at Minimum Range."
+      "Short": "{0} minrange ACC",
+      "Long": "{0} min. range accuracy",
+      "Full": "Minimum range accuracy: {0}"
     },
     {
       "Bonus": "AccuracySR",
-      "Short": "{0} SR Acc",
-      "Long": "{0} SR Accuracy",
-      "Full": "{0} accuracy at Short Range."
+      "Short": "{0} SR ACC",
+      "Long": "{0} SR accuracy",
+      "Full": "Short range accuracy: {0}"
     },
     {
       "Bonus": "AccuracyMR",
-      "Short": "{0} MedR Acc",
-      "Long": "{0} MedR Accuracy",
-      "Full": "{0} accuracy at Medium Range."
+      "Short": "{0} MedR ACC",
+      "Long": "{0} MedR accuracy",
+      "Full": "Medium range accuracy: {0}"
     },
     {
       "Bonus": "AccuracyLR",
-      "Short": "{0} LR Acc",
-      "Long": "{0} LR Accuracy",
-      "Full": "{0} accuracy at Long Range."
+      "Short": "{0} LR ACC",
+      "Long": "{0} LR accuracy",
+      "Full": "Long range accuracy: {0}"
     },
     {
       "Bonus": "AccuracyER",
-      "Short": "{0} ER Acc",
+      "Short": "{0} ER ACC",
       "Long": "{0} ER Accuracy",
-      "Full": "{0} accuracy at Extreme Range."
+      "Full": "Extreme range accuracy: {0}"
     },
     {
       "Bonus": "AccuracyUnit",
-      "Short": "{0} Acc. {1}",
-      "Long": "{0} Acc. vs {1}",
-      "Full": "{0} Accuracy against {1} units."
+      "Short": "{0} ACC {1}",
+      "Long": "{0} ACC vs {1}",
+      "Full": "Accuracy vs. {1}: {0}"
     },
     {
       "Bonus": "DamageUnit",
-      "Short": "{0} Dmg {1}",
-      "Long": "{0} Dmg vs {1}",
-      "Full": "{0} damage against {1} units."
+      "Short": "{0} DMG {1}",
+      "Long": "{0} DMG vs {1}",
+      "Full": "Damage vs. {1}: {0}"
     },
     {
       "Bonus": "Accuracy",
-      "Short": "{0} Acc",
-      "Long": "{0} Accuracy",
-      "Full": "{0} accuracy with ranged weapons."
+      "Short": "{0} ACC",
+      "Long": "{0} accuracy",
+      "Full": "Accuracy: {0}"
     },
     {
       "Bonus": "AccuracyLocation",
-      "Short": "{0} Acc",
-      "Long": "{0} Accuracy",
-      "Full": "{0} accuracy for weapons mounted in the same location."
+      "Short": "{0} ACC",
+      "Long": "{0} accuracy",
+      "Full": "Accuracy: {0} in mounted location"
     },
     {
       "Bonus": "EvasionIgnoreLocation",
       "Short": "{0} Pip",
       "Long": "{0} Evasion Ignore",
-      "Full": "{0} Evasion Ignored for weapons mounted in the same location."
+      "Full": "Evasion ignored: {0} in mounted location"
     },
     {
       "Bonus": "LaserAccuracy",
-      "Short": "{0} L, Acc",
-      "Long": "{0} L, Accuracy",
-      "Full": "{0} accuracy with Laser."
+      "Short": "{0} L, ACC",
+      "Long": "{0} Laser ACC",
+      "Full": "Laser accuracy: {0}"
     },
     {
       "Bonus": "ACAccuracy",
-      "Short": "{0} AC Acc",
-      "Long": "{0} AC Accuracy",
-      "Full": "{0} accuracy with all autocannons and rifles."
+      "Short": "{0} AC ACC",
+      "Long": "{0} AC accuracy",
+      "Full": "Autocannon & rifle accuracy: {0}"
     },
     {
       "Bonus": "AC10Accuracy",
-      "Short": "{0} AC10 Acc",
-      "Long": "{0} AC10 Accuracy",
-      "Full": "{0} accuracy with AC/10."
+      "Short": "{0} AC10 ACC",
+      "Long": "{0} AC/10 accuracy",
+      "Full": "AC/10 accuracy: {0}"
     },
     {
       "Bonus": "AC2Accuracy",
-      "Short": "{0} AC2 Acc",
-      "Long": "{0} AC2 Accuracy",
-      "Full": "{0} accuracy with all AC2 category weapons."
+      "Short": "{0} AC2 ACC",
+      "Long": "{0} AC/2 accuracy",
+      "Full": "AC/2 accuracy: {0}"
     },
     {
       "Bonus": "AC2Evasion",
       "Short": "{0} AC2 Ev",
-      "Long": "{0} AC2 Evasion",
-      "Full": "Provides {0} Evasion pips ignored with AC2 Weapons"
+      "Long": "{0} AC/2 Evasion",
+      "Full": "AC/2 evasion ignored: {0}"
     },
     {
       "Bonus": "ShotgunCluster",
       "Short": "{0} Cluster",
       "Long": "{0} LBX Cluster",
-      "Full": "Shot separates into {0} projectiles at {1} meters and deals {2} less damage below that range."
+      "Full": "LBX Cluster: Separates into {0} projectiles at {1}m. {2} less damage below that range"
     },
     {
       "Bonus": "LBXCluster",
       "Short": "{0} Cluster",
       "Long": "{0} LBX Cluster",
-      "Full": "Shell separates into {0} projectiles doing {1} damage each, the cluster rolls to hit as a group"
+      "Full": "LBX Cluster: Separates into {0} projectiles doing {1} damage each. Single to-hit roll"
     },
     {
       "Bonus": "LBXSplatter",
       "Short": "{0} Splatter",
       "Long": "{0} LBX Splatter",
-      "Full": "Shell separates into {0} projectiles doing 5 damage each, each projectile rolls to hit individually"
+      "Full": "LBX Cluster: Separates into {0} projectiles doing 5 damage each. Individual to-hit rolls"
     },
     {
       "Bonus": "LBXInferno",
       "Short": "{0} Inferno",
       "Long": "{0} LBX Inferno",
-      "Full": "Shell separates into {0} projectiles doing 2 heat damage each, each projectile rolls to hit individually"
+      "Full": "LBX Inferno: Separates into {0} projectiles doing 2 heat damage each. Individual to-hit rolls"
     },
     {
       "Bonus": "LBXSeperation",
-      "Short": "{0} Shell",
-      "Long": "Range {0}, Penalty {1}",
-      "Full": "Shell seperates at {0} meters and does {1} damage below that range."
+      "Short": "{0} shell",
+      "Long": "Range {0}, penalty {1}",
+      "Full": "Shell separates at {0}m. {1} damage below that range"
     },
     {
       "Bonus": "LBXClusterPenalty",
-      "Short": "{0} MR Penalty",
-      "Long": "{0} Min Range Penalty",
-      "Full": "{0} damage penalty below separation range."
+      "Short": "{0} MR penalty",
+      "Long": "{0} min range penalty",
+      "Full": "Damage below separation range: {0}"
     },
     {
       "Bonus": "LBXClusterRange",
-      "Short": "{0} Sep.Distance",
-      "Long": "{0} Separation Distance",
-      "Full": "Shell separates after {0} meters."
+      "Short": "{0} sep. dist",
+      "Long": "{0} separation distance",
+      "Full": "Shell separates at {0}m"
     },
     {
       "Bonus": "LBX10Cluster",
       "Short": "{0} LBX10",
       "Long": "{0} LBX10",
-      "Full": "{0} additional projectiles with LBX10."
+      "Full": "LBX10: {0}"
     },
     {
       "Bonus": "LBX20Cluster",
       "Short": "{0} LBX20",
       "Long": "{0} LBX20",
-      "Full": "{0} additional projectiles with LBX20."
+      "Full": "LBX20: {0}"
     },
     {
       "Bonus": "HAGCluster",
       "Short": "{0} HAG",
       "Long": "{0} HAG",
-      "Full": "{0} additional projectiles with HAG."
+      "Full": "HAG: {0}"
     },
     {
       "Bonus": "GaussAccuracy",
-      "Short": "{0} Gauss Acc",
+      "Short": "{0} Gauss ACC",
       "Long": "{0} Gauss Accuracy",
-      "Full": "{0} accuracy with Gauss rifles."
+      "Full": "Gauss accuracy: {0}"
     },
     {
       "Bonus": "GaussEvasion",
       "Short": "{0} Gauss Ev",
       "Long": "{0} Gauss Evasion",
-      "Full": "{0} Evasion Ignored with Gauss rifles."
+      "Full": "Gauss evasion ignored: {0}"
     },
     {
       "Bonus": "MRMAccuracy",
-      "Short": "{0} MRM Acc",
+      "Short": "{0} MRM ACC",
       "Long": "{0} MRM Accuracy",
-      "Full": "{0} accuracy with Medium-Range Missiles."
+      "Full": "MRM accuracy: {0}"
     },
     {
       "Bonus": "HMRMAccuracy",
-      "Short": "{0} HMRM Acc",
+      "Short": "{0} HMRM ACC",
       "Long": "{0} HMRM Accuracy",
-      "Full": "{0} accuracy with Heavy Medium-Range Missiles."
+      "Full": "HMRM accuracy: {0}"
     },
     {
       "Bonus": "LRMAccuracy",
-      "Short": "{0} LRM Acc",
+      "Short": "{0} LRM ACC",
       "Long": "{0} LRM Accuracy",
-      "Full": "{0} accuracy with Long-Range Missiles."
+      "Full": "LRM accuracy: {0}"
     },
     {
       "Bonus": "TboltAccuracy",
-      "Short": "{0} Thunderbolt Acc",
+      "Short": "{0} Thunderbolt ACC",
       "Long": "{0} Thunderbolt Accuracy",
-      "Full": "{0} accuracy with Thunderbolt Missiles."
+      "Full": "Thunderbolt accuracy: {0}"
     },
     {
       "Bonus": "ArrowAccuracy",
-      "Short": "{0} Arrow Acc",
+      "Short": "{0} Arrow ACC",
       "Long": "{0} Arrow Accuracy",
-      "Full": "{0} accuracy with Arrow IV Missiles."
+      "Full": "Arrow IV accuracy: {0}"
     },
     {
       "Bonus": "DFAccuracy",
-      "Short": "{0} DF Acc",
-      "Long": "{0} DFAccuracy",
-      "Full": "{0} direct fire accuracy."
+      "Short": "{0} DF ACC",
+      "Long": "{0} DF Accuracy",
+      "Full": "Direct fire accuracy: {0}"
     },
     {
       "Bonus": "DFLRMAccuracy",
-      "Short": "{0} LRM DF Acc",
+      "Short": "{0} LRM DF ACC",
       "Long": "{0} LRM DFAccuracy",
-      "Full": "{0} direct fire accuracy with Long-Range Missiles."
+      "Full": "LRM direct fire accuracy: {0}"
     },
     {
       "Bonus": "DFMMLAccuracy",
-      "Short": "{0} MML DF Acc",
+      "Short": "{0} MML DF ACC",
       "Long": "{0} MML DFAccuracy",
-      "Full": "{0} direct fire accuracy with Multi-Missile Launcher."
+      "Full": "MRM direct fire accuracy: {0}"
     },
     {
       "Bonus": "SRMAccuracy",
-      "Short": "{0} SRM Acc",
-      "Long": "{0} SRM Accuracy",
-      "Full": "{0} accuracy with Short-Range Missiles."
+      "Short": "{0} SRM ACC",
+      "Long": "{0} SRM accuracy",
+      "Full": "SRM accuracy: {0}"
     },
     {
       "Bonus": "MMLAccuracy",
-      "Short": "{0} MML Acc",
-      "Long": "{0} MML Accuracy",
-      "Full": "{0} accuracy with Multi-Missile Launcher."
+      "Short": "{0} MML ACC",
+      "Long": "{0} MML accuracy",
+      "Full": "MML accuracy: {0}"
     },
     {
       "Bonus": "BallisticAcc",
-      "Short": "{0} Ball.Acc",
-      "Long": "{0} Ballistic Acc.",
-      "Full": "{0} accuracy with ballistic weapons."
+      "Short": "{0} ball. ACC",
+      "Long": "{0} ballistic ACC",
+      "Full": "Ballistic accuracy: {0}"
     },
     {
       "Bonus": "EnergyAcc",
       "Short": "{0} Enrg.Acc",
-      "Long": "{0} Energy Acc",
-      "Full": "{0} accuracy with energy weapons."
+      "Long": "{0} Energy ACC",
+      "Full": "Energy accuracy: {0}"
     },
     {
       "Bonus": "MissileAcc",
       "Short": "{0} Miss.Acc",
-      "Long": "{0} Missile Acc",
-      "Full": "{0} accuracy with missile weapons."
+      "Long": "{0} Missile ACC",
+      "Full": "Missile accuracy: {0}"
     },
     {
       "Bonus": "ArmBallisticAcc",
       "Short": "{0} Arm Ball.Acc",
-      "Long": "{0} Arm Ballistic Acc.",
-      "Full": "{0} accuracy with arm-mounted ballistic weapons."
+      "Long": "{0} Arm Ballistic ACC",
+      "Full": "Arm-mounted ballistic accuracy: {0}"
     },
     {
       "Bonus": "ArmEnergyAcc",
       "Short": "{0} Enrg.Acc",
-      "Long": "{0} Energy Acc",
-      "Full": "{0} accuracy with arm-mounted energy weapons."
+      "Long": "{0} Energy ACC",
+      "Full": "Arm-mounted energy accuracy: {0}"
     },
     {
       "Bonus": "ArmMissileAcc",
       "Short": "{0} Miss.Acc",
-      "Long": "{0} Missile Acc",
-      "Full": "{0} accuracy with arm-mounted missile weapons."
+      "Long": "{0} Missile ACC",
+      "Full": "Arm-mounted Missile accuracy: {0}"
     },
     {
       "Bonus": "MGAcc",
       "Short": "{0} MG.Acc",
-      "Long": "{0} MG Acc",
-      "Full": "{0} accuracy with machinegun weapons."
+      "Long": "{0} MG ACC",
+      "Full": "Machine gun accuracy: {0}"
     },
     {
       "Bonus": "DFMissileAcc",
       "Short": "{0} Direct.Miss.Acc",
-      "Long": "{0} Direct Missile Acc",
-      "Full": "{0} accuracy with direct-fire missile attacks."
+      "Long": "{0} Direct Missile ACC",
+      "Full": "Missile direct fire accuracy: {0}"
     },
     {
       "Bonus": "IndirectAcc",
       "Short": "{0} Indirect.Acc",
-      "Long": "{0} Indirect Acc",
-      "Full": "{0} accuracy with indirect fire attacks. Total maximum bonus from all sources is 3."
+      "Long": "{0} Indirect ACC",
+      "Full": "Indirect accuracy: {0}. Stack limit is 3 from any source"
     },
     {
       "Bonus": "LanceIndirectAcc",
-      "Short": "{0} Company Indirect.Acc",
-      "Long": "{0} Company Indirect Acc",
-      "Full": "{0} Company accuracy with indirect fire. Total maximum bonus from all sources is 3."
+      "Short": "{0} company Indirect.Acc",
+      "Long": "{0} company Indirect ACC",
+      "Full": "Company indirect accuracy: {0}. Stack limit is 3 from any source"
     },
     {
       "Bonus": "LanceAccuracy",
-      "Short": "{0} Company Acc",
-      "Long": "{0} Company Acc",
-      "Full": "{0} Company accuracy. Does not stack."
+      "Short": "{0} company ACC",
+      "Long": "{0} company ACC",
+      "Full": "Company accuracy: {0}. Does not stack"
     },
     {
       "Bonus": "BallisticCrit",
       "Short": "{0} Ball.Crit",
-      "Long": "{0} Ballistic Crit.",
-      "Full": "{0} increased critical chance with ballistic weapons."
+      "Long": "{0} Ballistic Crit",
+      "Full": "Ballistic critical hit chance: {0}"
     },
     {
       "Bonus": "AC2Crit",
       "Short": "{0} AC2.Crit",
-      "Long": "{0} AC2 Crit.",
-      "Full": "{0} increased critical chance with AC2 weapons."
+      "Long": "{0} AC2 Crit",
+      "Full": "AC/2 critical hit chance: {0}"
     },
     {
       "Bonus": "AutocannonCrit",
       "Short": "{0} AC.Crit",
-      "Long": "{0} AC Crit.",
-      "Full": "{0} increased critical chance with autocannons."
+      "Long": "{0} AC Crit",
+      "Full": "Autocannon critical hit chance: {0}"
     },
     {
       "Bonus": "EnergyCrit",
       "Short": "{0} Enrg.Crit",
       "Long": "{0} Energy Crit",
-      "Full": "{0} increased critical chance with energy weapons."
+      "Full": "Energy critical hit chance: {0}"
     },
     {
       "Bonus": "PPCCrit",
       "Short": "{0} PPC.Crit",
       "Long": "{0} PPC Crit",
-      "Full": "{0} increased critical chance with PPC weapons."
+      "Full": "PPC critical hit chance: {0}"
     },
     {
       "Bonus": "MissileCrit",
       "Short": "{0} Mssl.Crit",
       "Long": "{0} Missile Criticals",
-      "Full": "{0} increased critical chance with missile weapons."
+      "Full": "Missile critical hit chance: {0}"
     },
     {
       "Bonus": "MRMCrit",
       "Short": "{0} MRM.Crit",
       "Long": "{0} MRM Criticals",
-      "Full": "{0} increased critical chance with MRM."
+      "Full": "MRM critical hit chance: {0}"
     },
     {
       "Bonus": "LRMCrit",
       "Short": "{0} LRM.Crit",
       "Long": "{0} LRM Criticals",
-      "Full": "{0} increased critical chance with LRM."
+      "Full": "LRM critical hit chance: {0}"
     },
     {
       "Bonus": "SRMCrit",
       "Short": "{0} SRM.Crit",
       "Long": "{0} SRM Criticals",
-      "Full": "{0} increased critical chance with SRM."
+      "Full": "SRM critical hit chance: {0}"
     },
     {
       "Bonus": "MMLCrit",
       "Short": "{0} MML.Crit",
       "Long": "{0} MML Criticals",
-      "Full": "{0} increased critical chance with MML."
+      "Full": "MML critical hit chance: {0}"
     },
     {
       "Bonus": "MeleeStab",
-      "Short": "{0} MeleeStab.Dmg",
-      "Long": "{0} Melee Stab. Damage",
-      "Full": "{0} melee stability damage."
+      "Short": "{0} MeleeStab.DMG",
+      "Long": "{0} melee stab. damage",
+      "Full": "Melee stability damage: {0}"
     },
     {
       "Bonus": "Melee",
       "Short": "{0} MeleeDmg",
-      "Long": "{0} Melee Damage",
-      "Full": "{0} melee damage."
+      "Long": "{0} melee damage",
+      "Full": "Melee damage: {0}"
     },
     {
       "Bonus": "Melee2",
       "Short": "{0} MeleeDmg",
-      "Long": "{0} Melee Damage",
-      "Full": "{0} additional base melee damage."
+      "Long": "{0} melee damage",
+      "Full": "Base melee damage: {0}"
     },
     {
       "Bonus": "MeleeHeat",
       "Short": "{0} H-MeleeDmg",
-      "Long": "{0} Heat Melee Damage",
-      "Full": "{0} additional melee heat damage."
+      "Long": "{0} heat melee damage",
+      "Full": "Melee heat damage: {0}"
     },
     {
       "Bonus": "MeleeAcc",
       "Short": "{0} MeleeAcc",
-      "Long": "{0} Melee Accuracy",
-      "Full": "{0} melee accuracy."
+      "Long": "{0} melee Accuracy",
+      "Full": "Melee accuracy: {0}"
     },
     {
       "Bonus": "MeleeCrit",
       "Short": "{0} MeleeCrit",
-      "Long": "{0} Melee Criticals",
-      "Full": "{0} melee critical chance."
+      "Long": "{0} melee criticals",
+      "Full": "Melee critical hit chance: {0}"
     },
     {
       "Bonus": "DFA",
-      "Short": "{0} DFA Dmg",
-      "Long": "{0} DFA Damage",
-      "Full": "{0} Death from Above damage."
+      "Short": "{0} DFA DMG",
+      "Long": "{0} DFA damage",
+      "Full": "Death from Above damage: {0} "
     },
     {
       "Bonus": "DFA2",
-      "Short": "{0} DFA Dmg",
-      "Long": "{0} DFA Damage",
-      "Full": "{0} Death from Above base damage."
+      "Short": "{0} DFA DMG",
+      "Long": "{0} DFA damage",
+      "Full": "Death from Above base damage: {0} "
     },
     {
       "Bonus": "DFAAcc",
-      "Short": "{0} DFA Acc",
+      "Short": "{0} DFA ACC",
       "Long": "{0} DFA Accuracy",
-      "Full": "{0} Death from Above accuracy."
+      "Full": "Death from Above accuracy: {0} "
     },
     {
       "Bonus": "DFASelfDamage",
-      "Short": "{0} DFA.Slf.Dmg",
-      "Long": "{0} DFA Self Damage",
-      "Full": "{0} Death from Above self damage taken."
+      "Short": "{0} DFA.Slf.DMG",
+      "Long": "{0} DFA self damage",
+      "Full": "Death from Above self-damage: {0}"
     },
     {
       "Bonus": "Health",
       "Short": "{0} Injury",
-      "Long": "{0} Injury res.",
-      "Full": "{0} Injuries resisted."
+      "Long": "{0} injury res",
+      "Full": "Injuries resisted: {0} "
     },
     {
       "Bonus": "Evasion",
       "Short": "{0} Evasion",
       "Long": "{0} Evasion Pips",
-      "Full": "{0} Evasion pips from movement."
+      "Full": "Evasion from movement: {0}"
     },
     {
       "Bonus": "WalkSpeed",
       "Short": "{0} WalkDist",
       "Long": "{0} Walk Distance",
-      "Full": "{0} walking distance."
+      "Full": "Walk distance: {0}"
     },
     {
       "Bonus": "WalkSpeedBonus",
       "Short": "BonusWalkDist",
       "Long": "Bonus Walk Distance",
-      "Full": "{0} bonus walking distance if {1}."
+      "Full": "Walk distance: {0} if {1}"
     },
     {
       "Bonus": "WalkSpeedTonnage",
       "Short": "IncWalkSpeed",
       "Long": "Increased Walk Speed",
-      "Full": "{0} walking speed, increasing by {1} per {2} tons over {3} tons."
+      "Full": "Walk distance: {0}, increasing by {1} per {2} tons over {3} tons"
     },
     {
       "Bonus": "RunSpeed",
-      "Short": "{0} SprintDist.",
+      "Short": "{0} SprintDist",
       "Long": "{0} Sprint Distance",
-      "Full": "{0} sprinting distance."
+      "Full": "Run speed: {0} "
     },
     {
       "Bonus": "RunMod",
-      "Short": "{0} Run",
-      "Long": "{0} Run Multi",
-      "Full": "{0} Run Multiplier"
+      "Short": "{0} sprint",
+      "Long": "{0} sprint multi",
+      "Full": "Run speed: {0}"
     },
     {
       "Bonus": "TwinLinkedCap",
       "Short": "TL CAP",
-      "Long": "Twin Linked CAP",
-      "Full": "Twin Linked Capacitor: Improves Weapons Stats; Grants Doubled Rate of Fire or Accuracy; Incompatible with PPC Capacitor."
+      "Long": "Twin-Linked CAP",
+      "Full": "Twin-Linked Capacitor: Doubled rate of fire or increased accuracy, improved stats. Incompatible with PPC Capacitor"
     },
     {
       "Bonus": "PiratePPCCap",
       "Short": "CAP",
       "Long": "Capacitor",
-      "Full": "This PPC has been fitted with a PPC capacitor and cannot be enhanced by external Capacitors."
+      "Full": "Built-in capacitor: Cannot use external capacitors"
     },
     {
       "Bonus": "HandHeldQuirk",
-      "Short": "{0} HH Acc",
+      "Short": "{0} HH ACC",
       "Long": "{0} HH Accuracy",
-      "Full": "{0} increased Hand-Held Weapon accuracy."
+      "Full": "Handheld accuracy: {0}"
     },
     {
       "Bonus": "PPCACC",
-      "Short": "{0} PPC Acc",
+      "Short": "{0} PPC ACC",
       "Long": "{0} PPC Accuracy",
-      "Full": "{0} increased PPC accuracy."
+      "Full": "PPC accuracy: {0}"
     },
     {
       "Bonus": "PPCCAPDMG",
-      "Short": "{0} PPC Dmg",
-      "Long": "{0} PPC Damage",
-      "Full": "{0} increased PPC damage."
+      "Short": "{0} PPC DMG",
+      "Long": "{0} PPC damage",
+      "Full": "PPC damage: {0}"
     },
     {
       "Bonus": "PPCCAPHEAT",
-      "Short": "{0} PPC Heat",
-      "Long": "{0} PPC Heat",
-      "Full": "{0} PPC heat generation."
+      "Short": "{0} PPC heat",
+      "Long": "{0} PPC heat",
+      "Full": "PPC heat generation: {0}"
     },
     {
       "Bonus": "OLDPPCDEBUFF",
-      "Short": "PPC Debuff",
-      "Long": "PPC Debuff {0}",
-      "Full": "PPC scrambles target accuracy by {0}."
+      "Short": "PPC debuff",
+      "Long": "PPC debuff {0}",
+      "Full": "PPC scrambles target accuracy by {0}"
     },
     {
       "Bonus": "EMPDEBUFF",
       "Short": "EMP",
       "Long": "EMP {0}",
-      "Full": "EMP Applies stacking ECM Jamming of {0}."
+      "Full": "EMP: {0} ECM jamming on target. Stacks"
     },
     {
       "Bonus": "EMPHEAT",
       "Short": "EMP",
       "Long": "EMP {0}",
-      "Full": "EMP increases enemy heat generation by {0}."
+      "Full": "EMP: {0} heat generation on target"
     },
     {
       "Bonus": "EMPRECOIL",
       "Short": "EMP",
       "Long": "EMP {0}",
-      "Full": "EMP increases enemy refire penalty by {0}."
+      "Full": "EMP: {0} refire penalty on target"
     },
     {
       "Bonus": "PPCDEBUFF",
-      "Short": "PPC EM Debuff",
-      "Long": "PPC EM Debuff {0}",
-      "Full": "PPC Applies stacking ECM Jamming of {0}."
+      "Short": "PPC EMI debuff",
+      "Long": "PPC EMI debuff {0}",
+      "Full": "PPC EMI: {0} ECM jamming on target"
     },
     {
       "Bonus": "ECMPPCDEBUFF",
-      "Short": "PPC EM Debuff",
-      "Long": "PPC EM Debuff {0}",
-      "Full": "PPC Applies stacking ECM Jamming of {0}."
+      "Short": "PPC EMI debuff",
+      "Long": "PPC EMI debuff {0}",
+      "Full": "PPC EMI: {0} ECM jamming on target"
     },
     {
       "Bonus": "PLASMADEBUFF",
       "Short": "Plasma",
-      "Long": "Plasma Debuff {0}",
-      "Full": "Plasma residue increases target heat generation by {0}."
+      "Long": "Plasma debuff {0}",
+      "Full": "Plasma residue: +{0} target heat generation"
     },
     {
       "Bonus": "PIRATEFLAMERDEBUFF",
       "Short": "Burning",
-      "Long": "Burning Debuff {0}",
-      "Full": "Burning increases target heat generation by {0}."
+      "Long": "Burning debuff {0}",
+      "Full": "Burning: +{0} target heat generation"
     },
     {
       "Bonus": "HAMMERFIST",
       "Short": "Destabilizing",
       "Long": "Destabilizing",
-      "Full": "Weapon hits destabilize target's Gyro by {0}."
+      "Full": "Destabilizing: Target gyro destabilized by {0}"
     },
     {
       "Bonus": "PlasmaHeatDamage",
-      "Short": "{0} Flamer & Plasma Heat",
-      "Long": "{0} Flamer & Plasma Heat",
-      "Full": "{0} extra flamer and plasma heat damage."
+      "Short": "{0} Flamer & Plasma heat",
+      "Long": "{0} flamer & plasma heat",
+      "Full": "Flamer & plasma heat damage: {0}"
     },
     {
       "Bonus": "DesignMask",
       "Short": "{0}",
       "Long": "{0}",
-      "Full": "{0} is created around the impact site."
+      "Full": "{0} is created around the impact site"
     },
     {
       "Bonus": "PlasmaRange",
-      "Short": "{0} Flamer & Plasma Range",
-      "Long": "{0} Flamer & Plasma Range",
-      "Full": "{0} extra flamer and plasma range."
+      "Short": "{0} Flamer & Plasma range",
+      "Long": "{0} flamer & plasma range",
+      "Full": "Flamer & plasma range : {0}"
     },
     {
       "Bonus": "Indirect",
       "Short": "Indirect",
-      "Long": "Indirect Fire",
-      "Full": "Weapon is capable of Indirect fire."
+      "Long": "Indirect fire",
+      "Full": "Capable of indirect fire"
     },
     {
       "Bonus": "IndirectMML",
       "Short": "Indirect",
-      "Long": "Indirect Fire",
-      "Full": "Weapon is capable of Indirect fire with LRM Ammo."
+      "Long": "Indirect fire",
+      "Full": "Capable of indirect fire with LRM ammo"
     },
     {
       "Bonus": "IndirectMML20",
       "Short": "Indirect",
-      "Long": "Indirect Fire",
-      "Full": "Weapon is capable of Indirect fire with LRM/ATM Ammo."
+      "Long": "Indirect fire",
+      "Full": "Capable of indirect fire with LRM/ATM ammo"
     },
     {
       "Bonus": "NoIndirect",
-      "Short": "No Indirect",
-      "Long": "No Indirect",
-      "Full": "No indirect fire."
+      "Short": "No indirect",
+      "Long": "No indirect",
+      "Full": "Not capable of indirect fire"
     },
     {
       "Bonus": "NoMelee",
       "Short": "No Melee",
       "Long": "No Melee",
-      "Full": "Weapon does not fire in melee."
+      "Full": "Does not fire in melee"
     },
     {
       "Bonus": "AlwaysStartsFire",
-      "Short": "Always ignites forests.",
-      "Long": "Always ignites forests.",
-      "Full": "Always ignites forests."
+      "Short": "Always ignites forests",
+      "Long": "Always ignites forests",
+      "Full": "Always ignites forests"
     },
     {
       "Bonus": "AlwaysStartsFireAnywhere",
       "Short": "Always ignites terrain",
       "Long": "Always ignites terrain",
-      "Full": "Always ignites terrain."
+      "Full": "Always ignites terrain"
     },
     {
       "Bonus": "FireTerrainStrength",
       "Short": "{0} F.Strength",
       "Long": "{0} F.Strength",
-      "Full": "{0} burn strength."
+      "Full": "Burn strength: {0} "
     },
     {
       "Bonus": "FireTerrainDuration",
       "Short": "{0} F.Duration",
       "Long": "{0} F.Duration",
-      "Full": "{0} burn duration."
+      "Full": "Burn duration: {0} "
     },
     {
       "Bonus": "FireTerrainSize",
       "Short": "{0} F.Area",
       "Long": "{0} F.Area",
-      "Full": "{0}m terrain radius burned."
+      "Full": "Terrain burn radius: {0}m"
     },
     {
       "Bonus": "LegJetsLower",
       "Short": "Lower Leg JJ",
       "Long": "Lower Leg Jump Jets",
-      "Full": "Lower Leg Jump Jets replace Foot and Lower Leg."
+      "Full": "Lower Leg Jump Jet: Replaces the foot and lower leg"
     },
     {
       "Bonus": "LegJetsUpper",
       "Short": "Upper Leg JJ",
       "Long": "Upper Leg Jump Jets",
-      "Full": "Upper Leg Jump Jets replace Hip and Upper Leg."
+      "Full": "Upper Leg Jump Jet: Replaces the hip and upper leg"
     },
     {
       "Bonus": "WpnCooldown",
       "Short": "{0} WpnCD",
       "Long": "{0} WpnCoolDown",
-      "Full": "{0} Turn Cooldown between shots."
+      "Full": "Cooldown between shots: {0} turns"
     },
     {
       "Bonus": "DelayedImpact",
       "Short": "{0} Turns",
       "Long": "{0} Turns Delay",
-      "Full": "{0} Turns before Damage dealt."
+      "Full": "Damage dealt after {0} turns"
     },
     {
       "Bonus": "Blade",
       "Short": "Blade",
       "Long": "Blade",
-      "Full": "Retractable Blade can be installed alongside a Hand Actuator."
+      "Full": "Retractable Blade: Can be installed alongside a hand actuator"
     },
     {
       "Bonus": "BleedOutMod",
-      "Short": "{0} Bleed Mod",
-      "Long": "{0} Bleed Mod",
-      "Full": "{0} Bleed Modifier - Changes Bleeding Out speed."
+      "Short": "{0} Bleed mod",
+      "Long": "{0} bleed mod",
+      "Full": "Bleed modifier: {0}"
     },
     {
       "Bonus": "BleedOutAura",
-      "Short": "{0} Bleed Mod",
-      "Long": "{0} Bleed Mod",
-      "Full": "{0} Bleed Modifier in {1} Aura Range."
+      "Short": "{0} bleed mod",
+      "Long": "{0} bleed mod",
+      "Full": "Bleed modifier: {0} in {1} aura range"
     },
     {
       "Bonus": "BleedOutEnemiesAura",
-      "Short": "{0} Bleed Mod",
-      "Long": "{0} Bleed Mod",
-      "Full": "{0} Bleed Modifier to all enemies in {1} Aura Range for {2} turns. Does not stack. Bloodcolored Aura."
+      "Short": "{0} bleed mod",
+      "Long": "{0} bleed mod",
+      "Full": "Bleed modifier: {0} to all enemies in {1} aura range for {2} turns. Does not stack. Bloodcolored aura"
     },
     {
       "Bonus": "BleedOutAll",
-      "Short": "{0} Bleed Mod",
-      "Long": "{0} Bleed Mod",
-      "Full": "{0} Bleed Modifier for all Company units. Does not stack."
+      "Short": "{0} bleed mod",
+      "Long": "{0} bleed mod",
+      "Full": "Bleed modifier: {0} for all company units. Does not stack"
     },
     {
       "Bonus": "BleedReduction",
-      "Short": "{0} Bleed Slow",
-      "Long": "{0} Bleed Slow",
-      "Full": "Reduces Bleeding out speed by {0}."
+      "Short": "{0} bleed slow",
+      "Long": "{0} bleed slow",
+      "Full": "Bleedout speed: -{0}"
     },
     {
       "Bonus": "ReplacesGyro",
       "Short": "{0} Stab",
-      "Long": "Replaces Gyro. {0} Stab.",
-      "Full": "Replaces Gyro. Provides {0} stability threshold."
+      "Long": "Replaces gyro. {0} stab",
+      "Full": "Replaces gyro. {0} stability threshold"
     },
     {
       "Bonus": "ShutdownonHitPrimary",
-      "Short": "{0} Shutdown",
-      "Long": "{0} Chance for Shutdown on Hit",
-      "Full": "{0} Chance for Shutdown on Hit."
+      "Short": "{0} shutdown",
+      "Long": "{0} chance for shutdown on hit",
+      "Full": "Shutdown chance on hit: {0}"
     },
     {
       "Bonus": "ShutdownonHitSecondary",
-      "Short": "{0} Shutdown, stacks {1}.",
-      "Long": "{0} Stacking Chance for Shutdown on Hit, stacks {1} times.",
-      "Full": "{0} Stacking Chance for Shutdown on Hit, stacks {1} times."
+      "Short": "{0} shutdown, stacks {1}",
+      "Long": "{0} stacking chance for shutdown on hit, stacks {1} times",
+      "Full": "Shutdown chance on hit: {0}. Stacks {1} times"
     },
     {
       "Bonus": "ShutdownonHitVee",
-      "Short": "{0} Shutdown vs Vehicles.",
-      "Long": "{0} Additional Chance for Shutdown on Hit vs Vehicles.",
-      "Full": "{0} Additional Chance for Shutdown on Hit vs Vehicles."
+      "Short": "{0} shutdown vs vehicles",
+      "Long": "{0} additional chance for shutdown on hit vs vehicles",
+      "Full": "Extra shutdown chance vs. vehicles: {0}"
     },
     {
       "Bonus": "ShutdownonHitMissiles",
-      "Short": "{0} Shutdown, stacks {1}",
-      "Long": "{0} Chance for Shutdown on Hit, stacks {1} times.",
-      "Full": "{0} Chance for Shutdown on Hit, stacks {1} times."
+      "Short": "{0} shutdown, stacks {1}",
+      "Long": "{0} chance for shutdown on hit, stacks {1} times",
+      "Full": "Shutdown chance on hit: {0}. Stacks {1} times"
     },
     {
       "Bonus": "BraceToFire",
       "Short": "{0} BraceToFire",
-      "Long": "{0} Stability Damage to Self",
-      "Full": "{0} Stability damage to self when fired, reduced by Piloting and Unit Tonnage. Further reduced by -100 if braced during the prior round, moving before firing cancels this reduction."
+      "Long": "{0} stability damage to self",
+      "Full": "Stability self-damage on firing: {0}. Reduced by Piloting and unit tonnage. Additional -100 if braced during the prior round. Moving before firing cancels this reduction"
     },
     {
       "Bonus": "BraceToFireMode",
-      "Short": "{1} Mode {0} BraceToFire",
-      "Long": "{0} Stab Dmg to Self in {1} mode.",
-      "Full": "{0} Stability damage to self when fired in {1} mode, reduced by Piloting and Unit Tonnage. Further reduced by -100 if braced during the prior round, moving before firing cancels this reduction."
+      "Short": "{1} mode {0} BraceToFire",
+      "Long": "{0} Stab DMG to self in {1} mode",
+      "Full": "Stability self-damage on firing: {0} in {1} mode. Reduced by Piloting and unit tonnage. Additional -100 if braced during the prior round. Moving before firing cancels this reduction"
     },
     {
       "Bonus": "BraceToFireModeShort",
-      "Short": "{1} Mode {0} BraceToFire",
-      "Long": "{0} Stab Dmg to Self in {1} mode.",
-      "Full": "{0} Stability damage to self when weapon is fired in {1} mode."
+      "Short": "{1} mode {0} BraceToFire",
+      "Long": "{0} Stab DMG to self in {1} mode",
+      "Full": "Stability self-damage on firing: {0} in {1} mode"
     },
     {
       "Bonus": "BraceToFireModePerShot",
       "Short": "{0}:{1}BtF/{2}shots",
-      "Long": "{0}: {1} Stab Dmg to Self / {2} shots.",
-      "Full": "{0} mode: {1} Stability damage to self per {2} shots when weapon is fired."
+      "Long": "{0}: {1} Stab DMG to self / {2} shots",
+      "Full": "Stability self-damage in {0} mode: {1} per {2} shots fired"
     },
     {
       "Bonus": "BraceToFireDetails",
       "Short": "",
       "Long": "",
-      "Full": "Stability damage to self reduced by Piloting and Unit Tonnage. Further reduced by -100 if braced during the prior round, moving before firing cancels this reduction."
+      "Full": "Brace to Fire: stability self-damage reduced by Piloting and unit tonnage. Additional -100 if braced during the prior round. Moving before firing cancels this reduction"
     },
     {
       "Bonus": "BraceToFirePerShot",
       "Short": "BraceToFire",
-      "Long": "{0} Stab Dmg to Self per shot",
-      "Full": "{0} Stability damage to self per fired shot, reduced by Piloting and Unit Tonnage. Further reduced by -100 if braced during the prior round, moving before firing cancels this reduction."
+      "Long": "{0} Stab DMG per shot",
+      "Full": "Stability self-damage: {0} per shot fired. Reduced by Piloting and unit tonnage. Additional -100 if braced during the prior round. Moving before firing cancels this reduction"
     },
     {
       "Bonus": "BraceToFirePerShotAfter",
       "Short": "BraceToFire",
-      "Long": "{0} Stab Dmg to Self after {1} shots, then stacks by {2}.",
-      "Full": "{0} Stability damage to self starting at {1} shots, with an additional {2} per shot thereafter."
+      "Long": "{0} Stab DMG to self after {1} shots, then stacks by {2}",
+      "Full": "Stability self-damage: {0} starting at {1} shots, with an additional {2} per shot thereafter"
     },
     {
       "Bonus": "BraceToFireReduction",
       "Short": "{0} BraceToFireReduction",
-      "Long": "{0} Reduced Stab Dmg to Self",
-      "Full": "{0} stability damage to self when firing large weapons. Effect Stacks."
+      "Long": "{0} Reduced Stab DMG to self",
+      "Full": "Stability self-damage: {0} when firing large weapons. Stacks"
     },
     {
       "Bonus": "BraceToFireReductionWeaponType",
-      "Short": "{0} BraceToFireReduction",
-      "Long": "{0} Reduced Stab Dmg to Self",
-      "Full": "{0} stability damage to self when firing {1} weapons. Effect Stacks."
+      "Short": "{0} rraceToFireReduction",
+      "Long": "{0} Reduced Stab DMG to self",
+      "Full": "Stability self-damage: {0} when firing {0} weapons. Stacks"
     },
     {
       "Bonus": "BraceToFireIncrease",
       "Short": "{0} BraceToFireIncrease",
-      "Long": "{0} Increased Stab Dmg to Self",
-      "Full": "{0} increased stability damage to self when firing large weapons."
+      "Long": "{0} Increased Stab DMG to self",
+      "Full": "Stability self-damage increase: {0} when firing large weapons"
     },
     {
       "Bonus": "SuperheavyOnly",
-      "Short": "SuperheavyOnly",
-      "Long": "Superheavy Mech Only",
-      "Full": "Can only be used with Superheavy Mechs."
+      "Short": "SH only",
+      "Long": "Superheavy 'Mech Only",
+      "Full": "Superheavy 'Mech only: Cannot be used by other units"
     },
     {
       "Bonus": "SuperheavyCockpit",
-      "Short": "SuperheavyCockpit",
-      "Long": "Superheavy Cockpit",
-      "Full": "Amount of Head Armor on Superheavy Mechs is doubled."
+      "Short": "SH cockpit",
+      "Long": "Superheavy cockpit",
+      "Full": "Superheavy cockpit: Head armor is doubled"
     },
     {
       "Bonus": "SuperheavyGyro",
-      "Short": "SuperheavyGyro",
-      "Long": "Superheavy Gyro",
-      "Full": "Doubles the weight of the gyro to handle the increased strain."
+      "Short": "SH gyro",
+      "Long": "Superheavy gyro",
+      "Full": "Superheavy gyro: Double the weight to handle the increased strain"
     },
     {
       "Bonus": "SuperheavyMovement",
-      "Short": "SuperheavyMovement",
+      "Short": "SH movement",
       "Long": "Superheavy Movement",
-      "Full": "Due to its size, superheavy 'Mechs ignore movement penalties in forest, rough or rubble terrains, but does also not benefit from roads."
+      "Full": "Superheavy movement: Due to their size, superheavy 'Mechs ignore movement penalties in forest, rough, or rubble terrain, but also do not benefit from roads"
     },
     {
       "Bonus": "SHGyroWeight",
-      "Short": "{0} SHGyro.Weight",
-      "Long": "{0} SH Gyro Weight",
-      "Full": "Weighs {0} of standard superheavy gyro's weight of Engine Rating / 50"
+      "Short": "{0} gyro wt.",
+      "Long": "{0} gyro weight",
+      "Full": "Weight: {0} of standard superheavy gyro's weight"
     },
     {
       "Bonus": "SHStructureFactor",
-      "Short": "{0} SHStruct.Weight",
-      "Long": "{0} SH Structure Weight",
-      "Full": "{0} structure weight change (1/5 Chassis weight)"
+      "Short": "{0} struct. wt.",
+      "Long": "{0} structure weight",
+      "Full": "Structure weight: {0}"
     },
     {
       "Bonus": "BallisticChanceMultiplier",
       "Short": "{0} Ball.Jam",
-      "Long": "{0} Ballistic Jam",
-      "Full": "{0} Multiplier to Jam Chance for Ballistic Weapons"
+      "Long": "{0} Ballistic jam",
+      "Full": "Ballistic jam chance: {0}"
     },
     {
       "Bonus": "HMRMJamChanceMultiplier",
       "Short": "{0} HMRMJamChanceMult",
-      "Long": "{0} HMRM Jam Chance Mult",
-      "Full": "{0} multiplier to Jam Chance for Heavy MRM launchers"
+      "Long": "{0} HMRM jam chance mult",
+      "Full": "HMRM jam chance: {0}"
     },
     {
       "Bonus": "RequireNI",
-      "Short": "Requires NI",
-      "Long": "Requires Neural Implants",
-      "Full": "Cannot be piloted by pilots without Neural Implants"
+      "Short": "NI Required",
+      "Long": "Neural Implants required",
+      "Full": "Neural Implants required: Cannot be piloted otherwise"
     },
     {
       "Bonus": "AAFactor",
       "Short": "AA Factor {0}",
       "Long": "AA Factor {0}",
-      "Full": "This weapon has an Anti-Air Factor of {0}"
+      "Full": "Anti-Air Factor: {0}"
     },
     {
       "Bonus": "AAFactorMulti",
-      "Short": "AA Multi {0}",
-      "Long": "AA Factor Mult {0}",
-      "Full": "{0} multiplier to Anti-Air Factor of this unit's weapons"
+      "Short": "AA multi {0}",
+      "Long": "AA Factor mult {0}",
+      "Full": "Anti-Air Factor multiplier: {0}"
     },
     {
       "Bonus": "SpawnXenoSwarm",
       "Short": "Spawn Xeno Swarm",
-      "Long": "Spawn Xeno Swarm.  {1} uses.",
-      "Full": "Spawn a Xeno Swarm unit.  This unit is an AI controlled ally. Range {0}. {1} uses per battle"
+      "Long": "Spawn Xeno Swarm.  {1} uses",
+      "Full": "Spawn a Xeno Swarm unit. This unit is an AI controlled ally. Range {0}. {1} uses per battle"
     },
     {
       "Bonus": "AllowedWeightClass",
       "Short": "Allowed Weight Class",
       "Long": "Allowed Weight Class: {0}",
-      "Full": "Can only be mounted on {0} Mechs."
+      "Full": "Can only be mounted on {0} 'Mechs"
     },
     {
       "Bonus": "NoQuad",
       "Short": "NoQuad",
       "Long": "No Quad",
-      "Full": "Can not be mounted on QuadMechs."
+      "Full": "Cannot be mounted on QuadMechs"
     },
     {
       "Bonus": "QuadOnly",
       "Short": "QuadOnly",
       "Long": "Quad Only",
-      "Full": "Can only be mounted on QuadMechs."
+      "Full": "Can only be mounted on QuadMechs"
     },
     {
       "Bonus": "FearAura",
       "Short": "FearAura",
       "Long": "Fear Aura",
-      "Full": "All enemies within {0}m suffer {1} penalty to panic rolls. {2} chance to fail on activation and {3} chance to fail per round active."
+      "Full": "All enemies within {0}m suffer {1} penalty to panic rolls. {2} chance to fail on activation and {3} chance to fail per round active"
     },
     {
       "Bonus": "MoveCurse",
       "Short": "MoveCurse",
       "Long": "Movement Curse",
-      "Full": "Curse: Causes all enemies to have a chance to fall over after moving."
+      "Full": "Curse: Causes all enemies to have a chance to fall over after moving"
     },
     {
       "Bonus": "RestrictedLocations",
       "Short": "{0}Only",
-      "Long": "Only Allowed in {0}",
-      "Full": "Only allowed in {0}."
+      "Long": "Only allowed in {0}",
+      "Full": "Only allowed in {0}"
     },
     {
       "Bonus": "MissileGuidanceIncompatible",
       "Short": "MissileGuidanceIncompatible",
       "Long": "Missile Guidance Incompatible",
-      "Full": "Can't be used with any other type of advanced missile guidance, including Targeting Computers, Streak, Artemis, Apollo, Aphrodite or ArrowIV."
+      "Full": "Cannot be used with other advanced missile guidance, including Targeting Computers, Streak, Artemis, Apollo, Aphrodite or Arrow IV"
     },
     {
       "Bonus": "MissileAttachmentsIncompatible",
       "Short": "MissileAttachmentsIncompatible",
       "Long": "Missile Attachments Incompatible",
-      "Full": "Can't be used with ArtemisIV, Apollo or Aphrodite guidance."
+      "Full": "Cannot be used with ArtemisIV, Apollo or Aphrodite guidance"
     },
     {
       "Bonus": "EnableArtemisIV",
       "Short": "Artemis IV",
       "Long": "Artemis IV TTS",
-      "Full": "Enables Artmis IV firing mode in all compatible launchers."
+      "Full": "Enables Artemis IV firing mode in all compatible launchers"
     },
     {
       "Bonus": "EnableSRMArtemis",
       "Short": "SRM Artemis IV",
       "Long": "SRM Artemis IV TTS",
-      "Full": "Enables Artmis IV firing mode in all compatible SRM launchers."
+      "Full": "Enables Artemis IV firing mode in all compatible SRM launchers"
     },
     {
       "Bonus": "EnableApollo",
       "Short": "Apollo",
       "Long": "Apollo TTS",
-      "Full": "Enables Apollo firing mode in all compatible MRM launchers."
+      "Full": "Enables Apollo firing mode in all compatible MRM launchers"
     },
     {
       "Bonus": "IsArmorMod",
-      "Short": "Armor Mod",
-      "Long": "Armor Modification",
-      "Full": "Armor Modification: 1 Per Unit. Must be installed in Center Torso."
+      "Short": "Armor mod",
+      "Long": "Armor modification",
+      "Full": "Armor modification: 1 per unit. Must be installed in center torso"
     },
     {
       "Bonus": "IsArmored",
       "Short": "Armored",
       "Long": "Armored",
-      "Full": "Armored: Adds one extra hit to every critical hit slot. Increases weight by 0.5 ton per slot."
+      "Full": "Armored: Adds one extra hit to every critical hit slot. Increases weight by 0.5 ton per slot"
     },
     {
       "Bonus": "IsArmoredCockpit",
       "Short": "Armored",
       "Long": "Armored",
-      "Full": "Armored: Adds one extra critical hit before destruction. Increases weight by 1 ton."
+      "Full": "Armored: Adds one extra critical hit before destruction. Increases weight by 1 ton"
     },
     {
       "Bonus": "RequirePilot",
@@ -2512,37 +2506,19 @@
       "Bonus": "BPod",
       "Short": "B-Pod",
       "Long": "Anti-Battle Armor Pod",
-      "Full": "This explosive pod deals damage specifically and exclusively to Battle Armor. Will activate automatically when attacking Battle Armor swarms, but can also be activated manually."
+      "Full": "Deals damage specifically and exclusively to Battle Armor. Will activate automatically when attacking Battle Armor swarms, but can also be activated manually"
     },
     {
       "Bonus": "RotaryGaussOverload",
       "Short": "RotaryGaussOverload",
       "Long": "Rotary Gauss Overload",
-      "Full": "Overload mode: Fires a superheated gauss shot, dealing +100 damage. Has a 50% chance to misfire damaging itself - Mitigated by Gunnery & Jam Modifiers"
+      "Full": "Overload mode: Fires a superheated Gauss shot, dealing +100 damage. Has a 50% chance to misfire and damage itself. Mitigated by Gunnery and jam modifiers"
     },
     {
       "Bonus": "RestrictedCombination",
       "Short": "RestrictedCombination",
       "Long": "Restricted Combination",
-      "Full": "Can not be used in combination with {0}"
-    },
-    {
-      "Bonus": "SideTorsoLifeSupport",
-      "Short": "TorsoLS",
-      "Long": "Torso Life Support",
-      "Full": "Moves Life Support equipment to side torsos."
-    },    
-    {
-      "Bonus": "AlliesTactics",
-      "Short": "AllyTactics",
-      "Long": "{0} Ally Tactics",
-      "Full": "Provides all allies with a modifier of {0} to Tactics: Can raise skills over 10, Max +2 from most sources."
-    },    
-    {
-      "Bonus": "IncompatibleWith",
-      "Short": "IncompatibleWith",
-      "Long": "Incompatible With",
-      "Full": "Incompatible with {0}."
+      "Full": "Cannot be used in combination with {0}"
     }
   ]
 }

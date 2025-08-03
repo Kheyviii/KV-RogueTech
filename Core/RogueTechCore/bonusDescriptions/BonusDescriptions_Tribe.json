@@ -3,158 +3,86 @@
     {
       "Bonus": "PassiveHeatGenerated",
       "Short": "{0} WpnHeat",
-      "Long": "{0} Weapon Heat",
-      "Full": "{0} weapon heat generated when passive."
+      "Long": "{0} weapon heat",
+      "Full": "{0} weapon heat generated when passive"
     },
     {
       "Bonus": "PassiveHeatHeatPerTurn",
-      "Short": "{0} Heat / Turn",
-      "Long": "{0} Heat / Turn",
-      "Full": "{0} heat per turn when passive."
+      "Short": "{0} heat / turn",
+      "Long": "{0} heat / turn",
+      "Full": "{0} heat per turn when passive"
     },
     {
       "Bonus": "PHI",
       "Short": "PHI",
       "Long": "PHI",
-      "Full": "PHI: Unit can participate in a PHI network, enabling using the closest network member for range calculations when firing weapons."
+      "Full": "PHI: Unit can participate in a PHI network"
     },
     {
       "Bonus": "PHIBonus",
       "Short": "PHI Bonus",
       "Long": "PHI Bonus",
-      "Full": "PHI Network: All members receive a bonus of {0}; stacking up to {1} times."
+      "Full": "PHI Network: All members receive a bonus of {0}"
     },
     {
       "Bonus": "PHIBonusNoStack",
       "Short": "PHI Bonus",
       "Long": "PHI Bonus",
-      "Full": "Phi Network: All members receive a non-stacking bonus of {0}."
-    },
-    {
-      "Bonus": "BoostedPHIBonus",
-      "Short": "BoostedPHI",
-      "Long": "Boosted PHI Bonus",
-      "Full": "Boosts the PHI network to also provide non-stacking +1 accuracy and +1 initiative to all members."
+      "Full": "Phi Network: All members receive a non-stacking bonus of {0}"
     },
     {
       "Bonus": "HEAR",
       "Short": "HEAR",
       "Long": "High Explosive Active Radiation",
-      "Full": "Targets suffer a penalty to sensors and sensor signature, lasts {0} rounds."
+      "Full": "Targets suffer a penalty to sensors and sensor signature, lasts {0} rounds"
     },
     {
       "Bonus": "IsMGL",
       "Short": "MGL",
       "Long": "MGL",
-      "Full": "MGLs launch high explosive rounds that are immune to AMS."
+      "Full": "MGLs launch high explosive rounds that are immune to AMS"
     },
     {
       "Bonus": "HyperPPC",
       "Short": "HyPPC",
       "Long": "Hyper PPC",
-      "Full": "Hyper PPCs have three range modes. Each range mode fires fewer shots but deals more damage."
+      "Full": "Hyper PPCs have three range modes. Each range mode fires fewer shots but deals more damage"
     },
     {
       "Bonus": "SiegeLaser",
       "Short": "SLaser",
       "Long": "SLaser",
-      "Full": "Siege Lasers use less heat and deal less damage the more the wielder moves. Base stats shown at 0-1 Evasion."
+      "Full": "Siege Lasers use less heat and deal less damage the more the wielder moves. Base stats shown at 0-1 Evasion"
     },
     {
       "Bonus": "IsFireForget",
       "Short": "Fire & Forget Missiles",
       "Long": "Fire & Forget Missiles",
-      "Full": "Fires a guided missile for each missile that gets a lock on the target."
+      "Full": "Fires a guided missile for each missile that gets a lock on the target"
     },
     {
       "Bonus": "Flechette",
       "Short": "{0} Cluster",
       "Long": "{0} Flechette Cluster",
-      "Full": "Shell separates into {0} projectiles."
+      "Full": "Shell separates into {0} projectiles"
     },
     {
       "Bonus": "FlechetteRange",
       "Short": "{0} Sep.Distance",
       "Long": "{0} Separation Distance",
-      "Full": "Shell separates after {0} meters."
+      "Full": "Shell separates after {0} meters"
     },
     {
       "Bonus": "PlasmaJumpDistance",
       "Short": "{0} Jump Distance",
       "Long": "{0} Jump Distance",
-      "Full": "Advanced engine technology inceases jump distance by {0}."
+      "Full": "Advanced engine technology increases jump distance by {0}"
     },
     {
       "Bonus": "IsIon",
       "Short": "Ion Stream Projector",
       "Long": "Ion Stream Projector",
-      "Full": "Ion Stream Projectors can benefit from some PPC add-ons but otherwise count as Flamers."
-    },
-    {
-      "Bonus": "TribeSuperheavyOnly",
-      "Short": "TribeSuperheavyOnly",
-      "Long": "Tribe Superheavy Mech Only",
-      "Full": "Can only be used with Minnesota Tribe Superheavy Mechs."
-    },
-    {
-      "Bonus": "MagnothermicConduitsReserved",
-      "Short": "MagnothermicConduitsReserved",
-      "Long": "Magnothermic Conduits Reserved",
-      "Full": "Magnothermic Plasma Conduits reserve 1 slot in side torsos and arms."
-    },
-    {
-      "Bonus": "EnablesTempestAttachment",
-      "Short": "EnablesTempestAttachment",
-      "Long": "Enables Tempest Attachment",
-      "Full": "Enables the use of Tempest Attachment for PPC and Flamer weapons."
-    },
-    {
-      "Bonus": "ConduitBoom",
-      "Short": "Volatile",
-      "Long": "Volatile Conduit",
-      "Full": "Due to their volatility, Magnothermic Plasma Conduits can explode for {0} Damage and Heat when destroyed."
-    },
-    {
-      "Bonus": "TempestBoom",
-      "Short": "Volatile",
-      "Long": "Volatile Attachment",
-      "Full": "TEMPEST attachments can explode for {0} Damage and {1} Heat when destroyed."
-    },
-    {
-      "Bonus": "TempestJam",
-      "Short": "CanJam",
-      "Long": "Can Cause Permanent Jams",
-      "Full": "When firing in TEMPEST mode there is a {0} chance to jam the weapon for the rest of the battle. Each point of gunnery mitigates by 0.5%. Any already existing Jam chances are added."
-    },
-    {
-      "Bonus": "RequiresMagnothermicConduits",
-      "Short": "RequiresMagnothermicConduits",
-      "Long": "Requires Magnothermic Conduits",
-      "Full": "Requires Magnothermic Plasma Conduits at same location."
-    },
-    {
-      "Bonus": "PEBOOM",
-      "Short": "Volatile",
-      "Long": "Pressurized Coolant",
-      "Full": "Plasmo-Electric coolant systems gains an increasing risk to explode from lattice failure from {0} Heat. Returning below the safe heat level of {1} removes the risk."
-    },
-    {
-      "Bonus": "EnergyHeatGeneratedLimit",
-      "Short": "{0} NRG.Heat",
-      "Long": "{0} Energy Heat Generation",
-      "Full": "{0} heat generated by energy weapons. Stacks up to 10 times."
-    },
-    {
-      "Bonus": "ExtraEnergyCoolingBonus",
-      "Short": "ExtraEnergyCooling",
-      "Long": "Extra Energy Cooling",
-      "Full": "Extra {0} heat generated by energy weapons if used in combination with {1}."
-    },
-    {
-      "Bonus": "CoolingSystemPlasmoElectric",
-      "Short": "PEHS",
-      "Long": "Plasma-Electric HS",
-      "Full": "Converts the 'Mech to use Plasmo-Electric Heat Sinks."
+      "Full": "Ion Stream Projectors can benefit from some PPC add-ons but otherwise count as flamers"
     }
   ]
 }

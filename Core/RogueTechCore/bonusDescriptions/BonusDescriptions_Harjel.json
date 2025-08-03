@@ -2,57 +2,57 @@
   "Settings": [
     {
       "Bonus": "HaarJel",
-      "Short": "Self Repair",
-      "Long": "Self Repair",
-      "Full": "HarJel Self Repair Systems."
+      "Short": "Self-repair",
+      "Long": "Self-repair",
+      "Full": "HarJel self-repair systems"
     },
     {
       "Bonus": "HaarJelTurn",
-      "Short": "Each Turn",
-      "Long": "Each Turn",
-      "Full": "Self Repair Systems Repair Damage Each Turn."
+      "Short": "Each turn",
+      "Long": "Each turn",
+      "Full": "Self-repair systems repair damage each turn"
     },
     {
       "Bonus": "HaarJelTaken",
-      "Short": "Taken Damage",
-      "Long": "Taken Damage",
-      "Full": "Self Repair Systems Repair when Damage taken during the Turn."
+      "Short": "Taken damage",
+      "Long": "Taken damage",
+      "Full": "Self-repair systems repair when damage is taken during the turn"
     },
     {
       "Bonus": "HaarJelLocation",
-      "Short": "Location Damage",
-      "Long": "Location Damage",
-      "Full": "Self Repair Systems Repair Damage taken to Location during the Turn."
+      "Short": "Location damage",
+      "Long": "Location damage",
+      "Full": "Self-repair systems repair damage taken to the location during the turn"
     },
     {
       "Bonus": "HaarJelArmor",
-      "Short": "{0} Armor",
-      "Long": "{0} Armor",
-      "Full": "Repairs {0} Armor in installed Location."
+      "Short": "{0} armor",
+      "Long": "{0} armor",
+      "Full": "Repairs {0} armor in installed location"
     },
     {
       "Bonus": "HaarJelStructure",
-      "Short": "{0} Structure",
-      "Long": "{0} Structure",
-      "Full": "Repairs {0} Structure in installed Location."
+      "Short": "{0} structure",
+      "Long": "{0} structure",
+      "Full": "Repairs {0} structure in installed location"
     },
     {
       "Bonus": "HaarJelDuration",
-      "Short": "{0} RepairDuration",
-      "Long": "{0} Repair Duration",
-      "Full": "{0} turns Repair Duration after taking damage to Location."
+      "Short": "{0} repair dur",
+      "Long": "{0} repair duration",
+      "Full": "{0} turns repair duration after taking damage to location"
     },
     {
       "Bonus": "HaarJelQuirkArmor",
-      "Short": "{0} Armor",
-      "Long": "{0} Armor",
-      "Full": "Repairs {0} Armor in damaged locations."
+      "Short": "{0} armor",
+      "Long": "{0} armor",
+      "Full": "Repairs {0} armor in damaged locations"
     },
     {
       "Bonus": "HaarJelQuirkStructure",
-      "Short": "{0} Structure",
-      "Long": "{0} Structure",
-      "Full": "Repairs {0} Structure in damaged locations"
+      "Short": "{0} structure",
+      "Long": "{0} structure",
+      "Full": "Repairs {0} structure in damaged locations"
     }
   ]
 }

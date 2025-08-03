@@ -4,97 +4,97 @@
       "Bonus": "BAJumpSystems",
       "Short": "BA Jump",
       "Long": "BA Jump",
-      "Full": "Battle Armor Jump systems provide {0} Hex Jump Capacity. Can't perform DFA attacks."
+      "Full": "Battle Armor Jump System: {0} hex jump capacity. Can't perform DFA attacks"
     },
     {
       "Bonus": "BAJumpBooster",
       "Short": "JumpBooster",
       "Long": "BA Jump Booster",
-      "Full": "Battle Armor Jump Boosters can not be used with Partial Wings or by Quad Battle Armor."
+      "Full": "Battle Armor Jump Booster: Cannot be used with Partial Wings or by Quad Battle Armor"
     },
     {
       "Bonus": "BAPartialWing",
       "Short": "PartialWing",
       "Long": "BA Partial Wing",
-      "Full": "Battle Armor Partial Wings can not be used with Jump Boosters."
+      "Full": "Battle Armor Partial Wings: Cannot be used with Jump Boosters"
     },
     {
       "Bonus": "BACLAW",
       "Short": "BA Melee",
       "Long": "BA Melee",
-      "Full": "Battle Armor manipulator specialized for close-quarters combat."
+      "Full": "Battle Armor manipulator specialized for close-quarters combat"
     },
     {
       "Bonus": "BANoManipulators",
       "Short": "No Manipulators",
       "Long": "No Manipulators",
-      "Full": "Lack of Battle Armor manipulators prevents mounting on other units (unless Magnetic Clamps are used) and swarm attacks."
+      "Full": "Lack of Battle Armor manipulators prevents swarm attacks and mounting other units (unless Magnetic Clamps are used)"
     },
     {
       "Bonus": "FlexibleManipulators",
-      "Short": "Flex.Manip.",
+      "Short": "Flex.Manip",
       "Long": "Flexible Manipulators",
-      "Full": "Flexible Manipulators enables individual finger movement, allowing the pilot to perform highly dexterous operations."
+      "Full": "Flexible Manipulators: Enable individual finger movement, allowing the pilot to perform highly dexterous operations"
     },
     {
       "Bonus": "BAWEAPON",
       "Short": "BA Weapon",
       "Long": "BA Weapon",
-      "Full": "Battle Armor Weapons can not be mounted on other unit types."
+      "Full": "Battle Armor Weapon: Cannot be mounted on other units"
     },
     {
       "Bonus": "BAStealth",
       "Short": "Stealthed",
       "Long": "Stealth Systems",
-      "Full": "Battle Armor Stealth. Making units harder to hit and detect. Countered by Probes."
+      "Full": "Battle Armor Stealth: Makes units harder to hit and detect. Countered by probes"
     },
     {
       "Bonus": "BAMimetic",
       "Short": "Mimetic",
       "Long": "Mimetic Systems",
-      "Full": "Battle Armor Mimetic Stealth. Making units harder to hit and detect. Countered by Probes."
+      "Full": "Battle Armor Mimetic Stealth: Makes units harder to hit and detect. Countered by probes"
     },
     {
       "Bonus": "BattleArmor",
       "Short": "BA",
       "Long": "BattleArmor",
-      "Full": "Battle Armor are powered infantry suits. Don't track Heat. Can't Run. Vulnerable to Flamers and Machine Guns."
+      "Full": "Battle Armor: Powered infantry suits. They don't track heat, can't run, and are vulnerable to flamers and machine guns"
     },
     {
       "Bonus": "BattleArmorNoMount",
       "Short": "NoMount",
       "Long": "No Mount",
-      "Full": "Unable to mount units, can only be transported by using internal bays."
+      "Full": "Unable to mount units. Can only be transported by using internal bays"
     },
     {
       "Bonus": "BattleArmorMount",
       "Short": "Mount",
       "Long": "Mount",
-      "Full": "Can mount friendly OmniMechs for transportation."
+      "Full": "Can mount friendly OmniMechs for transportation"
     },
     {
       "Bonus": "BattleArmorSwarm",
       "Short": "CanSwarm",
       "Long": "Can Swarm",
-      "Full": "Can perform swarm attacks."
+      "Full": "Can perform swarm attacks"
     },
     {
       "Bonus": "BattleArmorNoSwarm",
       "Short": "NoSwarm",
       "Long": "No Swarm",
-      "Full": "Unable to perform swarm attacks."
+      "Full": "Unable to perform swarm attacks"
     },
     {
       "Bonus": "BattleArmorMagnetic",
       "Short": "MountAll",
       "Long": "Mount All Units",
-      "Full": "Allows the Battle Armor to mount on practically any unit."
+      "Full": "Allows the Battle Armor to mount practically any unit"
     },
     {
       "Bonus": "BAPhysicalWeapon",
       "Short": "{0} Melee Damage",
       "Long": "{0} Melee Damage",
-      "Full": "Enables Physical Weapon Melee Attacks. Damage is {0} per Trooper. Attacks roll on the Kick Table and always destabilizes Target on hit"
+      "Full": "Enables physical weapon melee attacks. Damage is {0} per squad member. Attack rolls on the Kick Table and always destabilizes the target on hit"
     },
     {
       "Bonus": "PilotStructureInjury",
@@ -106,109 +106,109 @@
       "Bonus": "QBATurret",
       "Short": "Turret Mount",
       "Long": "Turret Mount",
-      "Full": "Turret Mount greatly increase Accuracy and Target Tracking of Quad Battle Armor weapons"
+      "Full": "Turret Mount greatly increases accuracy and target tracking of Quad Battle Armor weapons"
     },
     {
       "Bonus": "SwarmBonus",
-      "Short": "{0} Swarm Success",
-      "Long": "{0} Swarm Success",
-      "Full": "{0} to Swarm Success rolls."
+      "Short": "{0} Swarm success",
+      "Long": "{0} Swarm success",
+      "Full": "Swarm attack bonus: {0}"
     },
     {
       "Bonus": "EvasionIgnoreMelee",
       "Short": "{0} Ev.Ignore",
-      "Long": "{0} Evasion Ignore Melee",
-      "Full": "Ignores {0} Evasion pips with melee attacks."
+      "Long": "{0} Evasion Ignore melee",
+      "Full": "Evasion ignored: {0} with melee attacks"
     },
     {
       "Bonus": "BattleArmorEngine",
       "Short": "BattleArmorEngine",
       "Long": "Battle Armor Engine",
-      "Full": "Battle Armor engines do not require additional heat sinks."
+      "Full": "Battle Armor Engine: No additional heat sinks required"
     },
     {
       "Bonus": "BattleArmorMovement",
       "Short": "BattleArmorMovement",
-      "Long": "Battle Armor Movement",
-      "Full": "Provides {0} hex ({1} meters) base movement. Unit can not sprint."
+      "Long": "Battle Armor movement",
+      "Full": "Base movement: {0} hex ({1}m). Unit can't sprint"
     },
     {
       "Bonus": "BattleArmorVTOLMovement",
       "Short": "BattleArmorVTOLMovement",
-      "Long": "Battle Armor VTOL Movement",
-      "Full": "Provides {0} hex ({1} meters) VTOL-mode movement. Unit can not sprint."
+      "Long": "Battle Armor VTOL movement",
+      "Full": "Base VTOL movement {0} hex ({1}m). Unit can't sprint"
     },
     {
       "Bonus": "BattleArmorAmmo",
       "Short": "BattleArmorAmmo",
-      "Long": "Battle Armor Ammo",
-      "Full": "Ammunition container specifically made for use by Battle Armor weapons. Can only be used by weapons mounted at the same location."
+      "Long": "Battle Armor ammo",
+      "Full": "Ammunition bin specifically made for use by Battle Armor weapons. Can only be used by weapons mounted in the same location"
     },
     {
       "Bonus": "BattleArmorQuad",
       "Short": "BattleArmorQuad",
       "Long": "Battle Armor Quad",
-      "Full": "Battle Armor are powered infantry suits. Don't track Heat. Can't Run. Vulnerable to Flamers and Machine Guns. Battle Armor Quad's have increased movement and all weapons are mounted in an improved turret."
+      "Full": "Battle Armor Quad: Powered quadruped infantry suits. They don't track heat, can't run, and are vulnerable to flamers and machine guns. Quads have increased movement, and all their weapons are mounted on an improved turret"
     },
     {
       "Bonus": "BattleArmorStructure",
       "Short": "BAStructure",
-      "Long": "Battle Armor Structure",
-      "Full": "Battle Armor structure has a fixed weight depending on the units weight class, instead of depending on the units tonnage."
+      "Long": "Battle Armor structure",
+      "Full": "Battle Armor structure has a fixed weight depending on the unit's weight class instead of tonnage"
     },
     {
       "Bonus": "BAMyomer",
       "Short": "BAMyomer",
       "Long": "Battle Armor Myomer Booster",
-      "Full": "Battle Armor Myomer Boosters increases movement, but makes the unit's signature more visible and can not be combined with any stealth technologies."
+      "Full": "Battle Armor Myomer Boosters increase movement, but make the unit's signature more visible. Cannot be combined with any stealth technologies"
     },
     {
       "Bonus": "BADemolitionCharge",
       "Short": "DemolitionCharge",
       "Long": "BA Demolition Charge",
-      "Full": "Battle Armor Demolition Charges are small explosive devices placed manually on weak points of foes to do maximal damage."
+      "Full": "Battle Armor Demolition Charges are small explosive devices placed manually on target weak points for maximal damage"
     },
     {
       "Bonus": "CanUseDWP",
       "Short": "CanUseDWP",
       "Long": "Can Use DWP",
-      "Full": "This weapon can use the Detachable Weapon Pack attachment to reduce its weight by 25%."
+      "Full": "This weapon can use the Detachable Weapon Pack attachment to reduce its weight by 25%"
     },
     {
       "Bonus": "RequiresWeightClass",
       "Short": "RequiresWeightClass",
-      "Long": "Requires Weight Class",
-      "Full": "Requires the Battle Armor weight class to be {0}."
+      "Long": "Requires weight class",
+      "Full": "Requires the Battle Armor weight class to be {0}"
     },
     {
       "Bonus": "BAVTOL",
       "Short": "VTOL",
       "Long": "VTOL",
-      "Full": "VTOL BattleArmor can change between Trooper and VTOL Mode. Deploys in VTOL. Each mode has a separate motive system, and can only be switched before moving."
+      "Full": "VTOL Battle Armor can change between Trooper and VTOL Mode. Deploys in VTOL. Each mode has a separate motive system, and can only be switched before moving"
     },
     {
       "Bonus": "BAVTOLSystem",
       "Short": "VTOLSystem",
       "Long": "VTOL System",
-      "Full": "Allows transforming a Battle Armor to VTOL mode. Replaces movement statistics of Ground Motive System."
+      "Full": "Allows transforming a Battle Armor to VTOL mode. Replaces Ground Motive System movement statistics"
     },
     {
       "Bonus": "BARider",
       "Short": "Rider",
       "Long": "Rider",
-      "Full": "Rider BattleArmor can change between Trooper and Bike Mode. Deploys in Bike. Each mode has a separate motive system, and can only be switched before moving."
+      "Full": "Rider Battle Armor can change between Trooper and Bike Mode. Deploys in Bike. Each mode has a separate motive system, and can only be switched before moving"
     },
     {
       "Bonus": "BARiderSpeed",
       "Short": "+350%RunSpeed",
       "Long": "+350% Run Speed",
-      "Full": "While in Bike-mode: Enables sprinting. +350% sprint speed."
+      "Full": "Bike Mode enables sprinting. +350% sprint speed"
     },
     {
       "Bonus": "NeedsManipulator",
       "Short": "NeedsManip",
       "Long": "Needs Manipulator",
-      "Full": "To use this weapon {0} has to be available on the same squad member."
+      "Full": "To use this weapon, {0} has to be available on the same squad member"
     },
     {
       "Bonus": "MaxPerMember",
@@ -220,13 +220,13 @@
       "Bonus": "BAGear",
       "Short": "BAGear",
       "Long": "Battle Armor Gear",
-      "Full": "Can only be used on Battle Armor."
+      "Full": "Can only be used on Battle Armor"
     },
     {
       "Bonus": "WalkPenalty",
       "Short": "Walk Penalty",
       "Long": "Movement Speed Penalty",
-      "Full": "Reduces the movement speed of the unit by {0} for every base Movement Point."
+      "Full": "Reduces the movement speed of the unit by {0} for every base Movement Point"
     }
   ]
 }

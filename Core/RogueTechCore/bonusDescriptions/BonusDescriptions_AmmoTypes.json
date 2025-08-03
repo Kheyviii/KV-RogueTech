@@ -2,39 +2,39 @@
   "Settings": [
     {
       "Bonus": "AmmoACC",
-      "Short": "{0} Acc",
-      "Long": "{0} Accuracy",
-      "Full": "{0} Accuracy with this ammo."
+      "Short": "{0} ACC",
+      "Long": "{0} accuracy",
+      "Full": "{0} accuracy with this ammo."
     },
     {
       "Bonus": "AmmoCrit",
-      "Short": "Can Crit",
-      "Long": "Can Crit",
+      "Short": "Can crit",
+      "Long": "Can crit",
       "Full": "This ammunition can deal critical hits, even if the base weapon cannot."
     },
     {
       "Bonus": "AmmoEV",
       "Short": "{0} Ev",
-      "Long": "{0} Evasion",
-      "Full": "{0} Evasion ignored with this ammo."
+      "Long": "{0} evasion",
+      "Full": "Evasion ignored: {0}"
     },
     {
       "Bonus": "AmmoVAR",
-      "Short": "{0} Var.Dmg.",
-      "Long": "{0}Variable Damage",
-      "Full": "Damage Variance modified by {0} with this ammo."
+      "Short": "{0} Var.DMG",
+      "Long": "{0} variable DMG",
+      "Full": "Damage variance: {0}"
     },
     {
       "Bonus": "AmmoCount",
-      "Short": "{1} Ammo",
-      "Long": "{1} {0} Ammo",
-      "Full": "{0} Ammo - {1} Shots"
+      "Short": "{1} ammo",
+      "Long": "{1} {0} ammo",
+      "Full": "{0} ammo: {1} shots"
     },
     {
       "Bonus": "AmmoCountLoc",
-      "Short": "{1} Ammo",
-      "Long": "{1} {0} Ammo",
-      "Full": "{0} Ammo - {1} Shots; Needs to be in same Location as the Weapon."
+      "Short": "{1} ammo",
+      "Long": "{1} {0} ammo",
+      "Full": "{0} ammo: {1} shots. Needs to be in same location as the weapon."
     },
     {
       "Bonus": "AmmoRestriction",
@@ -46,19 +46,19 @@
       "Bonus": "AmmoRestrictionELRM",
       "Short": "AmmoRestrictionELRM",
       "Long": "Ammo Restriction ELRM",
-      "Full": "Enhanced LRM Launchers cannot fire any Specialty Ammunition types. Only basic LRM ammunition will work in missions."
+      "Full": "Enhanced LRM launcher: Can only fire standard LRM ammunition."
     },
     {
       "Bonus": "MineIFF",
       "Short": "IFFMine",
       "Long": "IFF Mine",
-      "Full": "This Minefield has an IFF System and will not detonate on allies."
+      "Full": "IFF: This minefield has an IFF system and will not detonate on allies."
     },
     {
       "Bonus": "DetectMine",
       "Short": "Detect",
       "Long": "Detects Mines",
-      "Full": "Allows detection Minefields in {0}m Radius. White dotted Circle."
+      "Full": "Minefield detection: {0}m radius. White dotted circle."
     },
     {
       "Bonus": "burnNone",
@@ -76,13 +76,13 @@
       "Bonus": "burnElectronics",
       "Short": "burnElectronics",
       "Long": "burnElectronics",
-      "Full": "When on burning ground, these mines lose their IFF and Stealth (if equipped)."
+      "Full": "When on burning ground, these mines lose their IFF and stealth (if equipped)."
     },
     {
       "Bonus": "Exhaust",
       "Short": "Rare",
-      "Long": "Rare Ammo",
-      "Full": "This ammo is rare, the bin can't be refilled when emptied."
+      "Long": "Rare ammo",
+      "Full": "This ammo is rare. The bin can't be refilled once emptied."
     },
     {
       "Bonus": "CanExhaust",
@@ -92,51 +92,51 @@
     },
     {
       "Bonus": "Caseless",
-      "Short": "CL Ammo",
-      "Long": "Caseless Ammo",
-      "Full": "Caseless Ammo: Double ammunition per bin; {0} heat and {1} jam chance."
+      "Short": "CL ammo",
+      "Long": "Caseless ammo",
+      "Full": "Caseless ammo: {0} heat and {1} jam chance. Double ammunition per bin."
     },
     {
       "Bonus": "ClusterAmmo",
       "Short": "Cluster",
       "Long": "Cluster Hitter",
-      "Full": "This ammunition fires a cluster of projectiles; they roll to hit as a group."
+      "Full": "Cluster: fires a cluster of projectiles. Single to-hit roll."
     },
     {
       "Bonus": "Doubled",
-      "Short": "DBL Ammo",
-      "Long": "Double Ammo",
-      "Full": "Double-size Ammo bin; 10% extra ammo per ton."
+      "Short": "DBL ammo",
+      "Long": "Double ammo",
+      "Full": "Double-sized ammo bin: 10% extra ammo per ton."
     },
     {
       "Bonus": "NARCAmmo",
-      "Short": "NARC Ammo",
-      "Long": "NARC Ammo",
-      "Full": "NARC Launcher Ammo - {0} Shots"
+      "Short": "NARC ammo",
+      "Long": "NARC ammo",
+      "Full": "NARC ammo: {0} shots"
     },
     {
       "Bonus": "iNARCAmmo",
-      "Short": "iNARC Ammo",
-      "Long": "iNARC Ammo",
-      "Full": "iNarc Launcher Ammo - {0} Shots"
+      "Short": "iNARC ammo",
+      "Long": "iNARC ammo",
+      "Full": "iNarc ammo: {0} shots"
     },
     {
       "Bonus": "ATMAmmo",
-      "Short": "ATM Ammo",
-      "Long": "ATM Ammo",
-      "Full": "Advanced Tactical Missile Launcher Ammo - {0} Shots"
+      "Short": "ATM ammo",
+      "Long": "ATM ammo",
+      "Full": "ATM ammo: {0} shots"
     },
     {
       "Bonus": "iATMAmmo",
-      "Short": "iATM Ammo",
-      "Long": "iATM Ammo",
-      "Full": "Improved Advanced Tactical Missile Launcher Ammo - {0} Shots"
+      "Short": "iATM ammo",
+      "Long": "iATM ammo",
+      "Full": "iATM ammo: {0} shots"
     },
     {
       "Bonus": "SwarmAmmo",
       "Short": "Swarm Missile",
       "Long": "Swarm Missile",
-      "Full": "Swarm Missile: Indirect fire; spreads cluster bombs in target area."
+      "Full": "Swarm Missile: Indirect fire, spreads cluster bombs in target area."
     },
     {
       "Bonus": "SpreadRange",
@@ -148,13 +148,13 @@
       "Bonus": "InertAmmo",
       "Short": "No Explode",
       "Long": "No Explode Inert",
-      "Full": "Inert ammo; does not cook off or explode."
+      "Full": "Inert ammo, does not cook off or explode."
     },
     {
       "Bonus": "Protected",
       "Short": "Reduced Explosion",
       "Long": "Reduced Explosion",
-      "Full": "Ammo Bin has {0} reduced explosive potential."
+      "Full": "Protected: explosive potential reduced by {0}"
     },
     {
       "Bonus": "Haywire",
@@ -166,31 +166,31 @@
       "Bonus": "iATMHaywire",
       "Short": "iATM EMP",
       "Long": "iATM EMP scrambles a Target's systems",
-      "Full": "Targets suffer penalty to movement, accuracy and heat management, Stacks up to {0} times."
+      "Full": "iATM EMP: target suffers penalty to movement, accuracy and heat management. Stacks up to {0} times."
     },
     {
       "Bonus": "iATMEMPRange",
       "Short": "iATM EMP Range",
       "Long": "iATM EMP reduced missile range",
-      "Full": "iATM EMP missiles have reduced range, equal to that of HE ammo."
+      "Full": "iATM EMP: reduced range, equal to HE ammo"
     },
     {
       "Bonus": "AcidSRM",
       "Short": "AX Warhead",
       "Long": "Acid Warhead",
-      "Full": "Target takes {0} more damage for 2 turns - Stacks up to {1} times."
+      "Full": "Acid: target takes {0} more damage for 2 turns. Stacks up to {1} times."
     },
     {
       "Bonus": "AcidZombie",
       "Short": "Zombie Acid",
       "Long": "Zombie Acid",
-      "Full": "Target takes {0} more damage for 2 turns from the acid spewing Zombies - does stack."
+      "Full": "Zombie acid: target takes {0} more damage for 2 turns. Stacks."
     },
     {
       "Bonus": "AcidFluid",
       "Short": "Acid Spray",
       "Long": "Acid Fluid Spray",
-      "Full": "Target takes {0} more damage for 2 turns."
+      "Full": "Acid: target takes {0} more damage for 2 turns."
     },
     {
       "Bonus": "Smoke",
@@ -202,37 +202,37 @@
       "Bonus": "AcidMines",
       "Short": "Acid",
       "Long": "Corrosive Acid",
-      "Full": "Minefield causes Target to take {0} more damage for 2 turns - does stack."
+      "Full": "Acid: target takes {0} more damage for 2 turns. Stacks."
     },
     {
       "Bonus": "ListenKill",
       "Short": "L-K",
       "Long": "L-K Missiles",
-      "Full": "Listen-Kill missiles have active targeting: {0} more likely to be intercepted by AMS."
+      "Full": "L-K active targeting: {0} more likely to be intercepted by AMS"
     },
     {
       "Bonus": "ImpMRM",
       "Short": "Imp.MRM",
       "Long": "Improved MRM",
-      "Full": "Improved MRM have active targeting: {0} more likely to be intercepted by AMS."
+      "Full": "MRM active targeting: {0} more likely to be intercepted by AMS"
     },
     {
       "Bonus": "Deadfire",
       "Short": "Deadfire",
       "Long": "Deadfire",
-      "Full": "Deadfire Missiles are unguided: {0} less likely to be intercepted by AMS."
+      "Full": "Deadfire unguided: {0} less likely to be intercepted by AMS."
     },
     {
       "Bonus": "FTLLRM",
       "Short": "FTL",
       "Long": "FTL Missiles",
-      "Full": "Follow-the-Leader Missiles primarily strike the same location on the target."
+      "Full": "Follow-the-Leader missile: primarily strikes the same location on the target."
     },
     {
       "Bonus": "SolidSlug",
       "Short": "Slug",
-      "Long": "Slug Ammo",
-      "Full": "Solid Slug ammo is ineffective against most combat units, but deals a lot of stability damage and is effective against buildings. Mind the recoil."
+      "Long": "Slug ammo",
+      "Full": "Solid slug: ineffective against most combat units, but deals a lot of stability damage and is effective against buildings. Mind the recoil."
     },
     {
       "Bonus": "IgnoresCover",
@@ -261,8 +261,8 @@
     {
       "Bonus": "GuidedAmmo",
       "Short": "Guided",
-      "Long": "Guided Ammo",
-      "Full": "Guided Ammunition: Gains {0} accuracy if the target is being painted by a TAG. {1} accuracy otherwise."
+      "Long": "Guided ammo",
+      "Full": "Guided ammunition: +{0} accuracy if the target is being painted by a TAG. {1} accuracy otherwise."
     },
     {
       "Bonus": "WideMiss",
@@ -274,7 +274,7 @@
       "Bonus": "HEAPAmmo",
       "Short": "HEAP",
       "Long": "HEAP",
-      "Full": "High-Explosive Armor-Piercing: Does a large amount of armor piercing damage at the cost of reduced total damage and less area-of-effect damage."
+      "Full": "High-Explosive Armor-Piercing: Does a large amount of armor piercing damage at the cost of reduced total damage and less area of effect damage."
     }
   ]
 }

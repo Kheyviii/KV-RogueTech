@@ -4,61 +4,61 @@
       "Bonus": "SiegeMode",
       "Short": "SiegeMode",
       "Long": "SiegeMode",
-      "Full": "Quad Mech's can stabilize themselves. Sacrifice Mobility for Improved Stability and 360° Firing Arc."
+      "Full": "Quad Mech's can stabilize themselves. Sacrifices mobility for improved stability and 360° firing arc"
     },
     {
       "Bonus": "SiegeScatterRadiusMod",
       "Short": "Min{0}Max{1}Scatter",
       "Long": "Min{0}Max{1}Scatter",
-      "Full": "Siege Mode: Shot scatter Radius Min {0} and Max {1} distance."
+      "Full": "Siege Mode: shot scatter radius min {0} and max {1} distance"
     },
     {
       "Bonus": "SiegeAccuracy",
       "Short": "{0} Acc",
       "Long": "{0} Accuracy",
-      "Full": "Siege Mode: {0} accuracy with ranged weapons."
+      "Full": "Siege Mode: {0} accuracy with ranged weapons"
     },
     {
       "Bonus": "SiegePipsIgnored",
       "Short": "{0} Pips",
       "Long": "{0} Evasion Pips",
-      "Full": "Siege Mode: {0} Evasion pips ignored with ranged weapons."
+      "Full": "Siege Mode: {0} Evasion Pips ignored with ranged weapons"
     },
     {
       "Bonus": "SiegeRecoil",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil",
-      "Full": "Siege Mode: {0} recoil with ranged weapons."
+      "Short": "{0} recoil",
+      "Long": "{0} recoil",
+      "Full": "Siege Mode: {0} recoil with ranged weapons"
     },
     {
       "Bonus": "SiegeBraceToFire",
       "Short": "BraceToFireReduction",
       "Long": "{0} Reduced Stab Dmg to Self",
-      "Full": "{0} stability damage to self when firing large weapons in Siege mode. Effect Stacks."
+      "Full": "{0} stability self-damage when firing large weapons in Siege Mode. Effect stacks"
     },
     {
       "Bonus": "SiegeStability",
       "Short": "{0} Stab",
       "Long": "{0} Stability Threshold",
-      "Full": "Siege Mode: {0} Stability threshold, {1} maximum and {2} taken."
+      "Full": "Siege Mode: {0} stability threshold, {1} maximum and {2} taken"
     },
     {
       "Bonus": "SiegeBulwark",
       "Short": "Bulwark",
       "Long": "Grants Bulwark",
-      "Full": "Siege Mode: Grants BULWARK, increasing damage reduction from GUARDED to 20%."
+      "Full": "Siege Mode: Grants BULWARK, increasing damage reduction from GUARDED to 20%"
     },
     {
       "Bonus": "DonkeyKick",
       "Short": "DonkeyKick",
       "Long": "Donkey Kick",
-      "Full": "Quad Mechs kicks do 100% more damage and 50% more stability damage due to their four legs."
+      "Full": "Quad Mechs kicks do 100% more damage and 50% more stability damage due to their four legs"
     },
     {
       "Bonus": "QuadTurret",
-      "Short": "{0} Acc {1} Recoil",
-      "Long": "Torsos: {0} Accuracy {1} Recoil",
-      "Full": "Quad Turret: {0} Accuracy and {1} Recoil in Side and Center Torsos."
+      "Short": "{0} ACC, {1} recoil",
+      "Long": "Torsos: {0} accuracy {1} recoil",
+      "Full": "Quad Turret: {0} accuracy and {1} recoil in side and center torsos"
     }
   ]
 }

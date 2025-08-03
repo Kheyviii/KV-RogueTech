@@ -4,66 +4,66 @@
       "Bonus": "Thunder",
       "Short": "Thunder Munition",
       "Long": "Thunder Munition",
-      "Full": "Thunder/FASCAM munitions lay mines wherever a missile hits the ground."
+      "Full": "Lay mines wherever a projectile hits the ground"
     },
     {
       "Bonus": "MineField",
-      "Short": "{0} Mines",
-      "Long": "{0} Mines",
-      "Full": "Installs {0} mines within {1} meters of projectile impact. {2}% Chance to fail deploy."
+      "Short": "{0} mines",
+      "Long": "{0} mines",
+      "Full": "Installs {0} mines within {1}m of projectile impact. {2}% chance to fail to deploy"
     },
     {
       "Bonus": "MinefieldChances",
-      "Short": "{0} Chance",
-      "Long": "{0} Chance",
-      "Full": "{0}% Chance to trigger Mines. {1}% Chance for Chain Detonation. {2}% Chance for Linked Detonation."
+      "Short": "{0} chance",
+      "Long": "{0} chance",
+      "Full": "{0}% chance to trigger mines. {1}% chance for chain detonation. {2}% chance for linked detonation"
     },
     {
       "Bonus": "MineFieldDamage",
-      "Short": "{0} Damage",
-      "Long": "{0} Damage",
-      "Full": "{0} Primary damage. {1} AoE Damage in {2} Radius."
+      "Short": "{0} damage",
+      "Long": "{0} damage",
+      "Full": "{0} primary damage. {1} AoE damage in {2} radius"
     },
     {
       "Bonus": "MineFieldDamageHeat",
-      "Short": "{0} Damage",
-      "Long": "{0} Damage",
-      "Full": "{0} Heat damage. {1} AoE Heat Damage in {2} Radius."
+      "Short": "{0} damage",
+      "Long": "{0} damage",
+      "Full": "{0} heat damage. {1} AoE heat damage in {2} radius"
     },
     {
       "Bonus": "MinefieldMove",
-      "Short": "{0} Hindrance",
-      "Long": "{0} Hindrance",
+      "Short": "{0} hindrance",
+      "Long": "{0} hindrance",
       "Full": "{0}% reduced movement per mine"
     },
     {
       "Bonus": "ThunderMines",
-      "Short": "{0} Mines",
-      "Long": "{0} Mines",
+      "Short": "{0} mines",
+      "Long": "{0} mines",
       "Full": "{0} mines per projectile"
     },
     {
       "Bonus": "ThunderRadius",
-      "Short": "{0} Radius",
-      "Long": "{0} Radius",
-      "Full": "Installs mines on hexes within {0} meters"
+      "Short": "{0} radius",
+      "Long": "{0} radius",
+      "Full": "Installs mines on hexes within {0}m"
     },
     {
       "Bonus": "ThunderChance",
-      "Short": "{0} Chance",
-      "Long": "{0} Chance",
+      "Short": "{0} chance",
+      "Long": "{0} chance",
       "Full": "{0} mine trigger chance"
     },
     {
       "Bonus": "ThunderDamage",
-      "Short": "{0} Damage",
-      "Long": "{0} Damage",
+      "Short": "{0} damage",
+      "Long": "{0} damage",
       "Full": "{0} mine damage"
     },
     {
       "Bonus": "ThunderHeatDamage",
-      "Short": "{0} Heat Dmg.",
-      "Long": "{0} Heat Damage",
+      "Short": "{0} heat Dmg",
+      "Long": "{0} heat damage",
       "Full": "{0} mine heat damage"
     }
   ]
