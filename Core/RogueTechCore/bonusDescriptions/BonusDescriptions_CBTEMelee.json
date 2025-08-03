@@ -3,344 +3,344 @@
     {
       "Bonus": "PhysicalWeapon",
       "Short": "PhysicalWeapon",
-      "Long": "PhysicalWeapon",
-      "Full": "Enables Physical Weapon Melee Attacks. {0} Base Physical and {1} Stab Damage per Attacker Ton."
+      "Long": "Physical weapon",
+      "Full": "Physical weapon: {0} base physical and {1} stability damage per attacker ton"
     },
     {
       "Bonus": "Sword",
       "Short": "Sword",
       "Long": "Sword",
-      "Full": "Swords are highly accurate but do less damage."
+      "Full": "Sword: Accurate physical weapon with lighter hits"
     },
     {
       "Bonus": "VibroSword",
       "Short": "VibroSword",
       "Long": "VibroSword",
-      "Full": "Swords are highly accurate but do less damage. VibroSwords can activate to deal additional damage at the expense of heat."
+      "Full": "VibroSword: Accurate physical weapon with lighter hits. Can be activated to deal additional damage at the expense of heat"
     },
     {
       "Bonus": "Mace",
       "Short": "Mace",
       "Long": "Mace",
-      "Full": "Maces have heavy but inaccurate Hits."
+      "Full": "Mace: Heavy-hitting but inaccurate physical weapon"
     },
     {
       "Bonus": "Hatchet",
       "Short": "Hatchet",
       "Long": "Hatchet",
-      "Full": "Hatchets allow for strong Melee."
+      "Full": "Hatchet: Strong basic physical weapon"
     },
     {
       "Bonus": "PhysicalWeaponPunch",
       "Short": "PunchTable",
       "Long": "PunchTable",
-      "Full": "Physical Weapon Attacks roll on the Punch Table."
+      "Full": "Hit location: attacks roll on the Punch Table"
     },
     {
       "Bonus": "PhysicalWeaponStandard",
       "Short": "StandardTable",
       "Long": "StandardTable",
-      "Full": "Physical Weapon Attacks roll on the Standard Table."
+      "Full": "Hit location: attacks roll on the Standard Table"
     },
     {
       "Bonus": "PhysicalWeaponDestabilize",
       "Short": "Destabilize",
       "Long": "Destabilize",
-      "Full": "Physical Weapon Attacks always destabilizes Target on hit and Attacker on Miss."
+      "Full": "Physical weapon: always destabilizes target on hit and attacker on miss"
     },
     {
       "Bonus": "CBTBEPhysicalSupportWeapon",
-      "Short": "PhysSupport",
-      "Long": "PhysSupport",
-      "Full": "Physical Support Weapons enhance other Melee Aspects."
+      "Short": "Phys.Supp.",
+      "Long": "Physical support",
+      "Full": "Physical Support Weapon: Enhances other melee aspects"
     },
     {
       "Bonus": "CBTBEKickHits",
       "Short": "ExtraKick",
-      "Long": "ExtraKick",
-      "Full": "Adds {0} kick hit rolls, but spreads the kick damage evenly among them."
+      "Long": "Extra kick",
+      "Full": "Extra attack: Adds {0} kick hit rolls, but spreads the damage evenly among them"
     },
     {
       "Bonus": "CBTBEPunchHits",
       "Short": "ExtraPunch",
-      "Long": "ExtraPunch",
-      "Full": "Adds {0} punch hit rolls, but spreads the punch damage evenly among them."
+      "Long": "Extra punch",
+      "Full": "Extra attack: Adds {0} punch hit rolls, but spreads the damage evenly among them"
     },
     {
       "Bonus": "CBTBEPhysicalWeaponHits",
       "Short": "ExtraPW",
-      "Long": "ExtraPW",
-      "Full": "Adds {0} physical weapon hit rolls, but spreads the physical weapon damage evenly among them."
+      "Long": "Extra phys. weapon",
+      "Full": "Extra attack: Adds {0} physical weapon hit rolls, but spreads the damage evenly among them"
     },
     {
       "Bonus": "CBTBEPhysicalAttackAccuracyUpgrade",
-      "Short": "{0} Accuracy",
-      "Long": "{0} Accuracy",
-      "Full": "{0} Accuracy for Physical Weapon Attack."
+      "Short": "{0} physACC",
+      "Long": "{0} physical wpn accuracy",
+      "Full": "Physical weapon accuracy: {0}"
     },
     {
       "Bonus": "CBTBEPunchAttackAccuracyUpgrade",
-      "Short": "{0} Accuracy",
-      "Long": "{0} Accuracy",
-      "Full": "{0} Accuracy for Punch Melee Attack."
+      "Short": "{0} punchACC",
+      "Long": "{0} punch accuracy",
+      "Full": "Punch accuracy: {0}"
     },
     {
       "Bonus": "CBTBEKickAttackAccuracyUpgrade",
-      "Short": "{0} Accuracy",
-      "Long": "{0} Accuracy",
-      "Full": "{0} Accuracy for Kick Melee Attack."
+      "Short": "{0} kickACC",
+      "Long": "{0} kick accuracy",
+      "Full": "Kick accuracy: {0}"
     },
     {
       "Bonus": "CBTBEDFAAttackAccuracyUpgrade",
-      "Short": "{0} Accuracy",
-      "Long": "{0} Accuracy",
-      "Full": "{0} Accuracy for Death from Above Melee Attack."
+      "Short": "{0} DFA ACC",
+      "Long": "{0} DFA accuracy",
+      "Full": "Death From Above accuracy: {0}"
     },
     {
       "Bonus": "CBTBEChargeAccuracyUpgrade",
-      "Short": "{0} Accuracy",
-      "Long": "{0} Accuracy",
-      "Full": "{0} Accuracy for Charge Melee Attack."
+      "Short": "{0} chargeACC",
+      "Long": "{0} charge accuracy",
+      "Full": "Charge accuracy: {0}"
     },
     {
       "Bonus": "CBTBEPhysicalAttackAccuracy",
-      "Short": "{0} Accuracy",
-      "Long": "{0} Accuracy",
-      "Full": "Weapon has {0} Accuracy when used for Physical Weapon Attack."
+      "Short": "{0} physACC",
+      "Long": "{0} physical wpn accuracy",
+      "Full": "Melee accuracy: {0} accuracy when used for physical weapon attack"
     },
     {
       "Bonus": "CBTBEPhysicalAttackDamageActive",
-      "Short": "{0} Damage",
-      "Long": "{0} Damage",
-      "Full": "Weapon deals additional {0} Damage when used for Physical Weapon Attack when Activated."
+      "Short": "{0} DMG",
+      "Long": "{0} damage",
+      "Full": "Melee damage: {0} damage when used for physical weapon attack when activated"
     },
     {
       "Bonus": "CBTBEPhysicalAttackStabilityActive",
-      "Short": "{0} Stb.Damage",
-      "Long": "{0} Stb.Damage",
-      "Full": "Weapon deals additional {0} Stability Damage when used for Physical Weapon Attack when Activated."
+      "Short": "{0} STAB DMG",
+      "Long": "{0} STAB DMG",
+      "Full": "Melee stability damage: {0} stability damage when used for physical weapon attack when activated"
     },
     {
       "Bonus": "CBTBEPhysicalAttackDamage",
-      "Short": "{0} Damage",
-      "Long": "{0} Damage",
-      "Full": "Weapon deals {0} Damage when used for Physical Weapon Attack."
+      "Short": "{0} DMG",
+      "Long": "{0} damage",
+      "Full": "Melee damage: {0} when used for physical weapon attack"
     },
     {
       "Bonus": "CBTBEPhysicalAttackStability",
-      "Short": "{0} Stb.Damage",
-      "Long": "{0} Stb.Damage",
-      "Full": "Weapon deals {0} Stability Damage when used for Physical Weapon Attack."
+      "Short": "{0} STAB DMG",
+      "Long": "{0} STAB DMG",
+      "Full": "Melee stability damage: {0} when used for physical weapon attack"
     },
     {
       "Bonus": "CBTBEPhysicalDamage",
-      "Short": "{0} PhysicalDamage",
-      "Long": "{0} PhysicalDamage",
-      "Full": "{0} modifier to Physical Weapon Damage."
+      "Short": "{0} physDMG",
+      "Long": "{0} physical DMG mod",
+      "Full": "Physical weapon damage: {0}"
     },
     {
       "Bonus": "CBTBEPhysicalDamageMulti",
-      "Short": "{0} PhysicalDamage",
-      "Long": "{0} PhysicalDamage",
-      "Full": "{0} multiplier to Physical Weapon Damage."
+      "Short": "{0} physDMG",
+      "Long": "{0} physical DMG multi",
+      "Full": "Physical weapon damage: {0}"
     },
     {
       "Bonus": "CBTBEPhysicalStability",
-      "Short": "{0} PhysicalStability",
-      "Long": "{0} PhysicalStability",
-      "Full": "{0} modifier to Physical Weapon Stability Damage."
+      "Short": "{0} phys.STAB",
+      "Long": "{0} physical STAB mod",
+      "Full": "Melee stability damage: {0} to physical weapon"
     },
     {
       "Bonus": "CBTBEPhysicalStabilityMulti",
-      "Short": "{0} PhysicalStability",
-      "Long": "{0} PhysicalStability",
-      "Full": "{0} multiplier to Physical Weapon Stability Damage."
+      "Short": "{0} phys.STAB",
+      "Long": "{0} physical STAB multi",
+      "Full": "Melee damage: {0} to physical weapon"
     },
     {
       "Bonus": "CBTBEPhysicalDamageActive",
-      "Short": "{0} PhysicalDamage",
-      "Long": "{0} PhysicalDamage",
-      "Full": "{0} modifier to Physical Weapon Damage when Activated."
+      "Short": "{0} physDMG",
+      "Long": "{0} physical DMG mod",
+      "Full": "Melee damage: {0} to physical weapon when activated"
     },
     {
       "Bonus": "CBTBEPhysicalDamageMultiActive",
-      "Short": "{0} PhysicalDamage",
-      "Long": "{0} PhysicalDamage",
-      "Full": "{0} multiplier to Physical Weapon Damage when Activated."
+      "Short": "{0} physDMG",
+      "Long": "{0} physical DMG multi",
+      "Full": "Melee damage: {0} to physical weapon when activated"
     },
     {
       "Bonus": "CBTBEPhysicalStabilityActive",
-      "Short": "{0} PhysicalStability",
-      "Long": "{0} PhysicalStability",
-      "Full": "{0} modifier to Physical Weapon Stability Damage when Activated."
+      "Short": "{0} physSTAB",
+      "Long": "{0} physical STAB mod",
+      "Full": "Melee stability damage: {0} to physical weapon when activated"
     },
     {
       "Bonus": "CBTBEPhysicalStabilityMultiActive",
-      "Short": "{0} PhysicalStability",
-      "Long": "{0} PhysicalStability",
-      "Full": "{0} multiplier to Physical Weapon Stability Damage when Activated."
+      "Short": "{0} physSTAB",
+      "Long": "{0} physical STAB multi",
+      "Full": "Melee stability damage: {0} to physical weapon when activated"
     },
     {
       "Bonus": "CBTBEPhysicalBaseModifier",
-      "Short": "{0} PhysicalBase",
-      "Long": "{0} PhysicalBase",
-      "Full": "{0} modifier to Base Physical Weapon and {1} Stab Damage per Attacker Ton."
+      "Short": "{0} ph.basemod",
+      "Long": "{0} physical base mod",
+      "Full": "Melee damage: {0} to base physical weapon and {1} stability damage per attacker ton"
     },
     {
       "Bonus": "CBTBEPunchDamage",
-      "Short": "{0} PunchDamage",
-      "Long": "{0} PunchDamage",
-      "Full": "{0} modifier to Punch Attack Damage."
+      "Short": "{0} punchDMG",
+      "Long": "{0} punch DMG mod",
+      "Full": "Punch damage: {0}"
     },
     {
       "Bonus": "CBTBEPunchStability",
-      "Short": "{0} PunchStab",
-      "Long": "{0} PunchStab",
-      "Full": "{0} modifier to Punch Attack Stability Damage."
+      "Short": "{0} punchSTAB",
+      "Long": "{0} punch STAB mod",
+      "Full": "Punch stability damage: {0}"
     },
     {
       "Bonus": "CBTBEPunchDamageMulti",
-      "Short": "{0} PunchDamage",
-      "Long": "{0} PunchDamage",
-      "Full": "{0} multiplier to Punch Attack Damage."
+      "Short": "{0} punchDMG",
+      "Long": "{0} punch DMG multi",
+      "Full": "Punch damage: {0}"
     },
     {
       "Bonus": "CBTBEPunchStabilityMulti",
-      "Short": "{0} PunchDamage",
-      "Long": "{0} PunchDamage",
-      "Full": "{0} multiplier to Punch Attack Stability Damage."
+      "Short": "{0} punchDMG",
+      "Long": "{0} punch DMG multi",
+      "Full": "Punch stability damage: {0}"
     },
     {
       "Bonus": "CBTBEKickDamage",
-      "Short": "{0} KickDamage",
-      "Long": "{0} KickDamage",
-      "Full": "{0} modifier to Kick Attack Damage."
+      "Short": "{0} kickDMG",
+      "Long": "{0} kick DMG mod",
+      "Full": "Kick damage: {0}"
     },
     {
       "Bonus": "CBTBEKickDamageMulti",
-      "Short": "{0} KickDamage",
-      "Long": "{0} KickDamage",
-      "Full": "{0} multiplier to Kick Attack Damage."
+      "Short": "{0} kickDMG",
+      "Long": "{0} kick DMG multi",
+      "Full": "Kick damage: {0}"
     },
     {
       "Bonus": "CBTBEKickStabilityMulti",
-      "Short": "{0} KickStab",
-      "Long": "{0} KickStab",
-      "Full": "{0} multiplier to Kick Attack Stability Damage."
+      "Short": "{0} kickSTAB",
+      "Long": "{0} kick STAB multi",
+      "Full": "Kick stability damage: {0}"
     },
     {
       "Bonus": "CBTBEDFADamageMulti",
-      "Short": "{0} DFADamage",
-      "Long": "{0} DFADamage",
-      "Full": "{0} multiplier to Death From Above Attack Damage."
+      "Short": "{0} DFA DMG",
+      "Long": "{0} DFA DMG multi",
+      "Full": "Death From Above damage: {0}"
     },
     {
       "Bonus": "CBTBEDFAStabilityMulti",
-      "Short": "{0} DFAStab",
-      "Long": "{0} DFAStab",
-      "Full": "{0} multiplier to Death From Above Attack Stability Damage."
+      "Short": "{0} DFASTAB",
+      "Long": "{0} DFA STAB multi",
+      "Full": "Death From Above stability damage: {0}"
     },
     {
       "Bonus": "CBTBEDFADamageMultiSelf",
-      "Short": "{0} DFADamage",
-      "Long": "{0} DFADamage",
-      "Full": "{0} multiplier to Death From Above Attack self Damage Taken."
+      "Short": "{0} DFA DMG",
+      "Long": "{0} DFA DMG multi",
+      "Full": "Death From Above self-damage: {0}"
     },
     {
       "Bonus": "CBTBEDFAStabilityMultiSelf",
-      "Short": "{0} DFAStab",
-      "Long": "{0} DFAStab",
-      "Full": "{0} multiplier to Death From Above Attack Stability self Damage taken."
+      "Short": "{0} DFA STAB",
+      "Long": "{0} DFA STAB multi",
+      "Full": "Death From Above stability self-damage{0}"
     },
     {
       "Bonus": "CBTBEChargeDamage",
-      "Short": "{0} ChargeDamage",
-      "Long": "{0} ChargeDamage",
-      "Full": "{0} modifier to Charge Attack Damage."
+      "Short": "{0} chargeDMG",
+      "Long": "{0} charge DMG mod",
+      "Full": "Charge damage: {0}"
     },
     {
       "Bonus": "CBTBEChargeStability",
-      "Short": "{0} ChargeStab",
-      "Long": "{0} ChargeStab",
-      "Full": "{0} modifier to Charge Attack StabilityDamage."
+      "Short": "{0} chargeSTAB",
+      "Long": "{0} charge STAB multi",
+      "Full": "Charge stability damage: {0}"
     },
     {
       "Bonus": "CBTBEChargeDamageMulti",
-      "Short": "{0} ChargeDamage",
-      "Long": "{0} ChargeDamage",
-      "Full": "{0} multiplier to Charge Attack Damage."
+      "Short": "{0} chargeDMG",
+      "Long": "{0} charge DMG multi",
+      "Full": "Charge damage: {0}"
     },
     {
       "Bonus": "CBTBEChargeStabilityMulti",
-      "Short": "{0} ChargeDamage",
-      "Long": "{0} ChargeDamage",
-      "Full": "{0} multiplier to Charge Attack Stability Damage."
+      "Short": "{0} chargeDMG",
+      "Long": "{0} charge DMG multi",
+      "Full": "Charge stability damage: {0}"
     },
     {
       "Bonus": "CBTBEChargeDamageSelf",
-      "Short": "{0} ChargeDamage",
-      "Long": "{0} ChargeDamage",
-      "Full": "{0} modifier to Charge Attack Self Damage."
+      "Short": "{0} chargeDMG",
+      "Long": "{0} charge DMG mod",
+      "Full": "Charge self-damage: {0}"
     },
     {
       "Bonus": "CBTBEChargeStabilitySelf",
-      "Short": "{0} ChargeStab",
-      "Long": "{0} ChargeStab",
-      "Full": "{0} modifier to Charge Attack Stability Self Damage."
+      "Short": "{0} chargeSTAB",
+      "Long": "{0} charge STAB mod",
+      "Full": "Charge stability self-damage: {0}"
     },
     {
       "Bonus": "CBTBEChargeDamageMultiSelf",
-      "Short": "{0} ChargeDamage",
-      "Long": "{0} ChargeDamage",
-      "Full": "{0} multiplier to Charge Attack Self Damage."
+      "Short": "{0} chargeDMG",
+      "Long": "{0} charge DMG multi",
+      "Full": "Charge self-damage: {0}"
     },
     {
       "Bonus": "CBTBEChargeStabilityMultiSelf",
-      "Short": "{0}ChargeDamage",
-      "Long": "{0}ChargeDamage",
-      "Full": "{0} multiplier to Charge Attack Stability Self Damage."
+      "Short": "{0} chargeDMG",
+      "Long": "{0} charge DMG multi",
+      "Full": "Charge stability self-damage: {0}"
     },
     {
       "Bonus": "MeleeDamageTaken",
-      "Short": "{0} Mel.Dmg.Tkn",
-      "Long": "{0} Melee Damage taken",
-      "Full": "{0} melee damage taken."
+      "Short": "{0} melDMGtkn",
+      "Long": "{0} melee damage taken",
+      "Full": "Melee damage taken: {0}"
     },
     {
       "Bonus": "CBTBEPunchDmgTaken",
-      "Short": "{0} Punch.Dmg.Tkn",
-      "Long": "{0} Punch Damage taken",
-      "Full": "{0} Punch Attack and {1} Stability Damage taken."
+      "Short": "{0} punchDMGtkn",
+      "Long": "{0} punch damage taken",
+      "Full": "Punch damage taken: {0} physical and {1} stability"
     },
     {
       "Bonus": "CBTBEKickDmgTaken",
-      "Short": "{0} Kick.Dmg.Tkn",
-      "Long": "{0} Kick Damage taken",
-      "Full": "{0} Kick Attack and {1} Stability Damage taken."
+      "Short": "{0} kickDMGtkn",
+      "Long": "{0} kick damage taken",
+      "Full": "Kick damage taken: {0} physical and {1} stability"
     },
     {
       "Bonus": "CBTBEPhysDmgTaken",
-      "Short": "{0} Phys.Dmg.Tkn",
-      "Long": "{0} Phys Damage taken",
-      "Full": "{0} Physical Weapon and {1} Stability Damage taken."
+      "Short": "{0} physDMGtkn",
+      "Long": "{0} phys damage taken",
+      "Full": "Physical weapon damage taken: {0} physical and {1} stability"
     },
     {
       "Bonus": "CBTBEChargeDmgTaken",
-      "Short": "{0} Charge.Dmg.Tkn",
-      "Long": "{0} Charge Damage taken",
-      "Full": "{0} Charge Attack and {1} Stability Damage taken."
+      "Short": "{0} chargeDMGtkn",
+      "Long": "{0} charge damage taken",
+      "Full": "Charge damage taken: {0} physical and {1} stability"
     },
     {
       "Bonus": "CBTBEDFADmgTaken",
-      "Short": "{0} DFA.Dmg.Tkn",
-      "Long": "{0} DFA Damage taken",
-      "Full": "{0} DFA Attack and {1} Stability Damage taken."
+      "Short": "{0} DFADMGtkn",
+      "Long": "{0} DFA damage taken",
+      "Full": "DFA damage taken: {0} physical and {1} stability"
     },
     {
       "Bonus": "AlwaysMelee",
       "Short": "AlwaysMelee",
-      "Long": "AlwaysMelee",
-      "Full": "This weapon fires during ALL melee and DFA attacks."
+      "Long": "Always fires in melee",
+      "Full": "Fires during ALL melee and DFA attacks"
     }
   ]
 }

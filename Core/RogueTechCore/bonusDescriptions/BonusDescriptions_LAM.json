@@ -4,133 +4,133 @@
       "Bonus": "LandAirMechActive",
       "Short": "LandAirMech",
       "Long": "LandAirMech",
-      "Full": "Land-Air-Mech Can change between 'Mech and Flight Mode. Deploys in Flight."
+      "Full": "Land-Air 'Mech can change between 'Mech and Flight mode. Deploys in Flight mode"
     },
     {
       "Bonus": "LandAirMechDisabled",
       "Short": "LandAirMech",
       "Long": "LandAirMech",
-      "Full": "Land-Air-Mech Can change between 'Mech and Flight Mode. Deploys in Mech Mode."
+      "Full": "Land-Air 'Mech can change between 'Mech and Flight mode. Deploys in 'Mech mode"
     },
     {
       "Bonus": "LAMNoGround",
       "Short": "LAMNoGround",
       "Long": "LAMNoGround",
-      "Full": "Land-Air-Mech in Flight is unaffected by Ground Effects and Minefields."
+      "Full": "Land-Air 'Mech in flight is immune to terrain effects and minefields"
     },
     {
       "Bonus": "LAMTurbine",
       "Short": "LAMTurbine",
       "Long": "LAMTurbine",
-      "Full": "LAM Turbine provides {0} Hex Jump Distance at {1} Heat."
+      "Full": "LAM Turbine provides {0} hex jump distance at {1} heat"
     },
     {
       "Bonus": "LAMTurbineFlight",
       "Short": "LAMTurbineFlight",
       "Long": "LAMTurbineFlight",
-      "Full": "LAM-Mode: {0} units Walk Speed and generate {1} Heat Per Turn."
+      "Full": "LAM-Mode: {0} walk speed, generate {1} heat per turn"
     },
     {
       "Bonus": "LAMTurbineAfterBurner",
       "Short": "LAMTurbineAfterBurner",
       "Long": "LAMTurbineAfterBurner",
-      "Full": "AfterBurner: {0} additional Jump Distance at {1} Heat in LAM-Mode."
+      "Full": "AfterBurner: {0} additional jump distance at {1} heat in LAM mode"
     },
     {
       "Bonus": "LAMAfterBurner",
       "Short": "AfterBurner",
       "Long": "AfterBurner",
-      "Full": "LAM-AfterBurner: {0} Jump Distance in LAM-Mode."
+      "Full": "LAM-AfterBurner: {0} jump distance in LAM mode"
     },
     {
       "Bonus": "LAMSuperBurner",
       "Short": "LAMSuperBurner",
       "Long": "LAMSuperBurner",
-      "Full": "LAM-SuperBurner: {0} additional Turbine Capacity."
+      "Full": "LAM-SuperBurner: {0} additional turbine capacity"
     },
     {
       "Bonus": "LAMFlight",
       "Short": "LAMFlight",
       "Long": "LAMFlight",
-      "Full": "LAM mode provides {0} Max Evasion, {1} increased Stability Damage Taken and {2} Reduced Stability Thresholds."
+      "Full": "LAM mode provides {0} max evasion, {1} increased stability damage taken and {2} reduced stability thresholds"
     },
     {
       "Bonus": "LAMFlightSystemBomber",
       "Short": "Bomber",
       "Long": "Heavy Bomber",
-      "Full": "Bomber: This LAM is not affected by Drag from Wing Mounted weapons."
+      "Full": "Bomber: This LAM is not affected by drag from wing-mounted weapons"
     },
     {
       "Bonus": "ReqLandAirMech",
       "Short": "LAM Required",
       "Long": "LAM Required",
-      "Full": "Can only be installed on a Land Air Mech."
+      "Full": "Can only be installed on a Land-Air 'Mech"
     },
     {
       "Bonus": "BAWingMountWeight",
       "Short": "{0} CarryWeight",
       "Long": "{0} CarryWeight",
-      "Full": "BattleArmor Bay requires {0} Ton Carry Weight."
+      "Full": "Battle Armor Bay requires {0} ton carry weight"
     },
     {
       "Bonus": "BombBayWeapon",
       "Short": "Bomb Bay",
       "Long": "Bomb Bay",
-      "Full": "Multi Weapon System: Ammo Defines Stats. Uses [Bay] Ammunition."
+      "Full": "Multi-weapon System: Ammo defines stats. Uses [Bay] ammunition"
     },
     {
       "Bonus": "WingMountWeight",
       "Short": "{0} Wingmount",
       "Long": "{0} Wingmount",
-      "Full": "Wing Mounted ordnance requires {0} Ton(s) Carry Weight."
+      "Full": "Wing-mounted ordnance requires {0} ton(s) carry weight"
     },
     {
       "Bonus": "ShotsFiredAmmo",
-      "Short": "{0} Shots",
-      "Long": "{0} Shots Fired",
-      "Full": "{0} shots fired with this ammo."
+      "Short": "{0} shots",
+      "Long": "{0} shots fired",
+      "Full": "{0} shots fired with this ammo"
     },
     {
       "Bonus": "MunitionsRange",
-      "Short": "Ammo Range",
+      "Short": "Ammo range",
       "Long": "{0}/{1}/{2}/{3}/{4}",
-      "Full": "Munitions Range: {0}Min, {1}Short, {2}Med, {3}Long, {4}Ex."
+      "Full": "Munitions range: {0} min, {1} short, {2} med, {3} long, {4} ex"
     },
     {
       "Bonus": "WingMountDrag",
       "Short": "Drag",
       "Long": "Aerodynamic Drag",
-      "Full": "WingMount reduces Movement & Jump by 8%, and increases Signature by 6%, per Ton of Carry Weight used. Eject to remove penalty."
+      "Full": "WingMount reduces movement & jump by 8%, and increases signature by 6%, per ton of carry weight used. Eject to remove penalty"
     },
     {
       "Bonus": "HPAmmoMR",
       "Short": "{0}MinRange",
       "Long": "{0}MinRange",
-      "Full": "{0} Minimum Range."
+      "Full": "{0} minimum range"
     },
     {
       "Bonus": "HPAmmoSR",
       "Short": "{0}ShortRange",
       "Long": "{0}ShortRange",
-      "Full": "{0} Short Range."
+      "Full": "{0} short range"
     },
     {
       "Bonus": "HPAmmoMedR",
       "Short": "{0}MediumRange",
       "Long": "{0}MediumRange",
-      "Full": "{0} Medium Range."
+      "Full": "{0} medium range"
     },
     {
       "Bonus": "HPAmmoLR",
       "Short": "{0}LongRange",
       "Long": "{0}LongRange",
-      "Full": "{0} Long Range."
+      "Full": "{0} long range"
     },
     {
       "Bonus": "HPAmmoER",
       "Short": "{0}Ext.Range",
       "Long": "{0}Ext.Range",
-      "Full": "{0} Extreme Range."
+      "Full": "{0} extreme range"
     }
   ]
 }

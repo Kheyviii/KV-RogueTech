@@ -4,103 +4,103 @@
       "Bonus": "StandardEngine",
       "Short": "StdEngine",
       "Long": "StdEngine",
-      "Full": "Standard Fusion Engine."
+      "Full": "Standard fusion engine"
     },
     {
       "Bonus": "AmmoCost",
-      "Short": "{0} Cbills",
-      "Long": "{0} Cbills",
-      "Full": "{0} Cbills Cost per Shot."
+      "Short": "{0} C-bills",
+      "Long": "{0} C-bills",
+      "Full": "Cost per shot: {0} C-bills"
     },
     {
       "Bonus": "CoolantCost",
-      "Short": "{0} Coolant",
-      "Long": "{0} Coolant",
-      "Full": "{0} Cbills Coolant Cost."
+      "Short": "{0} coolant",
+      "Long": "{0} coolant",
+      "Full": "Coolant cost: {0} C-bills"
     },
     {
       "Bonus": "CoolantCostMulti",
       "Short": "{0} CoolMulti",
       "Long": "{0} CoolMulti",
-      "Full": "{0} Cbills Coolant Cost Multiplier."
+      "Full": "Coolant cost multiplier: {0} C-bills"
     },
     {
       "Bonus": "EngineWeight",
       "Short": "{0} Eng.Weight",
       "Long": "{0} Engine Weight",
-      "Full": "{0} engine weight factor change."
+      "Full": "Engine weight factor change: {0}"
     },
     {
       "Bonus": "EngineReserved",
-      "Short": "{0} Reserved",
-      "Long": "{0} Reserved Slots",
-      "Full": "{0} Engine slots reserved."
+      "Short": "{0} reserved",
+      "Long": "{0} reserved slots",
+      "Full": "Engine slots reserved: {0}"
     },
     {
       "Bonus": "GyroReserved",
-      "Short": "{0} Reserved",
-      "Long": "{0} Reserved Slots",
-      "Full": "{0} Gyro slots reserved."
+      "Short": "{0} reserved",
+      "Long": "{0} reserved slots",
+      "Full": "Gyro slots reserved: {0}"
     },
     {
       "Bonus": "WeaponReserved",
-      "Short": "{0} Reserved",
-      "Long": "{0} Reserved Slots",
-      "Full": "{0} weapon slots reserved in Torso Sides."
+      "Short": "{0} reserved",
+      "Long": "{0} reserved slots",
+      "Full": "Weapon slots reserved: {0} in side torsos"
     },
     {
       "Bonus": "Placeholder",
       "Short": "INSTALL",
       "Long": "INSTALL",
-      "Full": "'Mech Requires an Engine Core installed!"
+      "Full": "'Mech requires an engine core!"
     },
     {
       "Bonus": "COREBEHERE",
       "Short": "FUSION!",
       "Long": "FUSION!",
-      "Full": "Invalid! 'Mech has no functioning Engine Core!"
+      "Full": "Invalid! No functioning engine core!"
     },
     {
       "Bonus": "FreedSlots",
-      "Short": "+ {0} Slots",
-      "Long": "+ {0} Slots Available",
-      "Full": "+ {0} slots available."
+      "Short": "+{0} slots",
+      "Long": "+{0} slots available",
+      "Full": "Slots available: +{0}"
     },
     {
       "Bonus": "Dynamic",
-      "Short": "{0} Dynamic",
-      "Long": "{0} Dynamic Slots",
-      "Full": "{0} Dynamic slots reserved."
+      "Short": "{0} dynamic",
+      "Long": "{0} dynamic slots",
+      "Full": "Dynamic slots reserved: {0}"
     },
     {
       "Bonus": "Reserved",
-      "Short": "{0} Reserved",
-      "Long": "{0} Reserved Slots",
-      "Full": "{0} Fixed slots reserved."
+      "Short": "{0} reserved",
+      "Long": "{0} reserved slots",
+      "Full": "Fixed slots reserved: {0}"
     },
     {
       "Bonus": "FixedSlots",
-      "Short": "{0} Fixed Slots",
-      "Long": "{0} Fixed Slots",
-      "Full": "{0} Fixed slots reserved."
+      "Short": "{0} fixed slots",
+      "Long": "{0} fixed slots",
+      "Full": "Fixed slots reserved: {0}"
     },
     {
       "Bonus": "ProtoMechEngine",
       "Short": "ProtoMechEngine",
-      "Long": "ProtoMech Engine",
-      "Full": "ProtoMech Engines do not require additional Heatsinks."
+      "Long": "ProtoMech engine",
+      "Full": "ProtoMech engine: No additional heat sinks required"
     },
     {
       "Bonus": "Omni",
       "Short": "OmniMech",
       "Long": "OmniMech",
-      "Full": "OmniMechs allow rapid refitting, but have permanently affixed internals. Can be externally mounted by Battle Armors."
+      "Full": "OmniMech: Rapid refitting, but permanently affixed internals. Can be externally mounted by Battle Armors"
     },
     {
       "Bonus": "OmniTank",
       "Short": "OmniTank",
       "Long": "OmniTank",
-      "Full": "Omni Vehicles can be externally mounted by Battle Armors."
+      "Full": "Omni Vehicle: Can be externally mounted by Battle Armors"
     },
     {
       "Bonus": "Whitespace",
@@ -117,49 +117,49 @@
       "Bonus": "EngineHSFreeExt",
       "Short": "- {0} HS ton",
       "Long": "- {0} HS ton",
-      "Full": "External heat sinks required: {0}. These heat sinks are weightless."
+      "Full": "External heat sinks required: {0}. These heat sinks are weightless"
     },
     {
       "Bonus": "EngineHSCap",
-      "Short": "+{0} HS Cap",
-      "Long": "+{0} HS Cap",
-      "Full": "+{0} additional installable engine heat sinks."
+      "Short": "+{0} HS cap",
+      "Long": "+{0} HS cap",
+      "Full": "Installable engine heat sinks: +{0}"
     },
     {
       "Bonus": "EngineHSAdd",
       "Short": "+{0} HS",
-      "Long": "+{0} Heat Sink",
-      "Full": "+{0} additional engine heat sinks."
+      "Long": "+{0} heat sink",
+      "Full": "Additional engine heat sinks: +{0}"
     },
     {
       "Bonus": "StandUP",
       "Short": "+{0} StandUp",
       "Long": "+{0} StandUp",
-      "Full": "+{0} to the Standing Up Piloting Roll."
+      "Full": "Standing up Piloting roll: +{0}"
     },
     {
       "Bonus": "LegReserved",
-      "Short": "{0} Reserved",
-      "Long": "{0} Reserved Slots",
-      "Full": "{0} slots reserved in all Legs."
+      "Short": "{0} reserved",
+      "Long": "{0} reserved slots",
+      "Full": "Leg slots reserved: {0}"
     },
     {
       "Bonus": "ROI",
       "Short": "ROI",
       "Long": "Result Oriented Item",
-      "Full": "This is not a real item. It will not appear in your inventory, but instead trigger some action - add contract, trigger event, etc"
+      "Full": "This is not an item that will appear in your inventory. It will instead trigger some action: add contract, trigger event, etc"
     },
     {
       "Bonus": "CashPayment",
       "Short": "CashPayment",
       "Long": "Cash Payment",
-      "Full": "This is not a real item. It will not appear in your inventory, but will add {0} additional C Bills to your funds."
+      "Full": "This is not an item that will appear in your inventory. It will instead add {0} C-bills to your funds"
     },
     {
       "Bonus": "EjectionInjuryChance",
       "Short": "EjectionInjuryChance",
-      "Long": "{0} Ejection Injury Chance",
-      "Full": "{0} Chance for Injury on Ejection"
+      "Long": "{0} ejection injury chance",
+      "Full": "Ejection injury chance: {0}"
     }
   ]
 }

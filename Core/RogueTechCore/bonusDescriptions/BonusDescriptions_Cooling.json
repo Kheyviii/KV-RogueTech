@@ -3,206 +3,206 @@
     {
       "Bonus": "CoolantTruck",
       "Short": "Cooling",
-      "Long": "Cooling Aura",
-      "Full": "Friendly units within {0} sink {1} more heat per turn."
+      "Long": "Cooling aura",
+      "Full": "Cooling aura: Friendly units within {0} sink {1} more heat per turn"
     },
     {
       "Bonus": "MicrowaveTruck",
       "Short": "Heater",
-      "Long": "Burning Aura",
-      "Full": "Enemy units within {0} sink {1} less heat per turn."
+      "Long": "Burning aura",
+      "Full": "Burning aura: Enemy units within {0} sink {1} less heat per turn"
     },
     {
       "Bonus": "EmergencyCoolant",
-      "Short": "Emergency Coolant",
-      "Long": "Emergency Coolant",
-      "Full": "Emergency Coolant: activates automatically, provides {0} additional engine heat sinks."
+      "Short": "Emergency coolant",
+      "Long": "Emergency coolant",
+      "Full": "Emergency coolant: activates automatically, provides {0} additional engine heat sinks"
     },
     {
       "Bonus": "CoolingSystemSHS",
       "Short": "SHS Kit",
       "Long": "SHS Kit",
-      "Full": "Converts the 'Mech to use Single Heat Sinks."
+      "Full": "SHS kit: Converts the 'Mech to use Single Heat Sinks"
     },
     {
       "Bonus": "CoolingSystemLHS",
       "Short": "LHS Kit",
       "Long": "LHS Kit",
-      "Full": "Converts the 'Mech to use Laser Heat Sinks."
+      "Full": "LHS kit: Converts the 'Mech to use Laser Heat Sinks"
     },
     {
       "Bonus": "CoolingSystemDHS",
       "Short": "DHS Kit",
       "Long": "DHS Kit",
-      "Full": "Converts the 'Mech to use Double Heat Sinks."
+      "Full": "DHS kit: Converts the 'Mech to use Double Heat Sinks"
     },
     {
       "Bonus": "CoolingSystemCHS",
       "Short": "CHS Kit",
       "Long": "CHS Kit",
-      "Full": "Converts the 'Mech to use Compact Heat Sinks."
+      "Full": "CHS kit: Converts the 'Mech to use Compact Heat Sinks"
     },
     {
       "Bonus": "CoolingSystemCDHS",
       "Short": "(C)DHS Kit",
       "Long": "(C)DHS Kit",
-      "Full": "Converts the 'Mech to use Clan Double Heat Sinks."
+      "Full": "(C)DHS kit: Converts the 'Mech to use Clan Double Heat Sinks"
     },
     {
       "Bonus": "CoolingSystemProtoDHS",
-      "Short": "Proto DHS",
-      "Long": "Proto DHS",
-      "Full": "Converts the 'Mech to use Prototype Heat Sinks."
+      "Short": "Proto DHS kit",
+      "Long": "Proto DHS kit",
+      "Full": "Proto DHS kit: Converts the 'Mech to use Prototype Heat Sinks"
     },
     {
       "Bonus": "PDHSBOOM",
       "Short": "Volatile",
-      "Long": "Pressurized Coolant",
-      "Full": "PDHS Coolant begins to risk exploding at {0} Heat and must be returned to safe heat level of {1}."
+      "Long": "Pressurized coolant",
+      "Full": "Pressurized coolant: Risk of exploding at {0} heat. Must be returned to safe heat level of {1}"
     },
     {
       "Bonus": "CPBoom",
       "Short": "Volatile",
-      "Long": "Pressurized Coolant",
-      "Full": "Pressurized Coolant can explode for {0} damage and 50% of that as heat and stability damage."
+      "Long": "Pressurized coolant",
+      "Full": "Pressurized coolant: can explode for {0} damage and 50% of that as heat and stability damage"
     },
     {
       "Bonus": "ChangerBoom",
       "Short": "Volatile",
-      "Long": "Pressurized Coolant",
-      "Full": "Pressurized Coolant can explode for {0} heat and 33% of that as damage and stability damage."
+      "Long": "Pressurized coolant",
+      "Full": "Pressurized coolant: can explode for {0} heat and 33% of that as physical and stability damage"
     },
     {
       "Bonus": "BankBoom",
       "Short": "Volatile",
-      "Long": "Pressurized Coolant",
-      "Full": "Pressurized Coolant can explode for {0} heat, damage and stability damage."
+      "Long": "Pressurized coolant",
+      "Full": "Pressurized coolant: can explode for {0} physical, heat, and stability damage"
     },
     {
       "Bonus": "NitroBoom",
       "Short": "Volatile",
       "Long": "PressurizedNitro",
-      "Full": "Pressurized Nitro can explode for {0} heat, damage and stability damage."
+      "Full": "Pressurized Nitro: can explode for {0} physical, heat, and stability damage"
     },
     {
       "Bonus": "HeatPerTurn",
-      "Short": "{0} Heat / Turn",
-      "Long": "{0} Heat / Turn",
-      "Full": "{0} heat per turn."
+      "Short": "{0} heat / turn",
+      "Long": "{0} heat / turn",
+      "Full": "Heat sinking: {0} per turn"
     },
     {
       "Bonus": "EndMoveHeat",
-      "Short": "{0} Heat End Turn",
-      "Long": "{0} Heat End Turn",
-      "Full": "{0} Heat at the end of the Turn."
+      "Short": "{0} EndTurnHeat",
+      "Long": "{0} heat at turn end",
+      "Full": "Heat sinking: {0} at the end of the turn"
     },
     {
       "Bonus": "MoveHeat",
       "Short": "Inc.MoveHeat",
-      "Long": "Increased Movement Heat",
-      "Full": "Heat Increases {0} Walking, {1} Sprinting"
+      "Long": "Increased movement heat",
+      "Full": "Heat increases {0} walking, {1} sprinting"
     },
     {
       "Bonus": "HeatEfficiency",
-      "Short": "{0} HS. Eff",
-      "Long": "{0} Heat Eff",
-      "Full": "{0} efficiency of heat sinks."
+      "Short": "{0} HS. eff",
+      "Long": "{0} heat efficiency",
+      "Full": "Heat sink efficiency: {0}"
     },
     {
       "Bonus": "ActiveHeatEfficiency",
-      "Short": "{0} HS. Eff",
-      "Long": "{0} Heat Eff",
-      "Full": "{0} efficiency of heat sinks when Active."
+      "Short": "{0} HS. effici",
+      "Long": "{0} heat efficiency",
+      "Full": "Heat sink efficiency: {0} when active"
     },
     {
       "Bonus": "LASERHEAT",
-      "Short": "{0} Laser Heat",
-      "Long": "{0} Laser Heat",
-      "Full": "{0} laser heat generation."
+      "Short": "{0} las.heatgen",
+      "Long": "{0} laser heat generation",
+      "Full": "Laser heat generation: {0} "
     },
     {
       "Bonus": "MissilesHeatGenerated",
-      "Short": "{0} Miss. Heat",
-      "Long": "{0} Missile Heat",
-      "Full": "{0} Heat generated by missiles."
+      "Short": "{0} miss. heatgen",
+      "Long": "{0} missile heat generation",
+      "Full": "Missile heat generation: {0}"
     },
     {
       "Bonus": "HeatGenerated",
-      "Short": "{0} Wpn. Heat",
-      "Long": "{0} Weapon Heat Generation",
-      "Full": "{0} heat generated by weapons fire."
+      "Short": "{0} wpn heat",
+      "Long": "{0} weapon heat generation",
+      "Full": "Weapon heat generation: {0}"
     },
     {
       "Bonus": "HeatGeneratedLocation",
-      "Short": "{0} Wpn. Heat",
-      "Long": "{0} Weapon Heat Generation at location",
-      "Full": "{0} heat generated by weapons at the installed location."
+      "Short": "{0} wpn heatgen",
+      "Long": "{0} weapon heat generation at location",
+      "Full": "Weapon heat generation: {0} in mounted location"
     },
     {
       "Bonus": "LaserHeatGenerated",
-      "Short": "{0} Laser.Heat",
-      "Long": "{0} Laser Heat Generation",
-      "Full": "{0} heat generated by lasers."
+      "Short": "{0} las.heatgen",
+      "Long": "{0} laser heat generation",
+      "Full": "Laser heat generation: {0} "
     },
     {
       "Bonus": "LaserHeatGeneratedLocation",
-      "Short": "{0} LocationLaserHeat",
-      "Long": "{0} Location Laser Heat Generation",
-      "Full": "{0} heat generated by lasers at the equipments location."
+      "Short": "{0} loc.las.heat",
+      "Long": "{0} location laser heat generation",
+      "Full": "Laser heat generation: {0} in mounted location"
     },
     {
       "Bonus": "ActiveLaserHeatGenerated",
-      "Short": "{0} Laser.Heat",
-      "Long": "{0} Laser Heat Generation",
-      "Full": "{0} heat generated by lasers."
+      "Short": "{0} las.heatgen",
+      "Long": "{0} laser heat generation",
+      "Full": "Laser heat generation: {0} "
     },
     {
       "Bonus": "EnergyHeatGenerated",
-      "Short": "{0} NRG.Heat",
-      "Long": "{0} Energy Heat Generation",
-      "Full": "{0} heat generated by energy weapons."
+      "Short": "{0} NRG heatgen",
+      "Long": "{0} Energy heat generation",
+      "Full": "Energy weapon heat generation: {0} "
     },
     {
       "Bonus": "AC2HeatGenerated",
-      "Short": "{0} AC2.Heat",
-      "Long": "{0} AC2 Heat Generation",
-      "Full": "{0} heat generated by AC2 fire."
+      "Short": "{0} AC2 heatgen",
+      "Long": "{0} AC2 heat generation",
+      "Full": "AC/2 heat generation: {0} "
     },
     {
       "Bonus": "ACHeatGenerated",
-      "Short": "{0} AC.Heat",
-      "Long": "{0} AC Heat Generation",
-      "Full": "{0} heat generated by AC fire (all types)."
+      "Short": "{0} AC heatgen",
+      "Long": "{0} AC heat generation",
+      "Full": "Autocannon heat generation: {0} "
     },
     {
       "Bonus": "PPCHeatGenerated",
-      "Short": "{0} PPC Heat",
-      "Long": "{0} PPC Heat Generation",
-      "Full": "{0} heat generated by PPC weapons."
+      "Short": "{0} PPC heatgen",
+      "Long": "{0} PPC heat generation",
+      "Full": "PPC heat generation: {0} "
     },
     {
       "Bonus": "MGHeatGenerated",
-      "Short": "{0} MG.Heat",
-      "Long": "{0} MG Heat Generation",
-      "Full": "{0} heat generated by machine gun fire."
+      "Short": "{0} MG heatgen",
+      "Long": "{0} MG heat generation",
+      "Full": "Machine gun heat generation: {0} "
     },
     {
       "Bonus": "HMRMHeatGenerated",
-      "Short": "{0} HMRM Heat",
-      "Long": "{0} HMRM Heat Generation",
-      "Full": "{0} heat generated by HMRM weapons."
+      "Short": "{0} HMRM heatgen",
+      "Long": "{0} HMRM heat generation",
+      "Full": "HMRM heat generation: {0} "
     },
     {
       "Bonus": "NoMovementHeat",
       "Short": "NoMovementHeat",
-      "Long": "No Movement Heat",
-      "Full": "Removes base heat generation for ground movement. Heat can still be generated by special or damaged components."
+      "Long": "No Movement heat",
+      "Full": "Removes base heat generation for ground movement. Heat can still be generated by special or damaged components"
     },
     {
       "Bonus": "CoolingReducedCrit",
-      "Short": "CoolingReducedCrit",
-      "Long": "Cooling Reduced on Crits",
-      "Full": "Each critical strike taken lowers the cooling by {0}"
+      "Short": "Cool.Red.Crit",
+      "Long": "Cooling reduced on crits",
+      "Full": "Damaged cooling: Each critical hit reduces cooling by {0}"
     }
   ]
 }

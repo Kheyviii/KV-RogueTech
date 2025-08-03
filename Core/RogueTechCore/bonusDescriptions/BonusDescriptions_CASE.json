@@ -2,39 +2,39 @@
   "Settings": [
     {
       "Bonus": "CASE",
-      "Short": "C.A.S.E",
-      "Long": "C.A.S.E",
-      "Full": "CASE prevents internal explosions traveling toward the Center Torso."
+      "Short": "CASE",
+      "Long": "CASE",
+      "Full": "CASE prevents internal explosions from traveling toward the center torso"
     },
     {
       "Bonus": "CASEII",
-      "Short": "C.A.S.E II",
-      "Long": "C.A.S.E II",
-      "Full": "CASE II reduces internal explosion damage to only 5 points."
+      "Short": "CASE II",
+      "Long": "CASE II",
+      "Full": "CASE II reduces internal explosion damage to only 5 points"
     },
     {
       "Bonus": "CASED",
-      "Short": "C.A.S.E'd",
-      "Long": "C.A.S.E'd",
-      "Full": "CASE'd actuators reduce internal explosion damage to {0} points."
+      "Short": "CASE'd",
+      "Long": "CASE'd",
+      "Full": "CASE'd actuators reduce internal explosion damage to {0} points"
     },
     {
       "Bonus": "CASEInt",
       "Short": "CASE",
-      "Long": "C.A.S.E.",
-      "Full": "Integrated CASE prevents internal explosions traveling toward the Center Torso. Protects all locations."
+      "Long": "CASE",
+      "Full": "Integrated CASE prevents internal explosions from traveling toward the center torso. Protects all locations"
     },
     {
       "Bonus": "CASE2Int",
       "Short": "CASE2",
-      "Long": "C.A.S.E. II'd",
-      "Full": "Integrated CASE II reduces internal explosion damage to {0} points. Protects all locations."
+      "Long": "CASE II'd",
+      "Full": "Integrated CASE II reduces internal explosion damage to {0} points. Protects all locations"
     },
 	{
       "Bonus": "CASEVENT",
       "Short": "VENT {0} {1}",
       "Long": "VENT {0} {1}",
-      "Full": "CASE prevents internal explosions from dealing more than {0} heat damage and {1} stability damage."
+      "Full": "CASE prevents internal explosions from dealing more than {0} heat damage and {1} stability damage"
     }
   ]
 }

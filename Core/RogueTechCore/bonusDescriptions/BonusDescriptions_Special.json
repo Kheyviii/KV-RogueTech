@@ -4,211 +4,211 @@
       "Bonus": "BlockerWeapon",
       "Short": "Blocks",
       "Long": "Blocks Location",
-      "Full": "Will prevent other weapons in same location from firing. CTRL-RightClick to drop/eject it."
+      "Full": "Will prevent other weapons in same location from firing. CTRL + right-click to drop/eject it"
     },
     {
       "Bonus": "PanicResist",
       "Short": "Confident",
       "Long": "Confident",
-      "Full": "Pilot feels more confident and gets a {0} bonus to Panic rolls."
+      "Full": "Pilot feels more confident and gets a {0} bonus to panic rolls"
     },
     {
       "Bonus": "ModularWeapons",
       "Short": "Modular",
       "Long": "Modular",
-      "Full": "Chassis has OmniSlots."
+      "Full": "Chassis has OmniSlots"
     },
     {
       "Bonus": "HandActuator",
       "Short": "Hand",
       "Long": "Hand",
-      "Full": "Hand Actuators allow equipping Melee Upgrades and HandHeld Weapons."
+      "Full": "Hand actuators allow equipping melee upgrades and hand-held weapons"
     },
     {
       "Bonus": "SpecialistSlotDefault",
       "Short": "Special",
       "Long": "Special",
-      "Full": "Specialist Slots allow equipping Unique Upgrades and Weapons. Requires Free Carry Weight."
+      "Full": "Specialist slots allow equipping unique upgrades and weapons. Requires carry capacity"
     },
     {
       "Bonus": "HandHeld",
-      "Short": "{0}T Hand Held",
-      "Long": "{0}T Hand Held",
-      "Full": "Hand Held Weapon System. Requires Hands. Uses HandHeld slot. Requires {0} Tons Carry Capacity. Blocks (BLK) other weapons in same location until Ejected."
+      "Short": "{0}T Hand-held",
+      "Long": "{0}T Hand-held",
+      "Full": "Hand-held Weapon System. Requires hands. Uses hand-held slot. Requires {0} tons carry Capacity. Blocks (BLK) other weapons in same location until Ejected"
     },
     {
       "Bonus": "BoltOn",
       "Short": "{0}T Bolt On",
       "Long": "{0}T Bolt On",
-      "Full": "Bolt On Weapon Systems are attached to the Chassis and have accuracy Penalties. Uses Special Slot. Requires {0} Tons Carry Capacity."
+      "Full": "Bolt-on Weapon Systems are attached to the chassis and have accuracy penalties. Uses Special Slot. Requires {0} tons carry capacity"
     },
     {
       "Bonus": "HandHeldMeleeWeapon",
       "Short": "{0}T Melee",
       "Long": "{0}T Melee",
-      "Full": "Hand Held Melee Weapon. Requires Hands. Uses HandHeld Slot. Fires during Punch/Physical melee attacks. Requires {0} Tons Carry Capacity."
+      "Full": "Hand-held Melee Weapon. Requires hands. Uses HandHeld slot. Fires during punch/physical weapon melee attacks. Requires {0} tons carry capacity"
     },
     {
       "Bonus": "HandHeldMelee",
       "Short": "{0}T Melee",
       "Long": "{0}T Melee",
-      "Full": "Hand Held Physical Weapon. Requires Hands. Uses HandHeld Slot. Improves Melee Abilities. Requires {0} Tons Carry Capacity."
+      "Full": "Hand-held Physical Weapon. Requires hands. Uses HandHeld slot. Improves melee abilities. Requires {0} tons carry capacity"
     },
     {
       "Bonus": "MechLance",
       "Short": "{0}T Melee",
       "Long": "{0}T Melee",
-      "Full": "Mech Lance. Uses HandHeld Slot. Requires LowerArm. Fires during ALL melee and DFA attacks. Requires {0} Tons Carry Capacity."
+      "Full": "'Mech Lance. Uses HandHeld slot. Requires LowerArm. Fires during ALL melee and DFA attacks. Requires {0} tons carry capacity"
     },
     {
       "Bonus": "HandHeldShield",
       "Short": "{0}T Shield",
       "Long": "{0}T Combat Shield",
-      "Full": "Combat Shield. Uses HandHeld Slot. Requires LowerArm. Requires {0} Tons Carry Capacity."
+      "Full": "Combat Shield. Uses HandHeld slot. Requires LowerArm. Requires {0} tons carry capacity"
     },
     {
       "Bonus": "Special",
       "Short": "Special",
       "Long": "Special",
-      "Full": "Specialist Equipment. Adds Unique Upgrades to the Mech. Uses Special Slot. Requires {0} Carry Capacity."
+      "Full": "Specialist Equipment: Adds unique upgrades to the 'Mech. Uses Specialist slot. Requires {0} tons carry capacity"
     },
     {
       "Bonus": "Quirk",
       "Short": "Quirk",
       "Long": "Quirk",
-      "Full": "This Unit's Quirk."
+      "Full": "This unit's Quirk"
     },
     {
       "Bonus": "WeightedQuirk",
       "Short": "Quirk",
       "Long": "Quirk",
-      "Full": "A Mech's Chassis Specialist effects. Reduces carrying capacity by {0}."
+      "Full": "A 'Mech's Chassis Specialist effects. Reduces carrying capacity by {0}"
     },
     {
       "Bonus": "HandHeldArmored",
-      "Short": "Extra Armor",
-      "Long": "Hand Held Armor",
-      "Full": "Hand Held Weapon are individually Armored and cannot be destroyed."
+      "Short": "Extra armor",
+      "Long": "Hand-held armor",
+      "Full": "Hand-held weapons are individually armored and cannot be destroyed"
     },
     {
       "Bonus": "HandHeldArmor",
-      "Short": "Extra Armor",
-      "Long": "Hand Held Armor",
-      "Full": "Hand Held Weapon adds {0} armor to CT."
+      "Short": "Extra armor",
+      "Long": "Hand-held armor",
+      "Full": "Hand-held weapon adds {0} armor to CT"
     },
     {
       "Bonus": "HandHeldAmmo",
       "Short": "Ammo",
-      "Long": "Hand Held Ammo",
-      "Full": "Hand Held Weapon has {0} shots."
+      "Long": "Hand-held ammo",
+      "Full": "Hand-held weapon has {0} shots"
     },
     {
       "Bonus": "HandHeldAmmoPerMode",
       "Short": "Ammo",
-      "Long": "Hand Held Ammo",
-      "Full": "Hand Held Weapon has {0} shots per firing Mode."
+      "Long": "Hand-held ammo",
+      "Full": "Hand-held weapon has {0} shots per firing mode"
     },
     {
       "Bonus": "CarryWeight",
-      "Short": "{0} Carry",
-      "Long": "{0} Carry",
-      "Full": "Increases Maximum Carry Weight by {0}."
+      "Short": "{0} carry",
+      "Long": "{0} carry",
+      "Full": "Increases maximum carry capacity by {0}"
     },
     {
       "Bonus": "CarryWeightArm",
-      "Short": "{0} Arm Carry",
-      "Long": "{0} Arm Carry",
-      "Full": "Increases maximum carry weight of this arm by {0}."
+      "Short": "{0} Arm carry",
+      "Long": "{0} Arm carry",
+      "Full": "Increases maximum carry capacity of this arm by {0}"
     },
     {
       "Bonus": "CarryCapacityExplain",
       "Short": "CarryCapacity",
       "Long": "CarryCapacity",
-      "Full": "Carrying Capacity is 10% of chassis Weight."
+      "Full": "Carry capacity is 10% of chassis weight"
     },
     {
       "Bonus": "ExperimentalTC",
       "Short": "TC",
       "Long": "Targeting Computer",
-      "Full": "Experimental Targeting Computer: Allows to use Battle Computer Upgrades."
+      "Full": "Experimental Targeting Computer: Allows to use Battle Computer Upgrades"
     },
     {
       "Bonus": "Distracting",
       "Short": "Distracting",
       "Long": "Distracting",
-      "Full": "Distracting units strike fear into their Enemies and lowers resolve gain by {0} in a {1} meter radius; Lime Green Aura."
+      "Full": "Distracting units strike fear into their enemies and lower resolve gain by {0} in a {1} meter radius; Lime Green Aura"
     },
     {
       "Bonus": "Intimidating",
       "Short": "Intimidating",
       "Long": "Intimidating",
-      "Full": "Intimidating units strike fear into their Enemies and makes them {0} more likely to panic in {1} radius; Lime Green Aura."
+      "Full": "Intimidating units strike fear into their enemies and makes them {0} more likely to panic in {1} radius; Lime Green Aura"
     },
     {
       "Bonus": "NightVision",
       "Short": "NightVision",
       "Long": "NightVision",
-      "Full": "Night Vision enables Day time visual Detection range during Night and Dark Conditions."
+      "Full": "Night Vision enables daytime visual detection range during night and dark conditions"
     },
     {
       "Bonus": "AdvancedZoom",
       "Short": "A{0}R{1}Zoom",
       "Long": "A{0}R{1} Advanced Zoom",
-      "Full": "Advanced Zoom: +1 Ranged Accuracy Bonus every {1} meters up to {0}. No bonus beyond {2}m."
+      "Full": "Advanced Zoom: +1 ranged accuracy every {1} meters up to {0}. No bonus beyond {2}m"
     },
     {
       "Bonus": "NewAdvancedZoom",
       "Short": "{0}m Zoom",
       "Long": "{0}m Advanced Zoom",
-      "Full": "Advanced Zoom: provides +1 Ranged Accuracy up to {0} meters."
+      "Full": "Advanced Zoom: +1 ranged accuracy up to {0} meters"
     },
     {
       "Bonus": "VisionGranted",
       "Short": "{0}m Visuals",
       "Long": "{0}m Visuals",
-      "Full": "Enhanced Zoom Processing: negates No Visuals penalty within {0} meters."
+      "Full": "Enhanced Zoom Processing: negates No Visuals penalty within {0} meters"
     },
     {
       "Bonus": "ThermalVision",
       "Short": "A{0}H{1}R{2}Heat",
       "Long": "A{0}H{1}R{2} Thermal Vision",
-      "Full": "Thermal Vision: Ranged Accuracy bonus of {0} for every {1} Target Heat, Decaying every {2} Meters; maximum +5."
+      "Full": "Thermal Vision: ranged accuracy of {0} for every {1} target heat, decaying every {2} meters; maximum +5"
     },
     {
       "Bonus": "LightShieldPassive",
       "Short": "Shield {0},{1},{2}",
       "Long": "Shield {0},{1},{2}",
-      "Full": "Passive Mode: installed arm gains {0} damage reduction and {1} AP damage and TAC reduction. {2} accuracy penalty in protected location."
+      "Full": "Passive Mode: installed arm gains {0} damage reduction and {1} AP damage and TAC reduction. {2} accuracy penalty in protected location"
     },
     {
       "Bonus": "LightShieldActive",
       "Short": "AShield {0},{1},{2}",
       "Long": "Active Shield {0},{1},{2}",
-      "Full": "Active Mode: provides {0} damage reduction and {1} AP damage and TAC reduction to installed arm, adjacent side torso, center torso and head. Grants BULWARK, increasing damage reduction from GUARDED to 20%. Disables weapons in protected locations. Mech cannot run or jump. Disables punching with installed arm. All attacks suffer {2} accuracy penalty."
+      "Full": "Active Mode: provides {0} damage reduction and {1} AP damage and TAC reduction to installed arm, adjacent side torso, center torso and head. Grants BULWARK, increasing damage reduction from GUARDED to 20%. Disables weapons in protected locations. 'Mech cannot run or jump. Disables punching with installed arm. All attacks suffer {2} accuracy penalty"
     },
     {
       "Bonus": "LargeShieldPassive",
       "Short": "Shield {0},{1},{2}",
       "Long": "Large Shield {0},{1},{2}",
-      "Full": "Passive Mode: installed arm and adjacent side torso gain {0} damage reduction and {1} AP damage and TAC reduction. {2} accuracy penalty in protected locations."
+      "Full": "Passive Mode: installed arm and adjacent side torso gain {0} damage reduction and {1} AP damage and TAC reduction. {2} accuracy penalty in protected locations"
     },
     {
       "Bonus": "LargeShieldActive",
       "Short": "Shield {0},{1},{2}",
       "Long": "Active Shield {0},{1},{2}",
-      "Full": "Active Mode: provides {0} damage reduction and {1} AP damage and TAC reduction to installed arm, adjacent side torso, center torso and head. Grants BULWARK, increasing damage reduction from GUARDED to 20%. Disables weapons in protected locations. Mech cannot run. Disables punching with installed arm. All attacks suffer {2} accuracy penalty."
+      "Full": "Active Mode: provides {0} damage reduction and {1} AP damage and TAC reduction to installed arm, adjacent side torso, center torso and head. Grants BULWARK, increasing damage reduction from GUARDED to 20%. Disables weapons in protected locations. 'Mech cannot run. Disables punching with installed arm. All attacks suffer {2} accuracy penalty"
     },
     {
       "Bonus": "TowerShieldPassive",
       "Short": "T.Shield {0},{1},{2}",
       "Long": "Tower Shield {0},{1},{2}",
-      "Full": "Passive Mode: installed arm and adjacent side torso gain {0} damage reduction and immunity to AP damage and TACs. {1} accuracy penalty in protected locations. Walk Distance reduced by {2}."
+      "Full": "Passive Mode: installed arm and adjacent side torso gain {0} damage reduction and immunity to AP damage and TACs. {1} accuracy penalty in protected locations. Walk distance reduced by {2}"
     },
     {
       "Bonus": "TowerShieldActive",
       "Short": "T.Shield {0},{1},{2}",
       "Long": "Active Tower Shield {0},{1},{2}",
-      "Full": "Active Mode: provides {0} damage reduction and immunity to AP damage and TACs, to all locations except opposite arm. Grants BULWARK, increasing damage reduction from GUARDED to 20%. Disables weapons in protected locations. Mech cannot run. Walk Distance reduced by {2}. Disables punching with installed arm. All attacks suffer {1} accuracy penalty."
+      "Full": "Active Mode: provides {0} damage reduction and immunity to AP damage and TACs, to all locations except opposite arm. Grants BULWARK, increasing damage reduction from GUARDED to 20%. Disables weapons in protected locations. 'Mech cannot run. Walk distance reduced by {2}. Disables punching with installed arm. All attacks suffer {1} accuracy penalty"
     }
   ]
 }

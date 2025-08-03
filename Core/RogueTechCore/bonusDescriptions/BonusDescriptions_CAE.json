@@ -4,295 +4,295 @@
       "Bonus": "ActiveSureFoot",
       "Short": "Sure Footing",
       "Long": "Sure Footing",
-      "Full": "Grants ENTRENCHED after walking when Activated."
+      "Full": "Grants ENTRENCHED after walking when activated"
     },
     {
       "Bonus": "ActiveBulwark",
       "Short": "Bulwark",
       "Long": "Grants Bulwark",
-      "Full": "Grants BULWARK, increasing damage reduction from GUARDED to 20% when Activated."
+      "Full": "Grants BULWARK, increasing damage reduction from GUARDED to 20% when activated"
     },
     {
       "Bonus": "Activatable",
       "Short": "Activatable",
       "Long": "Activatable",
-      "Full": "Use Components Menu to Toggle Item."
+      "Full": "Use Components Menu to toggle item"
     },
     {
       "Bonus": "ActivatableNI",
       "Short": "Activatable (NI)",
-      "Long": "Activatable (Requires Neural Implants)",
-      "Full": "Use Components Menu to Toggle Item. All activatable bonuses apply only if pilot has Neural Implants."
+      "Long": "Activatable (requires Neural Implants)",
+      "Full": "Use Components Menu to toggle item. Activatable bonuses only apply if the pilot has Neural Implants"
     },
     {
       "Bonus": "ActivatableUses",
-      "Short": "{0} Uses",
-      "Long": "{0} Uses",
-      "Full": "Item has {0} uses."
+      "Short": "{0} uses",
+      "Long": "{0} uses",
+      "Full": "Item has {0} uses"
     },
     {
       "Bonus": "ActivatableDuration",
-      "Short": "{0} Turns",
-      "Long": "{0} Turns",
-      "Full": "Item has {0} Turns duration."
+      "Short": "{0} turns",
+      "Long": "{0} turns",
+      "Full": "Item has {0} turns duration"
     },
     {
       "Bonus": "ActivatableDurationNoStack",
-      "Short": "{0} Turns",
-      "Long": "{0} Turns (no stacking)",
-      "Full": "Effect lasts {0} turn(s). Does not stack."
+      "Short": "{0} turns",
+      "Long": "{0} turns (no stacking)",
+      "Full": "Effect lasts {0} turn(s). Does not stack"
     },
     {
       "Bonus": "AlwaysActive",
-      "Short": "Always Active",
-      "Long": "Always Active",
-      "Full": "Item is always Active and cannot be deactivated manually."
+      "Short": "Always active",
+      "Long": "Always active",
+      "Full": "Item is always active and cannot be deactivated manually"
     },
     {
       "Bonus": "ActivateHeatLevel",
-      "Short": "{0} Heat Activated",
-      "Long": "{0} Heat Activated",
-      "Full": "Activates when above {0} heat."
+      "Short": "{0} heat activated",
+      "Long": "{0} heat activated",
+      "Full": "Activates when above {0} heat"
     },
     {
       "Bonus": "DeActivateHeatLevel",
-      "Short": "{0} Heat Deactivated",
-      "Long": "{0} Heat Deactivated",
-      "Full": "Deactivates when below {0} heat."
+      "Short": "{0} heat deactivated",
+      "Long": "{0} heat deactivated",
+      "Full": "Deactivates when below {0} heat"
     },
     {
       "Bonus": "ActivateHeatDamage",
       "Short": "Act.{0}HeatDmg",
       "Long": "Act.{0}HeatDmg",
-      "Full": "Activates when {0} Heat Damage taken."
+      "Full": "Activates when {0} heat damage taken"
     },
     {
       "Bonus": "FailChance",
-      "Short": "{0} Failure",
-      "Long": "{0} Failure Chance",
-      "Full": "{0} base failure chance on activation and each turn until deactivated."
+      "Short": "{0} failure",
+      "Long": "{0} failure chance",
+      "Full": "{0} base failure chance on activation and each turn until deactivated"
     },
     {
       "Bonus": "FailChanceN",
-      "Short": "{0} Failure({1})",
-      "Long": "{0} Failure Chance R{1}",
-      "Full": "{0} base failure chance starting on round {1} of consecutive operation."
+      "Short": "{0} failure({1})",
+      "Long": "{0} failure chance R{1}",
+      "Full": "{0} base failure chance starting on round {1} of consecutive operation"
     },
     {
       "Bonus": "FailChanceTurn",
-      "Short": "{0} TurnFail.",
-      "Long": "{0} Turn Failure Chance",
-      "Full": "{0} additional failure chance on consecutive turns."
+      "Short": "{0} TurnFail",
+      "Long": "{0} turn failure chance",
+      "Full": "{0} additional failure chance on consecutive turns"
     },
     {
       "Bonus": "FailStruct",
-      "Short": "{0} Dmg.Fail.",
-      "Long": "{0} Failure Str.Dmg.",
-      "Full": "{0} structure damage to location on failure."
+      "Short": "{0} DMGFail",
+      "Long": "{0} failure Str.DMG",
+      "Full": "{0} structure damage to location on failure"
     },
     {
       "Bonus": "FailLocation",
-      "Short": "{0} Loc.Fail.",
-      "Long": "{0} Failure Loc.",
-      "Full": "{0} receives failure penalty."
+      "Short": "{0} LocFail",
+      "Long": "{0} failure loc",
+      "Full": "{0} receives failure penalty"
     },
     {
       "Bonus": "FailCritLoc",
-      "Short": "Crit.Fail.",
-      "Long": "Failure Crit",
-      "Full": "Deals critical hit to location on failure."
+      "Short": "CritFail",
+      "Long": "Failure crit",
+      "Full": "Deals critical hit to location on failure"
     },
     {
       "Bonus": "FailCritCompLoc",
-      "Short": "Crit.Cmp.",
-      "Long": "Fail Component Crit",
-      "Full": "Deals critical hit to a component at same location on failure. Can hit itself."
+      "Short": "CritCmp",
+      "Long": "Fail component crit",
+      "Full": "Deals a critical hit to a component in the same location on failure. Can hit itself"
     },
     {
       "Bonus": "FailReducPilot",
-      "Short": "Fail Reduc.",
-      "Long": "Failure Reduction",
-      "Full": "Chance of failure is reduced by 2% per Piloting skill."
+      "Short": "Fail reduc",
+      "Long": "Failure reduction",
+      "Full": "Chance of failure is reduced by 2% per Piloting skill"
     },
     {
       "Bonus": "FailReducPilotChance",
-      "Short": "Fail Reduc.",
-      "Long": "Failure Reduction",
-      "Full": "Chance of failure is reduced by {0}% per Piloting skill."
+      "Short": "Fail reduc",
+      "Long": "Failure reduction",
+      "Full": "Chance of failure is reduced by {0}% per Piloting skill"
     },
     {
       "Bonus": "FailCritSelf",
-      "Short": "Crit.Fail.",
-      "Long": "Failure Crit",
-      "Full": "Deals critical hit to self on failure."
+      "Short": "CritSelf",
+      "Long": "Failure crit",
+      "Full": "Deals critical hit to self on failure"
     },
     {
       "Bonus": "FailCritEngine",
-      "Short": "Crit.Fail.",
-      "Long": "Failure Crit",
-      "Full": "Deals critical hit to Engine on failure."
+      "Short": "CritEng",
+      "Long": "Failure crit",
+      "Full": "Deals critical hit to the engine on failure"
     },
     {
       "Bonus": "FailInjury",
       "Short": "Fail. Injury",
-      "Long": "Failure Injury",
-      "Full": "Injures Pilot on failure."
+      "Long": "Failure injury",
+      "Full": "Injures pilot on failure"
     },
     {
       "Bonus": "ActiveMoveMod",
-      "Short": "{0} Move",
-      "Long": "{0} Move Multi",
-      "Full": "{0} Movement Multiplier when active."
+      "Short": "{0} move",
+      "Long": "{0} move multi",
+      "Full": "{0} movement multiplier when active"
     },
     {
       "Bonus": "ActiveRunMod",
-      "Short": "{0} Run",
-      "Long": "{0} Run Multi",
-      "Full": "{0} Run Multiplier when active."
+      "Short": "{0} run",
+      "Long": "{0} run multi",
+      "Full": "{0} run multiplier when active"
     },
     {
       "Bonus": "ActiveWalkSpeed",
       "Short": "{0} WalkDist",
-      "Long": "{0} Walk Distance",
-      "Full": "{0} walk distance when active."
+      "Long": "{0} walk distance",
+      "Full": "{0} walk distance when active"
     },
     {
       "Bonus": "ActivatedRunSpeed",
-      "Short": "{0} SprintDist.",
-      "Long": "{0} Sprint Distance",
-      "Full": "{0} sprint distance when active."
+      "Short": "{0} SprintDist",
+      "Long": "{0} sprint distance",
+      "Full": "{0} sprint distance when active"
     },
     {
       "Bonus": "ActiveJumpDistance",
       "Short": "{0} JumpDist",
-      "Long": "{0} Jump Distance",
-      "Full": "{0} jump distance when active."
+      "Long": "{0} jump distance",
+      "Full": "{0} jump distance when active"
     },
     {
       "Bonus": "ActiveHeatPerTurn",
-      "Short": "{0} Heat / Turn",
-      "Long": "{0} Heat / Turn",
-      "Full": "{0} heat per turn when active."
+      "Short": "{0} heat / turn",
+      "Long": "{0} heat / turn",
+      "Full": "{0} heat per turn when active"
     },
     {
       "Bonus": "ActiveMelee",
-      "Short": "{0} MeleeDmg",
-      "Long": "{0} Melee Damage",
-      "Full": "{0} melee damage when active."
+      "Short": "{0} MeleeDMG",
+      "Long": "{0} melee damage",
+      "Full": "{0} melee damage when active"
     },
     {
       "Bonus": "ActiveMeleeStab",
-      "Short": "{0} MeleeStab.Dmg",
-      "Long": "{0} Melee Stab. Damage",
-      "Full": "{0} melee stability damage when active."
+      "Short": "{0} MeleeStab.DMG",
+      "Long": "{0} melee stab. damage",
+      "Full": "{0} melee stability damage when active"
     },
     {
       "Bonus": "UndeadMelee",
-      "Short": "{0} UndeadMeleeDmg",
-      "Long": "{0} UndeadMelee Damage",
-      "Full": "{0} melee damage when not over heat threshold."
+      "Short": "{0} UndeadMeleeDMG",
+      "Long": "{0} UndeadMelee damage",
+      "Full": "{0} melee damage when not over heat threshold"
     },
     {
       "Bonus": "UndeadMeleeStab",
-      "Short": "{0} UndeadMeleeStab.Dmg",
-      "Long": "{0} UndeadMelee Stab. Damage",
-      "Full": "{0} melee stability damage when not over heat threshold."
+      "Short": "{0} UndeadMeleeStab.DMG",
+      "Long": "{0} UndeadMelee stab. damage",
+      "Full": "{0} melee stability damage when not over heat threshold"
     },
     {
       "Bonus": "UndeadWalkSpeed",
       "Short": "{0} UndeadWalkDist",
-      "Long": "{0} UndeadWalk Distance",
-      "Full": "{0} walk distance when not over heat threshold."
+      "Long": "{0} UndeadWalk distance",
+      "Full": "{0} walk distance when not over heat threshold"
     },
     {
       "Bonus": "UndeadMeleeHot",
-      "Short": "UndeadMeleeDmgHot",
-      "Long": "Undead Melee Damage Hot",
-      "Full": "Reduces melee damage significantly when over heat threshold."
+      "Short": "UndeadMeleeDMGHot",
+      "Long": "Undead melee damage hot",
+      "Full": "Reduces melee damage significantly when over heat threshold"
     },
     {
       "Bonus": "UndeadMeleeStabHot",
-      "Short": "{0} UndeadMeleeStab.DmgHot",
-      "Long": "{0} Undead Melee Stab. Damage Hot",
-      "Full": "Reduces melee stability damage when over heat threshold."
+      "Short": "{0} UndeadMeleeStab.DMGHot",
+      "Long": "{0} Undead melee stab. damage hot",
+      "Full": "Reduces melee stability damage when over heat threshold"
     },
     {
       "Bonus": "UndeadWalkSpeedHot",
       "Short": "UndeadWalkDistHot",
-      "Long": "Undead Walk Distance Hot",
-      "Full": "Walk distance decreased when over heat threshold."
+      "Long": "Undead walk distance hot",
+      "Full": "Walk distance decreased when over heat threshold"
     },
     {
       "Bonus": "ActiveDFA",
-      "Short": "{0} DFA Dmg",
-      "Long": "{0} DFA Damage",
-      "Full": "{0} DFA damage when active."
+      "Short": "{0} DFA DMG",
+      "Long": "{0} DFA damage",
+      "Full": "{0} DFA damage when active"
     },
     {
       "Bonus": "ActiveEnergyProtection",
       "Short": "{0} EnergyRes",
-      "Long": "{0} Energy Resistance",
-      "Full": "{0} resistance against energy based attacks when active."
+      "Long": "{0} energy resistance",
+      "Full": "{0} resistance against energy-based attacks when active"
     },
     {
       "Bonus": "ActiveALLProtection",
       "Short": "{0} DRes",
-      "Long": "{0} Damage Resistance",
-      "Full": "{0} resistance against all Damage when active."
+      "Long": "{0} damage resistance",
+      "Full": "{0} resistance against all damage when active"
     },
     {
       "Bonus": "ActiveSelfJam",
-      "Short": "{0} Jam",
-      "Long": "{0} Jam",
-      "Full": "{0} EM Jamming on Self when active."
+      "Short": "{0} jam",
+      "Long": "{0} jam",
+      "Full": "{0} EM jamming on self when active"
     },
     {
       "Bonus": "ActiveAccuracy",
-      "Short": "{0} Acc",
+      "Short": "{0} ACC",
       "Long": "{0} Accuracy",
-      "Full": "{0} accuracy when active."
+      "Full": "{0} accuracy when active"
     },
     {
       "Bonus": "ActiveLaserAccuracy",
-      "Short": "{0} Acc",
+      "Short": "{0} ACC",
       "Long": "{0} Accuracy",
-      "Full": "{0} Laser accuracy when active."
+      "Full": "{0} Laser accuracy when active"
     },
     {
       "Bonus": "ActivePPCCAPDMG",
-      "Short": "{0} PPC Dmg",
-      "Long": "{0} PPC Damage",
-      "Full": "{0} increased PPC damage when active."
+      "Short": "{0} PPC DMG",
+      "Long": "{0} PPC damage",
+      "Full": "{0} increased PPC damage when active"
     },
     {
       "Bonus": "ActivePPCCAPHEAT",
-      "Short": "{0} PPC Heat",
-      "Long": "{0} PPC Heat",
-      "Full": "{0} PPC heat generation when active."
+      "Short": "{0} PPC heat",
+      "Long": "{0} PPC heat",
+      "Full": "{0} PPC heat generation when active"
     },
     {
       "Bonus": "ActivePilotOverheat",
-      "Short": "OH Injury",
-      "Long": "Overheat Injury",
-      "Full": "Take pilot damage upon overheating, when active."
+      "Short": "OH injury",
+      "Long": "Overheat injury",
+      "Full": "Pilot takes damage upon overheating when active"
     },
     {
       "Bonus": "ActivePilotStructureInjury",
-      "Short": "DNI Injury",
-      "Long": "DNI Injury",
-      "Full": "When active, pilot takes injuries on structure damage taken."
+      "Short": "DNI injury",
+      "Long": "DNI injury",
+      "Full": "Pilot takes injuries on structure damage taken when active"
     },
     {
       "Bonus": "ActiveInitiative",
       "Short": "{0} Ini",
       "Long": "{0} Initiative",
-      "Full": "{0} Initiative when active."
+      "Full": "{0} initiative when active"
     },
     {
       "Bonus": "ActiveEvaMax",
       "Short": "{0} Max.Eva",
       "Long": "{0} Maximum Evasion",
-      "Full": "{0} maximum Evasion pips when active."
+      "Full": "{0} maximum Evasion Pips when active"
     },
     {
       "Bonus": "ActiveEvaPips",
@@ -304,121 +304,121 @@
       "Bonus": "ActiveCalledShot",
       "Short": "{0} Called Shot",
       "Long": "{0} Called Shot",
-      "Full": "Increases Called Shot modifier by {0} when active."
+      "Full": "Increases Called Shot modifier by {0} when active"
     },
     {
       "Bonus": "ActiveSensors",
-      "Short": "{0} Sensors",
-      "Long": "{0} Inc.Sensor Range",
-      "Full": "{0} increased sensor range when active."
+      "Short": "{0} sensors",
+      "Long": "{0} sensor range mod",
+      "Full": "{0} increased sensor range when active"
     },
     {
       "Bonus": "ActiveSight",
-      "Short": "{0} Sight",
-      "Long": "{0} Inc.Sight Range",
-      "Full": "{0} increased sight range when active."
+      "Short": "{0} sight",
+      "Long": "{0} sight range mod",
+      "Full": "{0} increased sight range when active"
     },
     {
       "Bonus": "ActiveHeatGenerated",
       "Short": "{0} WpnHeat",
-      "Long": "{0} Weapon Heat",
-      "Full": "{0} weapon heat generated when active."
+      "Long": "{0} weapon heat",
+      "Full": "{0} weapon heat generated when active"
     },
     {
       "Bonus": "ActiveSkillGunnery",
       "Short": "{0} Gunnery",
       "Long": "{0} Gunnery",
-      "Full": "When Activated, Modifier of {0} to Gunnery: Can raise skills over 10, Max +2 from all sources."
+      "Full": "When activated, modifier of {0} to Gunnery. Can raise skills over 10, max +2 from all sources"
     },
     {
       "Bonus": "ActiveSkillPiloting",
       "Short": "{0} Piloting",
       "Long": "{0} Piloting",
-      "Full": "When Activated, Modifier of {0} to Piloting: Can raise skills over 10, Max +2 from all sources."
+      "Full": "When activated, modifier of {0} to Piloting. Can raise skills over 10, max +2 from all sources"
     },
     {
       "Bonus": "ActiveSkillGuts",
       "Short": "{0} Guts",
       "Long": "{0} Guts",
-      "Full": "When Activated, Modifier of {0} to Guts: Can raise skills over 10, Max +2 from all sources."
+      "Full": "When activated, modifier of {0} to Guts. Can raise skills over 10, max +2 from all sources"
     },
     {
       "Bonus": "ActiveSkillTactics",
       "Short": "{0} Tactics",
       "Long": "{0} Tactics",
-      "Full": "When Activated, Modifier of {0} to Tactics: Can raise skills over 10, Max +2 from all sources."
+      "Full": "When activated, modifier of {0} to Tactics. Can raise skills over 10, max +2 from all sources"
     },
     {
       "Bonus": "ActiveAllSkills",
-      "Short": "{0} Skills",
-      "Long": "{0} Skills",
-      "Full": "When Activated, Modifier of {0} to All Pilot Skills: Can raise skills over 10, Max +2 from all sources."
+      "Short": "{0} skills",
+      "Long": "{0} skills",
+      "Full": "When activated, modifier of {0} to all pilot skills. Can raise skills over 10, max +2 from all sources"
     },
     {
       "Bonus": "ActiveLaserEvasionIgnore",
       "Short": "{0} Ls.Ev.Ignore",
       "Long": "{0} Laser Eva Ignore",
-      "Full": "Provides {0} Evasion pips ignored with Laser Weapons when Activated."
+      "Full": "Provides {0} Evasion Pips ignored with laser weapons when active"
     },
     {
       "Bonus": "LaserEvasionIgnore",
       "Short": "{0} Ls.Ev.Ignore",
       "Long": "{0} Laser Eva Ignore",
-      "Full": "Provides {0} Evasion pips ignored with Laser Weapons."
+      "Full": "Provides {0} Evasion Pips ignored with laser weapons"
     },
     {
       "Bonus": "ActiveAllowsHeadshot",
       "Short": "OP HS",
       "Long": "Offensive Push HS",
-      "Full": "Enables Targeting the Head with Offensive Push when Active."
+      "Full": "Enables targeting the head with Offensive Push when active"
     },
     {
       "Bonus": "ActiveCapBoom",
       "Short": "Volatile",
-      "Long": "Volatile Capacitors",
-      "Full": "High-Energy Capacitors discharge violently for {0} damage when destroyed during activation."
+      "Long": "Volatile capacitors",
+      "Full": "High-energy capacitors discharge violently for {0} damage when destroyed during activation"
     },
     {
       "Bonus": "OnlyBeforeMove",
-      "Short": "Only Before Move",
-      "Long": "Only Before Move",
-      "Full": "Can only be activated before movement."
+      "Short": "Only before move",
+      "Long": "Only before move",
+      "Full": "Can only be activated before movement"
     },
     {
       "Bonus": "ActiveRecoil",
-      "Short": "{0} Recoil",
-      "Long": "{0} Recoil",
+      "Short": "{0} recoil",
+      "Long": "{0} recoil",
       "Full": "{0} recoil with ranged weapons when active"
     },
     {
       "Bonus": "ActiveDamageTaken",
-      "Short": "{0} Dmg.Tkn",
-      "Long": "{0} Damage taken",
+      "Short": "{0} DMGtkn",
+      "Long": "{0} damage taken",
       "Full": "{0} damage taken when active"
     },
     {
       "Bonus": "ActiveHeatDamageTaken",
-      "Short": "{0}HeatDmgTkn",
-      "Long": "{0} Heat Damage Taken",
-      "Full": "{0} heat damage taken when active."
+      "Short": "{0} heatDMGtkn",
+      "Long": "{0} heat damage taken",
+      "Full": "{0} heat damage taken when active"
     },
     {
       "Bonus": "ActiveStabDamageTaken",
-      "Short": "{0} Stab.Dmg.Tkn",
-      "Long": "{0} Stability Damage Taken",
-      "Full": "{0} Stability damage taken when active"
+      "Short": "{0} stabDMGtkn",
+      "Long": "{0} stability damage taken",
+      "Full": "{0} stability damage taken when active"
     },
     {
       "Bonus": "ActiveAAFactorMulti",
-      "Short": "AA Multi {0}",
-      "Long": "AA Factor Mult {0}",
+      "Short": "AA multi {0}",
+      "Long": "AA Factor mult. {0}",
       "Full": "{0} multiplier to Anti-Air Factor of this unit's weapons when active"
     },
     {
       "Bonus": "VariableTargetingQuirk",
-      "Short": "VRangeAcc{0}",
-      "Long": "{0} Acc at variable range",
-      "Full": "Provides a toggleable {0} accuracy bonus at either longer or shorter ranges."
+      "Short": "VRangeACC{0}",
+      "Long": "{0} ACC at variable range",
+      "Full": "Provides a toggleable {0} accuracy bonus at either longer or shorter ranges"
     }
   ]
 }

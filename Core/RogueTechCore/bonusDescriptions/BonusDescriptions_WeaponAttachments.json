@@ -4,43 +4,43 @@
             "Bonus": "WeaponAttachment",
             "Short": "WeaponAttachment{0}",
             "Long": "Compatible with {0}",
-            "Full": "Can be attached to {0}. Maximum of one per weapon, must be at same location."
+            "Full": "Can be attached to {0}. Maximum of one per weapon, must be at same location"
         },
         {
             "Bonus": "WeaponAttachmentAddsModes",
             "Short": "WeaponAttachmentAddsModes",
             "Long": "Adds modes",
-            "Full": "Weapon Attachment will add new firing modes. If attachment is destroyed, the new modes will be removed."
+            "Full": "Adds new firing modes. If attachment is destroyed, new modes will be removed"
         },
         {
             "Bonus": "WeaponAttachmentModifiesModes",
             "Short": "WeaponAttachmentModifiesModes",
             "Long": "Modifies modes",
-            "Full": "Weapon Attachment will modify existing firing modes. If attachment is destroyed, the original modes will be used."
+            "Full": "Modifies existing firing modes. If attachment is destroyed, original modes will be used"
         },
         {
             "Bonus": "WeaponAttachmentWeight",
             "Short": "WeaponAttachmentWeight",
             "Long": "Modifies weapon weight",
-            "Full": "Weapon Attachment will lower the attached weapon's weight by {0}."
+            "Full": "Lowers the attached weapon's weight by {0}"
         },
         {
             "Bonus": "WeaponAttachmentCogwheel",
             "Short": "CogWheel",
-            "Long": "Click Cog-Wheel",
-            "Full": "Click the cog-wheel icon if manual attachments is desired."
+            "Long": "Click cog-wheel",
+            "Full": "Click the cog-wheel for manual attachment"
         },
         {
             "Bonus": "WeaponAttachmentCompatible",
             "Short": "{0}Compatible",
-            "Long": "{0} Attachment Compatible",
-            "Full": "Can be used with {0} weapon attachments."
+            "Long": "{0} attachment compatible",
+            "Full": "Compatible attachment: {0}"
         },
         {
             "Bonus": "RequiresAttachment",
             "Short": "Req.{0}",
-            "Long": "Requires Attachment",
-            "Full": "Requires a weapon with attached {0} Weapon Attachment to be fired."
+            "Long": "Requires attachment",
+            "Full": "Requires {0} weapon attachment to be fired"
         },
         {
             "Bonus": "EnablesFiringMode",
@@ -51,182 +51,170 @@
         {
             "Bonus": "RequiresAmmunition",
             "Short": "RequiresAmmunition",
-            "Long": "Requires {0} Ammunition",
-            "Full": "Requires {0} Ammunition boxes"
+            "Long": "Requires {0} ammo",
+            "Full": "Requires {0} ammunition bins"
         },
         {
             "Bonus": "ApolloMRMMode",
             "Short": "ApolloMRMMode",
             "Long": "Apollo MRM Mode",
-            "Full": "Apollo MRM:<br>  +1 evasion pips ignored when firing in Apollo mode..<br>  +2 accuracy with this weapon when firing in Apollo mode."
+            "Full": "Apollo MRM:<br>  +1 Evasion Pips ignored when firing in Apollo mode.<br>  +2 accuracy with this weapon when firing in Apollo mode"
         },
         {
             "Bonus": "ApolloHMRMMode",
             "Short": "ApolloHMRMMode",
             "Long": "Apollo MHRM Mode",
-            "Full": "Apollo Heavy MRM:<br>  Hits Group toward same location, affected by Grouping modifiers.<br>  +1 chance to Group on hit location when firing in Apollo mode.<br>  -2 damage per missile when firing in Apollo mode."
+            "Full": "Apollo Heavy MRM:<br>  Hits group toward same location, affected by grouping modifiers.<br>  +1 chance to group on hit location when firing in Apollo mode.<br>  -2 damage per missile when firing in Apollo mode"
         },
         {
             "Bonus": "ApolloClanMRMMode",
             "Short": "ApolloClanMRMMode",
             "Long": "Apollo Clan MRM Mode",
-            "Full": "Clan MRM (Hunter-Killer):<br>  +3 evasion pips ignored when firing in Apollo mode.<br>  -1 damage dealt per missile when firing in Apollo mode.<br> -25% to all range brackets when firing in Apollo mode."
+            "Full": "Clan MRM (Hunter-Killer):<br>  +3 Evasion Pips ignored when firing in Apollo mode.<br>  -1 damage dealt per missile when firing in Apollo mode.<br> -25% to all range brackets when firing in Apollo mode"
         },
         {
             "Bonus": "WeaponAttachmentDamageMissile",
-            "Short": "{0} Dmg",
-            "Long": "{0} Weapon Damage in {1}",
-            "Full": "{0} damage per missile when firing with {1} ammunition."
+            "Short": "{0} DMG",
+            "Long": "{0} weapon damage in {1}",
+            "Full": "{0} damage per missile when firing with {1} ammunition"
         },
         {
             "Bonus": "WeaponAttachmentVarianceMissile",
-            "Short": "{0} Var",
-            "Long": "{0} Var Damage in {1}",
-            "Full": "{0} damage variance per missile when firing with {1} ammunition."
+            "Short": "{0} var",
+            "Long": "{0} var damage in {1}",
+            "Full": "{0} damage variance per missile when firing with {1} ammunition"
         },
         {
             "Bonus": "WeaponAttachmentRISC",
-            "Short": "No Var, No Dam",
-            "Long": "No Variance, No Damage",
-            "Full": "RISC MMLs do not get bonus damage or reduced damage variance from this attachment."
+            "Short": "No var, no DMG",
+            "Long": "No variance, no damage",
+            "Full": "RISC MMLs do not get bonus damage or reduced damage variance from this attachment"
         },
         {
             "Bonus": "WeaponAttachmentAccuracy",
-            "Short": "{0} Acc",
-            "Long": "{0} Accuracy",
-            "Full": "{0} accuracy with attached weapon."
+            "Short": "{0} ACC",
+            "Long": "{0} accuracy",
+            "Full": "{0} accuracy with attached weapon"
         },
         {
             "Bonus": "WeaponAttachmentDirectAccuracy",
-            "Short": "{0} Acc",
-            "Long": "{0} Direct",
-            "Full": "{0} Direct Fire accuracy with attached weapon."
+            "Short": "{0} ACC",
+            "Long": "{0} direct",
+            "Full": "{0} direct-fire accuracy with attached weapon"
         },
         {
             "Bonus": "WeaponAttachmentIndirectAccuracy",
-            "Short": "{0} Indir.Acc",
-            "Long": "{0} Indirect Accuracy in {1}",
-            "Full": "{0} indirect accuracy when firing with {1} ammunition."
+            "Short": "{0} Indir.ACC",
+            "Long": "{0} indirect accuracy in {1}",
+            "Full": "{0} indirect accuracy when firing with {1} ammunition"
         },
         {
             "Bonus": "WeaponAttachmentNoIndirectMode",
-            "Short": "No Indirect",
-            "Long": "No Indirect",
-            "Full": "No Indirect Fire in {0} mode."
+            "Short": "No indirect",
+            "Long": "No indirect",
+            "Full": "No indirect fire in {0} mode"
         },
         {
             "Bonus": "WeaponAttachmentStreakMode",
-            "Short": "Streak Enabled",
-            "Long": "Streak Enabled",
-            "Full": "Streak Enabled in {0} mode."
+            "Short": "StreakEnabled",
+            "Long": "Streak enabled",
+            "Full": "Streak enabled in {0} mode"
         },
         {
             "Bonus": "WeaponAttachmentIndirectMode",
             "Short": "Indirect",
             "Long": "Indirect",
-            "Full": "Weapon can fire Indirectly in {0} mode."
+            "Full": "Weapon can fire indirectly in {0} mode"
         },
         {
             "Bonus": "WeaponAttachmentMisfire",
             "Short": "{0}MisfireChance",
-            "Long": "{0} Misfire Chance",
-            "Full": "{0} chance for misfire of attached weapon. Risk mitigated by Gunnery."
+            "Long": "{0} misfire chance",
+            "Full": "{0} chance for misfire of attached weapon. Risk mitigated by Gunnery"
         },
         {
             "Bonus": "WeaponAttachmentJam",
             "Short": "{0}JamChance",
-            "Long": "{0} Jam Chance",
-            "Full": "{0} chance for jam of attached weapon. Risk mitigated by Gunnery."
+            "Long": "{0} jam chance",
+            "Full": "{0} chance for jam of attached weapon. Risk mitigated by Gunnery"
         },
         {
             "Bonus": "WeaponAttachmentJamPerShot",
             "Short": "{0}JamChance",
-            "Long": "{0} Jam Chance per Shot",
-            "Full": "{0} chance for jam per shot of attached weapon. Risk mitigated by Gunnery."
+            "Long": "{0} jam chance per shot",
+            "Full": "{0} chance for jam per shot of attached weapon. Risk mitigated by Gunnery"
         },
         {
             "Bonus": "WeaponAttachmentClustering",
             "Short": "{0} Grouping",
-            "Long": "{0} Grouping",
-            "Full": "{0} chance for hits to Group on the first location hit with this weapon attachment enabled."
+            "Long": "{0} grouping",
+            "Full": "{0} chance for hits to Group on the first location hit with this weapon attachment enabled"
         },
         {
             "Bonus": "WeaponAttachmentEnableCluster",
             "Short": "EnablesGrouping",
             "Long": "Grouping in {0}",
-            "Full": "Enables Grouping when firing with {0} ammunition."
+            "Full": "Enables grouping when firing with {0} ammunition"
         },
         {
             "Bonus": "WeaponAttachmentCritical",
-            "Short": "{0} Crit",
-            "Long": "{0} Crritical",
-            "Full": "{0} critical chance for the attached weapon."
+            "Short": "{0} crit",
+            "Long": "{0} critical",
+            "Full": "{0} critical hit chance for the attached weapon"
         },
         {
             "Bonus": "WeaponAttachmentRangeBrackets",
             "Short": "{0} Range",
             "Long": "{0} Range with {1}",
-            "Full": "{0} to all range brackets when firing with {1} ammunition."
+            "Full": "{0} to all range brackets when firing with {1} ammunition"
         },
         {
             "Bonus": "WeaponAttachmentRecoilReduction",
             "Short": "{0}Recoil{1}",
-            "Long": "{0} Recoil for {1}",
-            "Full": "{0} recoil for {1} type weapons."
+            "Long": "{0} recoil for {1}",
+            "Full": "{0} recoil for {1} type weapons"
         },
         {
             "Bonus": "WeaponAttachmentDisallowedLocations",
             "Short": "NotAllowed{0}",
-            "Long": "Not Allowed in {0}",
-            "Full": "Not allowed in {0}."
+            "Long": "Not allowed in {0}",
+            "Full": "Not allowed in {0}"
         },
         {
             "Bonus": "WeaponAttachmentHeat",
-            "Short": "{0} Heat",
-            "Long": "{0} Heat Generated",
-            "Full": "{0} heat generated by attached weapon."
+            "Short": "{0} heat",
+            "Long": "{0} heat generated",
+            "Full": "{0} heat generated by attached weapon"
         },
         {
             "Bonus": "WeaponAttachmentHeatPerShot",
-            "Short": "{0} Heat/Shot",
-            "Long": "{0} Heat Generated / Shot",
-            "Full": "{0} heat generated per shot by attached weapon."
+            "Short": "{0} heat/shot",
+            "Long": "{0} heat generated / shot",
+            "Full": "{0} heat generated per shot by attached weapon"
         },
         {
             "Bonus": "WeaponAttachmentPipsIgnored",
             "Short": "{0} Pips",
             "Long": "{0} Evasion Pips",
-            "Full": "{0} Evasion pips ignored by attached weapon."
+            "Full": "{0} Evasion Pips ignored by attached weapon"
         },
         {
             "Bonus": "WeaponAttachmentDamage",
-            "Short": "{0}Damage",
-            "Long": "{0} Damage",
-            "Full": "{0} damage by attached weapon."
+            "Short": "{0} DMG",
+            "Long": "{0} damage",
+            "Full": "{0} damage by attached weapon"
         },
         {
             "Bonus": "WeaponAttachmentDamagePerShot",
-            "Short": "{0} Damage/Shot",
-            "Long": "{0} Damage/Shot",
-            "Full": "{0} damage per shot by attached weapon."
-        },
-        {
-            "Bonus": "WeaponAttachmentHeatDamage",
-            "Short": "{0}HeatDamage",
-            "Long": "{0} Heat Damage",
-            "Full": "{0} heat damage by attached weapon."
-        },
-        {
-            "Bonus": "WeaponAttachmentStabilityDamage",
-            "Short": "{0}StabilityDamage",
-            "Long": "{0} Stability Damage",
-            "Full": "{0} stability damage by attached weapon."
+            "Short": "{0} DMG/shot",
+            "Long": "{0} damage/shot",
+            "Full": "{0} damage per shot by attached weapon"
         },
         {
             "Bonus": "WeaponAttachmentShots",
-            "Short": "{0} Shots",
-            "Long": "{0} Shots",
-            "Full": "{0} shots per activation of the attached weapon."
+            "Short": "{0} shots",
+            "Long": "{0} shots",
+            "Full": "{0} shots per activation of the attached weapon"
         }
     ]
 }
