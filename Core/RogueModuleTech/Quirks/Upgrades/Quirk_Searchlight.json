@@ -198,7 +198,7 @@
     "UIName": "Integrated Searchlight",
     "Id": "Quirk_Searchlight",
     "Name": "Searchlight",
-    "Details": "A Searchlight hardwired into the Sensor Array allows your company to easier detect nearby Targets",
+    "Details": "A searchlight hardwired into the sensor array allows your company to detect nearby targets more easily",
     "Icon": "behold"
   },
   "BonusValueA": "",

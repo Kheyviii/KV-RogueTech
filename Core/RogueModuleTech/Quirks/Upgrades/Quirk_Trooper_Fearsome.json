@@ -33,7 +33,7 @@
     "UIName": "Fearsome",
     "Id": "Quirk_Trooper_Fearsome",
     "Name": "Fearsome",
-    "Details": "This unit has a fearsome reputation. Enemies facing it intimidated and lose resolve.",
+    "Details": "This unit has a fearsome reputation. Enemies facing it are intimidated and lose Resolve.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

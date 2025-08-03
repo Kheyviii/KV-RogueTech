@@ -30,7 +30,7 @@
     "UIName": "Accurate Weapon - Ballistics",
     "Id": "Quirk_AccurateWeaponCategory_Ballistics",
     "Name": "Accurate Category - Ballistics",
-    "Details": "This unit features Ballistics mounts of exceptional design and construction which leads to a marked increase in accuracy and reliability for such weapons.",
+    "Details": "This unit features ballistic weapon mounts of exceptional design and construction, which leads to a marked increase in accuracy and reliability for such weapons.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

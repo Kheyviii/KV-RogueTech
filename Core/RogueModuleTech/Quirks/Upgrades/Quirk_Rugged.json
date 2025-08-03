@@ -40,7 +40,7 @@
     "UIName": "Rugged",
     "Id": "Quirk_Rugged",
     "Name": "Rugged",
-    "Details": "This unit's design is well known for its reliably and endurance; as a result, long-term maintenance is much less of a daunting task.",
+    "Details": "This unit's design is well known for its reliably and endurance. As a result, long-term maintenance is much less of a daunting task.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

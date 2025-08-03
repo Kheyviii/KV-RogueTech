@@ -31,8 +31,8 @@
     "Model": "Model AAW",
     "UIName": "Multi Trac",
     "Id": "Quirk_MultiTrack",
-    "Name": "Multi Trac",
-    "Details": "This unit's targeting system received extra care, enabling it to target Multiple Units at once.",
+    "Name": "Multi-Trac",
+    "Details": "This unit's targeting system has received extra care, enabling it to target multiple units at once.",
     "Icon": "uixSvgIcon_action_multitarget"
   },
   "BonusValueA": "",

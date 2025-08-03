@@ -30,7 +30,7 @@
     "UIName": "Protected Actuators",
     "Id": "Quirk_ProtectedActuators",
     "Name": "Protected Actuators",
-    "Details": "This BattleMech's joints and actuators have received extra protection.",
+    "Details": "This unit's joints and actuators have received extra protection.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

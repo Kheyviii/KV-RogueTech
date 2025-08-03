@@ -29,7 +29,7 @@
     "UIName": "Aerial Assault",
     "Id": "Quirk_JumpAttack",
     "Name": "Aerial Assault",
-    "Details": "This unit has a specialized TTS allowing it to easier hit Weak Spots during a Jump maneuver",
+    "Details": "This unit has a specialized TTS allowing it to more easily hit weak spots during a jump maneuver.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",
