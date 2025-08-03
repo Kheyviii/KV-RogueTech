@@ -37,7 +37,7 @@
     "UIName": "Melee Actuators",
     "Id": "Quirk_Melee_Weapon",
     "Name": "Melee Actuators",
-    "Details": "The Actuators on this Mech got special care to improve its Melee abilities.",
+    "Details": "The actuators on this 'Mech have been designed to improve its melee abilities.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

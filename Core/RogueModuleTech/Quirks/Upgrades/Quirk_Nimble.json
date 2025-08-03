@@ -29,7 +29,7 @@
     "UIName": "Nimble",
     "Id": "Quirk_Nimble",
     "Name": "Nimble",
-    "Details": "This unit is extremely Nimble, allowing it to gracefully turn and dodge.",
+    "Details": "This unit is extremely nimble, allowing it to gracefully turn and dodge.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

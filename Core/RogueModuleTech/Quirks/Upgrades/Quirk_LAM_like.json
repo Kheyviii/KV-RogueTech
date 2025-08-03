@@ -31,7 +31,7 @@
     "UIName": "LAM-like",
     "Id": "Quirk_LAM_like",
     "Name": "LAM-like",
-    "Details": "This unit has been reoutfitted with LAM-like capabilities making it have better DFA accuracy, better jumping distance than a normal Marauder and being harder to hit due to its extra mobility, but isn't nor is classified as a true LAM and can't use true LAM equipment.",
+    "Details": "This unit has been retrofitted with LAM-like capabilities, granting it better DFA accuracy and jumping distance than a normal Marauder. It is also harder to hit due to its extra mobility, but isn't classified as a true LAM and can't use true LAM equipment.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

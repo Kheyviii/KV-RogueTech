@@ -33,7 +33,7 @@
     "UIName": "Anti-Air Targeting",
     "Id": "Quirk_AntiAirTargeting",
     "Name": "Anti-Air Targeting",
-    "Details": "This unit has been designed with particular consideration for targeting fast moving targets, especially airborne ones.",
+    "Details": "This unit has been designed with particular consideration for targeting fast-moving targets, especially airborne ones.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

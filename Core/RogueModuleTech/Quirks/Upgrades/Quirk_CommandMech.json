@@ -31,7 +31,7 @@
     "UIName": "Command Mech",
     "Id": "Quirk_CommandMech",
     "Name": "Command Mech",
-    "Details": "This unit is specially designed with an enhanced cockpit equipment to enable the pilot to easily command and control a battleforce.",
+    "Details": "This unit is specially designed with an enhanced cockpit equipment that enable the pilot to easily command and control combat forces.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

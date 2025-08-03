@@ -29,7 +29,7 @@
     "UIName": "Extended Torso Twist",
     "Id": "Quirk_ExtendedTorsoTwist",
     "Name": "Extended Torso Twist",
-    "Details": "This BattleMech has a wide range of motion at the torso joint, allowing it a larger field of fire.",
+    "Details": "This unit has a wide range of motion at the torso joint, allowing it a larger field of fire.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

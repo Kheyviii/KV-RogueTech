@@ -30,7 +30,7 @@
     "UIName": "Juggernaut Aim Assistance System",
     "Id": "Quirk_JuggernautAAS",
     "Name": "Juggernaut",
-    "Details": "The Juggernaut Aim Assistance System was a SLDF project that incorporated a series of micro Battle Computers spread through the 'Mech to improve the targeting of all its weapons.",
+    "Details": "The Juggernaut Aim Assistance System was an SLDF project that incorporated a series of micro Battle Computers spread through the 'Mech to improve the targeting of all its weapons.",
     "Icon": "uixSvgIcon_equipment_Comms"
   },
   "BonusValueA": "",

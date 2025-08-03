@@ -29,7 +29,7 @@
     "UIName": "Accurate Weapon - HandHeld",
     "Id": "Quirk_AccurateWeapon_HandHeld",
     "Name": "Accurate Weapon - HandHeld",
-    "Details": "The BattleMech's Actuators are designed to operate Hand Held Weapons with exceptional grace.",
+    "Details": "The unit's actuators are designed to operate handheld weapons with exceptional grace.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

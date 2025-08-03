@@ -31,7 +31,7 @@
     "UIName": "Battle Fists",
     "Id": "Quirk_BattleFists",
     "Name": "Battle Fists",
-    "Details": "This BattleMech's hand actuators have been specifically designed to for close combat.",
+    "Details": "This unit's hand actuators have been specifically designed to for close combat.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

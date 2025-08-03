@@ -29,7 +29,7 @@
     "UIName": "Reinforced Structure",
     "Id": "Quirk_ReinforcedStructure",
     "Name": "Reinforced Structure",
-    "Details": "This unit's Structure and Armor received specialized reinforcement.",
+    "Details": "This unit's structure and armor have received specialized reinforcement.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

@@ -29,7 +29,7 @@
     "UIName": "360° Torso Twist",
     "Id": "Quirk_ExtremeTorsoTwist",
     "Name": "360 Torso Twist",
-    "Details": "This BattleMech's Torso can turn freely in a complete circle to face any direction.",
+    "Details": "This unit's torso can turn freely in a complete circle to face any direction.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",

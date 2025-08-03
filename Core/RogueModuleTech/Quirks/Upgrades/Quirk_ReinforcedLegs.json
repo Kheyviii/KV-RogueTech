@@ -29,7 +29,7 @@
     "UIName": "Reinforced Legs",
     "Id": "Quirk_ReinforcedLegs",
     "Name": "Reinforced Legs",
-    "Details": "This BattleMech Legs are reinforced and cushioned against High Impact Drops.",
+    "Details": "This unit's legs are reinforced and cushioned against high impact drops.",
     "Icon": "SpecialistSlot"
   },
   "BonusValueA": "",
